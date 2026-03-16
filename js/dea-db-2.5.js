@@ -36,7 +36,7 @@ var dea_fields=[];
 var dea_view=null;
 var dea_view_edit=null;
 var beta_host="research.dwi.ufl.edu/";
-var dea_host="//"+"www.digitalepigraphy.org/legacy/";
+var dea_host="//"+"digitalepigraphy.github.io/legacy/";
 
 var DEA_STATIC=0;
 var DEA_NORMAL=1;
