@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 02:00:22" dpi="40.5" filename="md3sz25r1ne4ibea_01.png" height="849" light_direction="1.0,0.0,0.0" original_date="2014/05/30 15:09:00" original_dpi="162" original_filename="Squ055_01.tif" raw_filename="md3sz25r1ne4ibea_01.tif" size="3434697" width="1801">
+<process argument1="25%" name="raw"></process>
+<process argument1="14" name="cropleft"></process>
+<process argument1="5" name="cropbottom"></process></image>
+<image date="2014/12/31 02:00:22" dpi="40.5" filename="md3sz25r1ne4ibea_02.png" height="849" light_direction="0.0,-1.0,0.0" original_date="2014/06/02 12:21:00" original_dpi="162" original_filename="Squ055_02.tif" raw_filename="md3sz25r1ne4ibea_02.tif" size="3189431" width="1801">
+<process argument1="25%" name="raw"></process>
+<process argument1="11" name="cropleft"></process>
+<process argument1="3" name="croptop"></process>
+<process argument1="2" name="cropbottom"></process></image>
+<image date="2014/12/31 02:00:23" dpi="40.5" filename="md3sz25r1ne4ibea_03.png" height="849" light_direction="0.0,1.0,0.0" original_date="2014/06/02 12:33:00" original_dpi="162" original_filename="Squ055_03.tif" raw_filename="md3sz25r1ne4ibea_03.tif" size="3189464" width="1801">
+<process argument1="25%" name="raw"></process>
+<process argument1="7" name="cropleft"></process>
+<process argument1="5" name="croptop"></process>
+<process argument1="4" name="cropright"></process></image>
+<image date="2014/12/31 02:00:24" dpi="40.5" filename="md3sz25r1ne4ibea_04.png" height="849" light_direction="-1.0,0.0,0.0" original_date="2014/06/02 12:47:00" original_dpi="162" original_filename="Squ055_04.tif" raw_filename="md3sz25r1ne4ibea_04.tif" size="3409126" width="1801">
+<process argument1="25%" name="raw"></process>
+<process argument1="5" name="croptop"></process>
+<process argument1="14" name="cropright"></process></image>
+</object>

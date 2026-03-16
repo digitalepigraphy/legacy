@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:44:56" dpi="40.5" filename="7nihrhsc7txsmtme_01.png" height="827" light_direction="1.0,0.0,0.0" original_date="2014/04/17 11:10:00" original_dpi="162" original_filename="Squ020_01.tif" raw_filename="7nihrhsc7txsmtme_01.tif" size="3141474" width="1693">
+<process argument1="25%" name="raw"></process>
+<process argument1="27" name="cropleft"></process>
+<process argument1="17" name="croptop"></process>
+<process argument1="3" name="cropright"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:44:56" dpi="40.5" filename="7nihrhsc7txsmtme_02.png" height="827" light_direction="0.0,-1.0,0.0" original_date="2014/04/17 11:25:00" original_dpi="162" original_filename="Squ020_02.tif" raw_filename="7nihrhsc7txsmtme_02.tif" size="2960964" width="1693">
+<process argument1="25%" name="raw"></process>
+<process argument1="16" name="cropleft"></process>
+<process argument1="17" name="croptop"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:44:57" dpi="40.5" filename="7nihrhsc7txsmtme_03.png" height="827" light_direction="0.0,1.0,0.0" original_date="2014/04/17 11:40:00" original_dpi="162" original_filename="Squ020_03.tif" raw_filename="7nihrhsc7txsmtme_03.tif" size="2982175" width="1693">
+<process argument1="25%" name="raw"></process>
+<process argument1="16" name="cropright"></process>
+<process argument1="17" name="cropbottom"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:44:53" dpi="40.5" filename="7nihrhsc7txsmtme_04.png" height="827" light_direction="-1.0,0.0,0.0" original_date="2014/04/17 11:55:00" original_dpi="162" original_filename="Squ020_04.tif" raw_filename="7nihrhsc7txsmtme_04.tif" size="3132794" width="1693">
+<process argument1="25%" name="raw"></process>
+<process argument1="9" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="30" name="cropright"></process>
+<process argument1="16" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process></image>
+</object>

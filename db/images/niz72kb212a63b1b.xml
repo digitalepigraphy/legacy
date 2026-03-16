@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 02:01:15" dpi="40.5" filename="niz72kb212a63b1b_01.png" height="843" light_direction="1.0,0.0,0.0" original_date="2014/06/04 12:45:00" original_dpi="162" original_filename="Squ057_01.tif" raw_filename="niz72kb212a63b1b_01.tif" size="3297688" width="1797">
+<process argument1="25%" name="raw"></process>
+<process argument1="13" name="cropleft"></process>
+<process argument1="9" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="10" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 02:01:16" dpi="40.5" filename="niz72kb212a63b1b_02.png" height="843" light_direction="0.0,-1.0,0.0" original_date="2014/06/04 13:52:00" original_dpi="162" original_filename="Squ057_02.tif" raw_filename="niz72kb212a63b1b_02.tif" size="3022224" width="1797">
+<process argument1="25%" name="raw"></process>
+<process argument1="7" name="cropleft"></process>
+<process argument1="10" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="cropright"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 02:01:17" dpi="40.5" filename="niz72kb212a63b1b_03.png" height="843" light_direction="0.0,1.0,0.0" original_date="2014/06/04 15:51:00" original_dpi="162" original_filename="Squ057_03.tif" raw_filename="niz72kb212a63b1b_03.tif" size="3063503" width="1797">
+<process argument1="25%" name="raw"></process>
+<process argument1="8" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="9" name="cropbottom"></process>
+<process argument1="1" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 02:01:13" dpi="40.5" filename="niz72kb212a63b1b_04.png" height="843" light_direction="-1.0,0.0,0.0" original_date="2014/06/04 16:05:00" original_dpi="162" original_filename="Squ057_04.tif" raw_filename="niz72kb212a63b1b_04.tif" size="3317425" width="1797">
+<process argument1="25%" name="raw"></process>
+<process argument1="9" name="cropright"></process>
+<process argument1="10" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process></image>
+</object>

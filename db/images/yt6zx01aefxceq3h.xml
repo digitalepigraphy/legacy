@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:47:56" dpi="40.75" filename="yt6zx01aefxceq3h_01.png" height="828" light_direction="1.0,0.0,0.0" original_date="2014/04/21 16:49:00" original_dpi="163" original_filename="Squ027_01.tif" raw_filename="yt6zx01aefxceq3h_01.tif" size="3178959" width="1683">
+<process argument1="25%" name="raw"></process>
+<process argument1="7" name="cropleft"></process>
+<process argument1="9" name="croptop"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 01:47:57" dpi="40.75" filename="yt6zx01aefxceq3h_02.png" height="828" light_direction="0.0,-1.0,0.0" original_date="2014/04/21 17:04:00" original_dpi="163" original_filename="Squ027_02.tif" raw_filename="yt6zx01aefxceq3h_02.tif" size="2966829" width="1683">
+<process argument1="25%" name="raw"></process>
+<process argument1="11" name="cropleft"></process>
+<process argument1="10" name="croptop"></process>
+<process argument1="2" name="cropright"></process></image>
+<image date="2014/12/31 01:47:58" dpi="40.75" filename="yt6zx01aefxceq3h_03.png" height="828" light_direction="0.0,1.0,0.0" original_date="2014/04/21 17:24:00" original_dpi="163" original_filename="Squ027_03.tif" raw_filename="yt6zx01aefxceq3h_03.tif" size="2986223" width="1683">
+<process argument1="25%" name="raw"></process>
+<process argument1="13" name="cropright"></process>
+<process argument1="10" name="cropbottom"></process></image>
+<image date="2014/12/31 01:47:59" dpi="40.75" filename="yt6zx01aefxceq3h_04.png" height="828" light_direction="-1.0,0.0,0.0" original_date="2014/04/21 17:38:00" original_dpi="163" original_filename="Squ027_04.tif" raw_filename="yt6zx01aefxceq3h_04.tif" size="3134887" width="1683">
+<process argument1="25%" name="raw"></process>
+<process argument1="14" name="cropleft"></process>
+<process argument1="11" name="cropright"></process>
+<process argument1="10" name="cropbottom"></process></image>
+</object>

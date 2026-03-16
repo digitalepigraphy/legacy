@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:35:02" dpi="40.5" filename="47pc8n9gn6gjmeeo_01.png" height="537" light_direction="1.0,0.0,0.0" original_date="2014/04/09 12:32:00" original_dpi="162" original_filename="Squ001_01.tif" raw_filename="47pc8n9gn6gjmeeo_01.tif" size="2331268" width="1966">
+<process argument1="25%" name="raw"></process>
+<process argument1="16" name="cropleft"></process>
+<process argument1="32" name="croptop"></process>
+<process argument1="2" name="cropright"></process>
+<process argument1="7" name="cropleft"></process></image>
+<image date="2014/12/31 01:35:02" dpi="40.5" filename="47pc8n9gn6gjmeeo_02.png" height="537" light_direction="0.0,-1.0,0.0" original_date="2014/04/09 12:51:00" original_dpi="162" original_filename="Squ001_02.tif" raw_filename="47pc8n9gn6gjmeeo_02.tif" size="2219885" width="1966">
+<process argument1="25%" name="raw"></process>
+<process argument1="18" name="cropleft"></process>
+<process argument1="20" name="croptop"></process>
+<process argument1="8" name="cropright"></process>
+<process argument1="12" name="cropbottom"></process>
+<process argument1="7" name="cropleft"></process></image>
+<image date="2014/12/31 01:35:06" dpi="40.5" filename="47pc8n9gn6gjmeeo_03.png" height="537" light_direction="0.0,1.0,0.0" original_date="2014/04/09 13:18:00" original_dpi="162" original_filename="Squ001_03.tif" raw_filename="47pc8n9gn6gjmeeo_03.tif" size="2224447" width="1966">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="24" name="cropright"></process>
+<process argument1="32" name="cropbottom"></process>
+<process argument1="5" name="cropleft"></process>
+<process argument1="2" name="cropright"></process></image>
+<image date="2014/12/31 01:35:07" dpi="40.5" filename="47pc8n9gn6gjmeeo_04.png" height="537" light_direction="-1.0,0.0,0.0" original_date="2014/04/09 14:10:00" original_dpi="162" original_filename="Squ001_04.tif" raw_filename="47pc8n9gn6gjmeeo_04.tif" size="2271088" width="1966">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="21" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="31" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="6" name="cropright"></process></image>
+</object>

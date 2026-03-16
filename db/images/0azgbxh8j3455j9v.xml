@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 02:05:35" dpi="40.25" filename="0azgbxh8j3455j9v_01.png" height="858" light_direction="1.0,0.0,0.0" original_date="2014/06/11 17:33:00" original_dpi="161" original_filename="Squ068_01.tif" raw_filename="0azgbxh8j3455j9v_01.tif" size="3878068" width="1990">
+<process argument1="25%" name="raw"></process>
+<process argument1="12" name="croptop"></process>
+<process argument1="10" name="cropright"></process>
+<process argument1="1" name="croptop"></process></image>
+<image date="2014/12/31 02:05:35" dpi="40.25" filename="0azgbxh8j3455j9v_02.png" height="858" light_direction="0.0,-1.0,0.0" original_date="2014/06/11 17:51:00" original_dpi="161" original_filename="Squ068_02.tif" raw_filename="0azgbxh8j3455j9v_02.tif" size="3661144" width="1990">
+<process argument1="25%" name="raw"></process>
+<process argument1="12" name="croptop"></process>
+<process argument1="10" name="cropright"></process>
+<process argument1="1" name="croptop"></process></image>
+<image date="2014/12/31 02:05:39" dpi="40.25" filename="0azgbxh8j3455j9v_03.png" height="858" light_direction="0.0,1.0,0.0" original_date="2014/06/11 18:05:00" original_dpi="161" original_filename="Squ068_03.tif" raw_filename="0azgbxh8j3455j9v_03.tif" size="3685408" width="1990">
+<process argument1="25%" name="raw"></process>
+<process argument1="9" name="cropleft"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="12" name="cropbottom"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 02:05:36" dpi="40.25" filename="0azgbxh8j3455j9v_04.png" height="858" light_direction="-1.0,0.0,0.0" original_date="2014/06/12 12:11:00" original_dpi="161" original_filename="Squ068_04.tif" raw_filename="0azgbxh8j3455j9v_04.tif" size="3834783" width="1990">
+<process argument1="25%" name="raw"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="10" name="cropright"></process>
+<process argument1="12" name="cropbottom"></process>
+<process argument1="1" name="croptop"></process></image>
+</object>

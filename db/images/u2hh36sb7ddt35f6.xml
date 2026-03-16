@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<object>
+<image date="2015/05/01 00:01:02" dpi="60.0" filename="u2hh36sb7ddt35f6_01.png" height="1218" light_direction="-1.0,0.0,0.0" original_date="2015/04/29 12:01:34" original_dpi="300" original_filename="IG I3 475 1 of 4.png" raw_filename="u2hh36sb7ddt35f6_01.tif" size="2970816" width="1013">
+<process argument1="20%" name="raw"></process>
+<process name="rotate90cw"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process></image>
+<image date="2015/05/01 00:01:03" dpi="60.0" filename="u2hh36sb7ddt35f6_02.png" height="1248" light_direction="1.0,0.0,0.0" original_date="2015/04/29 12:01:40" original_dpi="300" original_filename="IG I3 475 2 of 4.png" raw_filename="u2hh36sb7ddt35f6_02.tif" size="2913193" width="965">
+<process argument1="20%" name="raw"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process></image>
+<image date="2015/05/01 00:01:03" dpi="60.0" filename="u2hh36sb7ddt35f6_03.png" height="1212" light_direction="0.0,1.0,0.0" original_date="2015/04/29 12:01:47" original_dpi="300" original_filename="IG I3 475 3 of 4.png" raw_filename="u2hh36sb7ddt35f6_03.tif" size="2787306" width="971">
+<process argument1="20%" name="raw"></process>
+<process name="rotate90ccw"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process></image>
+<image date="2015/05/01 00:01:04" dpi="60.0" filename="u2hh36sb7ddt35f6_04.png" height="1240" light_direction="0.0,-1.0,0.0" original_date="2015/04/29 12:01:52" original_dpi="300" original_filename="IG I3 475 4 of 4.png" raw_filename="u2hh36sb7ddt35f6_04.tif" size="2802829" width="947">
+<process argument1="20%" name="raw"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process></image>
+</object>

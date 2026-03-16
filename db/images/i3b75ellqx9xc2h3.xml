@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 02:15:56" dpi="40.5" filename="i3b75ellqx9xc2h3_01.png" height="1087" light_direction="1.0,0.0,0.0" original_date="2014/06/25 17:12:00" original_dpi="162" original_filename="Squ087_01.tif" raw_filename="i3b75ellqx9xc2h3_01.tif" size="4185830" width="1673">
+<process argument1="25%" name="raw"></process>
+<process argument1="31" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="31" name="cropright"></process>
+<process argument1="15" name="cropbottom"></process>
+<process argument1="4" name="cropleft"></process>
+<process argument1="18" name="cropleft"></process>
+<process argument1="3" name="croptop"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 02:15:57" dpi="40.5" filename="i3b75ellqx9xc2h3_02.png" height="1087" light_direction="0.0,-1.0,0.0" original_date="2014/06/26 12:24:00" original_dpi="162" original_filename="Squ087_02.tif" raw_filename="i3b75ellqx9xc2h3_02.tif" size="3947091" width="1673">
+<process argument1="25%" name="raw"></process>
+<process argument1="13" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="30" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="34" name="cropright"></process>
+<process argument1="15" name="cropbottom"></process>
+<process argument1="4" name="cropleft"></process>
+<process argument1="18" name="cropleft"></process>
+<process argument1="3" name="croptop"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 02:15:57" dpi="40.5" filename="i3b75ellqx9xc2h3_03.png" height="1087" light_direction="0.0,1.0,0.0" original_date="2014/06/26 12:37:00" original_dpi="162" original_filename="Squ087_03.tif" raw_filename="i3b75ellqx9xc2h3_03.tif" size="3956743" width="1673">
+<process argument1="25%" name="raw"></process>
+<process argument1="27" name="cropleft"></process>
+<process argument1="8" name="croptop"></process>
+<process argument1="34" name="cropleft"></process>
+<process argument1="16" name="cropright"></process>
+<process argument1="9" name="cropbottom"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="18" name="cropleft"></process>
+<process argument1="3" name="croptop"></process>
+<process argument1="4" name="cropright"></process></image>
+<image date="2014/12/31 02:15:59" dpi="40.5" filename="i3b75ellqx9xc2h3_04.png" height="1087" light_direction="-1.0,0.0,0.0" original_date="2014/06/26 13:16:00" original_dpi="162" original_filename="Squ087_04.tif" raw_filename="i3b75ellqx9xc2h3_04.tif" size="4105839" width="1673">
+<process argument1="25%" name="raw"></process>
+<process argument1="89" name="cropleft"></process>
+<process argument1="14" name="croptop"></process>
+<process argument1="3" name="croptop"></process>
+<process argument1="15" name="cropleft"></process>
+<process argument1="2" name="croptop"></process>
+<process argument1="7" name="cropright"></process>
+<process argument1="2" name="cropbottom"></process></image>
+</object>

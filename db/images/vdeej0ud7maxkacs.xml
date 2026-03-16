@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:40:44" dpi="40.5" filename="vdeej0ud7maxkacs_01.png" height="844" light_direction="1.0,0.0,0.0" original_date="2014/04/14 13:00:00" original_dpi="162" original_filename="Squ010_01.tif" raw_filename="vdeej0ud7maxkacs_01.tif" size="3075289" width="1719">
+<process argument1="25%" name="raw"></process>
+<process argument1="17" name="cropleft"></process>
+<process argument1="5" name="croptop"></process>
+<process argument1="4" name="cropright"></process></image>
+<image date="2014/12/31 01:40:44" dpi="40.5" filename="vdeej0ud7maxkacs_02.png" height="844" light_direction="0.0,-1.0,0.0" original_date="2014/04/14 13:25:00" original_dpi="162" original_filename="Squ010_02.tif" raw_filename="vdeej0ud7maxkacs_02.tif" size="2882509" width="1719">
+<process argument1="25%" name="raw"></process>
+<process argument1="38" name="cropleft"></process>
+<process argument1="5" name="croptop"></process>
+<process argument1="4" name="cropright"></process></image>
+<image date="2014/12/31 01:40:45" dpi="40.5" filename="vdeej0ud7maxkacs_03.png" height="844" light_direction="0.0,1.0,0.0" original_date="2014/04/14 13:37:00" original_dpi="162" original_filename="Squ010_03.tif" raw_filename="vdeej0ud7maxkacs_03.tif" size="2885474" width="1719">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="7" name="cropleft"></process>
+<process argument1="2" name="croptop"></process>
+<process argument1="35" name="cropright"></process>
+<process argument1="3" name="cropbottom"></process></image>
+<image date="2014/12/31 01:40:46" dpi="40.5" filename="vdeej0ud7maxkacs_04.png" height="844" light_direction="-1.0,0.0,0.0" original_date="2014/04/14 14:41:00" original_dpi="162" original_filename="Squ010_04.tif" raw_filename="vdeej0ud7maxkacs_04.tif" size="3078632" width="1719">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="5" name="cropbottom"></process></image>
+</object>

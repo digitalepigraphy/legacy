@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:55:12" dpi="40.75" filename="0vucw77rbya0vzeb_01.png" height="956" light_direction="1.0,0.0,0.0" original_date="2014/04/29 15:36:00" original_dpi="163" original_filename="Squ043_01.tif" raw_filename="0vucw77rbya0vzeb_01.tif" size="3670719" width="1694">
+<process argument1="25%" name="raw"></process>
+<process argument1="20" name="cropleft"></process>
+<process argument1="24" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="2" name="cropleft"></process></image>
+<image date="2014/12/31 01:55:12" dpi="40.75" filename="0vucw77rbya0vzeb_02.png" height="956" light_direction="0.0,-1.0,0.0" original_date="2014/04/29 16:38:00" original_dpi="163" original_filename="Squ043_02.tif" raw_filename="0vucw77rbya0vzeb_02.tif" size="3482022" width="1694">
+<process argument1="25%" name="raw"></process>
+<process argument1="21" name="cropleft"></process>
+<process argument1="24" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="2" name="cropleft"></process></image>
+<image date="2014/12/31 01:55:15" dpi="40.75" filename="0vucw77rbya0vzeb_03.png" height="956" light_direction="0.0,1.0,0.0" original_date="2014/04/29 16:51:00" original_dpi="163" original_filename="Squ043_03.tif" raw_filename="0vucw77rbya0vzeb_03.tif" size="3502939" width="1694">
+<process argument1="25%" name="raw"></process>
+<process argument1="10" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="11" name="cropright"></process>
+<process argument1="22" name="cropbottom"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 01:55:10" dpi="40.75" filename="0vucw77rbya0vzeb_04.png" height="956" light_direction="-1.0,0.0,0.0" original_date="2014/04/29 17:06:00" original_dpi="163" original_filename="Squ043_04.tif" raw_filename="0vucw77rbya0vzeb_04.tif" size="3674058" width="1694">
+<process argument1="25%" name="raw"></process>
+<process argument1="13" name="cropright"></process>
+<process argument1="24" name="cropbottom"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="1" name="croptop"></process></image>
+</object>

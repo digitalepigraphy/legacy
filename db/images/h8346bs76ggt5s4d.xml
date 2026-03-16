@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<object>
+<image date="2015/04/29 12:10:03" dpi="60.0" filename="h8346bs76ggt5s4d_01.png" height="1463" light_direction="-1.0,0.0,0.0" original_date="2015/04/29 12:01:34" original_dpi="300" original_filename="IG I3 475 1 of 4.png" raw_filename="h8346bs76ggt5s4d_01.png" size="3074393" width="1001">
+<process argument1="20%" name="raw"></process>
+<process name="rotate90cw"></process>
+<process name="fliph"></process></image>
+<image date="2015/04/29 12:10:04" dpi="60.0" filename="h8346bs76ggt5s4d_02.png" height="1490" light_direction="0.0,1.0,0.0" original_date="2015/04/29 12:01:40" original_dpi="300" original_filename="IG I3 475 2 of 4.png" raw_filename="h8346bs76ggt5s4d_02.png" size="3398980" width="1070">
+<process argument1="20%" name="raw"></process>
+<process name="fliph"></process></image>
+<image date="2015/04/29 12:10:05" dpi="60.0" filename="h8346bs76ggt5s4d_03.png" height="1447" light_direction="1.0,0.0,0.0" original_date="2015/04/29 12:01:47" original_dpi="300" original_filename="IG I3 475 3 of 4.png" raw_filename="h8346bs76ggt5s4d_03.png" size="3036692" width="1003">
+<process argument1="20%" name="raw"></process>
+<process name="rotate90ccw"></process>
+<process name="fliph"></process></image>
+<image date="2015/04/29 12:10:06" dpi="60.0" filename="h8346bs76ggt5s4d_04.png" height="1471" light_direction="0.0,-1.0,0.0" original_date="2015/04/29 12:01:52" original_dpi="300" original_filename="IG I3 475 4 of 4.png" raw_filename="h8346bs76ggt5s4d_04.png" size="3255723" width="1067">
+<process argument1="20%" name="raw"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process></image>
+</object>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:57:13" dpi="40.75" filename="p29d0y9rtwpkjlkm_01.png" height="868" light_direction="1.0,0.0,0.0" original_date="2014/04/30 16:45:00" original_dpi="163" original_filename="Squ047_01.tif" raw_filename="p29d0y9rtwpkjlkm_01.tif" size="3302697" width="1734">
+<process argument1="25%" name="raw"></process>
+<process argument1="3" name="cropleft"></process>
+<process argument1="19" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:57:14" dpi="40.75" filename="p29d0y9rtwpkjlkm_02.png" height="868" light_direction="0.0,-1.0,0.0" original_date="2014/04/30 17:00:00" original_dpi="163" original_filename="Squ047_02.tif" raw_filename="p29d0y9rtwpkjlkm_02.tif" size="3110214" width="1734">
+<process argument1="25%" name="raw"></process>
+<process argument1="25" name="cropleft"></process>
+<process argument1="19" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="17" name="cropright"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:57:12" dpi="40.75" filename="p29d0y9rtwpkjlkm_03.png" height="868" light_direction="0.0,1.0,0.0" original_date="2014/04/30 17:15:00" original_dpi="163" original_filename="Squ047_03.tif" raw_filename="p29d0y9rtwpkjlkm_03.tif" size="3128116" width="1734">
+<process argument1="25%" name="raw"></process>
+<process argument1="19" name="cropleft"></process>
+<process argument1="2" name="croptop"></process>
+<process argument1="24" name="cropright"></process>
+<process argument1="17" name="cropbottom"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="1" name="croptop"></process></image>
+<image date="2014/12/31 01:57:15" dpi="40.75" filename="p29d0y9rtwpkjlkm_04.png" height="868" light_direction="-1.0,0.0,0.0" original_date="2014/04/30 17:34:00" original_dpi="163" original_filename="Squ047_04.tif" raw_filename="p29d0y9rtwpkjlkm_04.tif" size="3295676" width="1734">
+<process argument1="25%" name="raw"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="39" name="cropright"></process>
+<process argument1="19" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropright"></process></image>
+</object>

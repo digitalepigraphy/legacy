@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:36:31" dpi="40.5" filename="e6tvm4lffmlc7f9k_01.png" height="795" light_direction="1.0,0.0,0.0" original_date="2014/04/09 14:31:00" original_dpi="162" original_filename="Squ003_01.tif" raw_filename="e6tvm4lffmlc7f9k_01.tif" size="3161398" width="1738">
+<process argument1="25%" name="raw"></process>
+<process argument1="8" name="cropleft"></process>
+<process argument1="12" name="croptop"></process>
+<process argument1="21" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process>
+<process argument1="1" name="croptop"></process></image>
+<image date="2014/12/31 01:36:34" dpi="40.5" filename="e6tvm4lffmlc7f9k_02.png" height="795" light_direction="0.0,-1.0,0.0" original_date="2014/04/09 15:44:00" original_dpi="162" original_filename="Squ003_02.tif" raw_filename="e6tvm4lffmlc7f9k_02.tif" size="3017730" width="1738">
+<process argument1="25%" name="raw"></process>
+<process argument1="14" name="cropleft"></process>
+<process argument1="12" name="croptop"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 01:36:32" dpi="40.5" filename="e6tvm4lffmlc7f9k_03.png" height="795" light_direction="0.0,1.0,0.0" original_date="2014/04/09 15:56:00" original_dpi="162" original_filename="Squ003_03.tif" raw_filename="e6tvm4lffmlc7f9k_03.tif" size="3045275" width="1738">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="4" name="cropleft"></process>
+<process argument1="10" name="cropright"></process>
+<process argument1="13" name="cropbottom"></process>
+<process argument1="1" name="croptop"></process></image>
+<image date="2014/12/31 01:36:35" dpi="40.5" filename="e6tvm4lffmlc7f9k_04.png" height="795" light_direction="-1.0,0.0,0.0" original_date="2014/04/09 16:19:00" original_dpi="162" original_filename="Squ003_04.tif" raw_filename="e6tvm4lffmlc7f9k_04.tif" size="3146562" width="1738">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="8" name="cropright"></process>
+<process argument1="12" name="cropbottom"></process>
+<process argument1="1" name="cropbottom"></process></image>
+</object>

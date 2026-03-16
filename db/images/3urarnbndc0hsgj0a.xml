@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:39:36" dpi="40.5" filename="3urarnbndc0hsgj0a_01.png" height="912" light_direction="1.0,0.0,0.0" original_date="2014/04/18 12:43:00" original_dpi="162" original_filename="Squ008a_01.tif" raw_filename="3urarnbndc0hsgj0a_01.tif" size="3752167" width="1894">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="31" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process>
+<process argument1="48" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="25" name="cropright"></process></image>
+<image date="2014/12/31 01:39:37" dpi="40.5" filename="3urarnbndc0hsgj0a_02.png" height="912" light_direction="0.0,-1.0,0.0" original_date="2014/04/18 12:56:00" original_dpi="162" original_filename="Squ008a_02.tif" raw_filename="3urarnbndc0hsgj0a_02.tif" size="3547135" width="1894">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="31" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process>
+<process argument1="48" name="cropleft"></process>
+<process argument1="27" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process></image>
+<image date="2014/12/31 01:39:34" dpi="40.5" filename="3urarnbndc0hsgj0a_03.png" height="912" light_direction="0.0,1.0,0.0" original_date="2014/04/18 14:18:00" original_dpi="162" original_filename="Squ008a_03.tif" raw_filename="3urarnbndc0hsgj0a_03.tif" size="3582317" width="1894">
+<process argument1="25%" name="raw"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="30" name="cropright"></process>
+<process argument1="48" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="27" name="cropleft"></process></image>
+<image date="2014/12/31 01:39:38" dpi="40.5" filename="3urarnbndc0hsgj0a_04.png" height="912" light_direction="-1.0,0.0,0.0" original_date="2014/04/18 14:36:00" original_dpi="162" original_filename="Squ008a_04.tif" raw_filename="3urarnbndc0hsgj0a_04.tif" size="3738096" width="1894">
+<process argument1="25%" name="raw"></process>
+<process argument1="31" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="68" name="cropleft"></process>
+<process argument1="7" name="cropright"></process></image>
+</object>

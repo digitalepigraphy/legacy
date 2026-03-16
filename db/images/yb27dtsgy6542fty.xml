@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<object>
+<image date="2015/05/29 02:45:13" dpi="120.0" filename="yb27dtsgy6542fty_01.png" height="935" light_direction="0.0,-1.0,0.0" original_date="2015/04/29 12:01:34" original_dpi="600" original_filename="IG I3 475 1 of 4.png" raw_filename="yb27dtsgy6542fty_01.tif" size="2897711" width="1463">
+<process argument1="20%" name="raw"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process></image>
+<image date="2015/05/29 02:45:14" dpi="120.0" filename="yb27dtsgy6542fty_02.png" height="898" light_direction="0.0,1.0,0.0" original_date="2015/04/29 12:01:40" original_dpi="600" original_filename="IG I3 475 2 of 4.png" raw_filename="yb27dtsgy6542fty_02.tif" size="2728573" width="1463">
+<process argument1="20%" name="raw"></process>
+<process name="rotate180"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process></image>
+<image date="2015/05/29 02:45:14" dpi="120.0" filename="yb27dtsgy6542fty_03.png" height="898" light_direction="1.0,0.0,0.0" original_date="2015/04/29 12:01:47" original_dpi="600" original_filename="IG I3 475 3 of 4.png" raw_filename="yb27dtsgy6542fty_03.tif" size="2826772" width="1493">
+<process argument1="20%" name="raw"></process>
+<process name="rotate90ccw"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process></image>
+<image date="2015/05/29 02:45:15" dpi="120.0" filename="yb27dtsgy6542fty_04.png" height="923" light_direction="-1.0,0.0,0.0" original_date="2015/04/29 12:01:52" original_dpi="600" original_filename="IG I3 475 4 of 4.png" raw_filename="yb27dtsgy6542fty_04.tif" size="3013664" width="1573">
+<process argument1="20%" name="raw"></process>
+<process name="rotate90cw"></process>
+<process name="fliph"></process>
+<process name="rotate180"></process></image>
+</object>

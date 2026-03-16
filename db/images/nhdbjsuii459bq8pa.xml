@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 02:17:27" dpi="40.5" filename="nhdbjsuii459bq8pa_01.png" height="974" light_direction="1.0,0.0,0.0" original_date="2014/06/27 14:59:00" original_dpi="162" original_filename="Squ090a_01.tif" raw_filename="nhdbjsuii459bq8pa_01.tif" size="3699557" width="1710">
+<process argument1="25%" name="raw"></process>
+<process argument1="81" name="cropleft"></process>
+<process argument1="36" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="4" name="croptop"></process>
+<process argument1="39" name="cropright"></process></image>
+<image date="2014/12/31 02:17:28" dpi="40.5" filename="nhdbjsuii459bq8pa_02.png" height="974" light_direction="0.0,-1.0,0.0" original_date="2014/06/27 15:33:00" original_dpi="162" original_filename="Squ090a_02.tif" raw_filename="nhdbjsuii459bq8pa_02.tif" size="3511526" width="1710">
+<process argument1="25%" name="raw"></process>
+<process argument1="172" name="cropleft"></process>
+<process argument1="36" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="2" name="cropright"></process>
+<process argument1="4" name="croptop"></process>
+<process argument1="39" name="cropright"></process></image>
+<image date="2014/12/31 02:17:29" dpi="40.5" filename="nhdbjsuii459bq8pa_03.png" height="974" light_direction="0.0,1.0,0.0" original_date="2014/06/27 17:41:00" original_dpi="162" original_filename="Squ090a_03.tif" raw_filename="nhdbjsuii459bq8pa_03.tif" size="3535195" width="1710">
+<process argument1="25%" name="raw"></process>
+<process argument1="80" name="cropleft"></process>
+<process argument1="3" name="croptop"></process>
+<process argument1="21" name="cropright"></process>
+<process argument1="33" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="2" name="croptop"></process>
+<process argument1="38" name="cropright"></process>
+<process argument1="2" name="cropbottom"></process></image>
+<image date="2014/12/31 02:17:25" dpi="40.5" filename="nhdbjsuii459bq8pa_04.png" height="974" light_direction="-1.0,0.0,0.0" original_date="2014/06/27 17:55:00" original_dpi="162" original_filename="Squ090a_04.tif" raw_filename="nhdbjsuii459bq8pa_04.tif" size="3738702" width="1710">
+<process argument1="25%" name="raw"></process>
+<process argument1="4" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="133" name="cropright"></process>
+<process argument1="32" name="cropbottom"></process>
+<process argument1="38" name="cropleft"></process>
+<process argument1="4" name="croptop"></process>
+<process argument1="1" name="cropleft"></process></image>
+</object>

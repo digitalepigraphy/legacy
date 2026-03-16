@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:43:22" dpi="40.5" filename="wefvqgtmu7txqd0x_01.png" height="827" light_direction="1.0,0.0,0.0" original_date="2014/04/16 12:21:00" original_dpi="162" original_filename="Squ016_01.tif" raw_filename="wefvqgtmu7txqd0x_01.tif" size="3150038" width="1735">
+<process argument1="25%" name="raw"></process>
+<process argument1="45" name="cropleft"></process>
+<process argument1="16" name="croptop"></process>
+<process argument1="40" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:43:20" dpi="40.5" filename="wefvqgtmu7txqd0x_02.png" height="827" light_direction="0.0,-1.0,0.0" original_date="2014/04/16 12:43:00" original_dpi="162" original_filename="Squ016_02.tif" raw_filename="wefvqgtmu7txqd0x_02.tif" size="3002014" width="1735">
+<process argument1="25%" name="raw"></process>
+<process argument1="17" name="croptop"></process>
+<process argument1="1" name="cropright"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="1" name="cropleft"></process></image>
+<image date="2014/12/31 01:43:23" dpi="40.5" filename="wefvqgtmu7txqd0x_03.png" height="827" light_direction="0.0,1.0,0.0" original_date="2014/04/16 13:29:00" original_dpi="162" original_filename="Squ016_03.tif" raw_filename="wefvqgtmu7txqd0x_03.tif" size="3021933" width="1735">
+<process argument1="25%" name="raw"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="17" name="cropbottom"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:43:23" dpi="40.5" filename="wefvqgtmu7txqd0x_04.png" height="827" light_direction="-1.0,0.0,0.0" original_date="2014/04/16 14:08:00" original_dpi="162" original_filename="Squ016_04.tif" raw_filename="wefvqgtmu7txqd0x_04.tif" size="3158787" width="1735">
+<process argument1="25%" name="raw"></process>
+<process argument1="21" name="cropleft"></process>
+<process argument1="2" name="croptop"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="18" name="cropright"></process>
+<process argument1="15" name="cropbottom"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="1" name="cropright"></process></image>
+</object>

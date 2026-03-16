@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:42:22" dpi="40.5" filename="u2am7v5uy35grm4a_01.png" height="848" light_direction="1.0,0.0,0.0" original_date="2014/04/15 16:39:00" original_dpi="162" original_filename="Squ014_01.tif" raw_filename="u2am7v5uy35grm4a_01.tif" size="3168887" width="1695">
+<process argument1="25%" name="raw"></process>
+<process argument1="2" name="cropbottom"></process></image>
+<image date="2014/12/31 01:42:23" dpi="40.5" filename="u2am7v5uy35grm4a_02.png" height="848" light_direction="0.0,-1.0,0.0" original_date="2014/04/15 17:07:00" original_dpi="162" original_filename="Squ014_02.tif" raw_filename="u2am7v5uy35grm4a_02.tif" size="2958276" width="1695">
+<process argument1="25%" name="raw"></process>
+<process argument1="16" name="cropleft"></process>
+<process argument1="8" name="cropright"></process>
+<process argument1="2" name="cropbottom"></process></image>
+<image date="2014/12/31 01:42:24" dpi="40.5" filename="u2am7v5uy35grm4a_03.png" height="848" light_direction="0.0,1.0,0.0" original_date="2014/04/15 17:19:00" original_dpi="162" original_filename="Squ014_03.tif" raw_filename="u2am7v5uy35grm4a_03.tif" size="2976253" width="1695">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="5" name="cropleft"></process>
+<process argument1="2" name="croptop"></process>
+<process argument1="19" name="cropright"></process></image>
+<image date="2014/12/31 01:42:25" dpi="40.5" filename="u2am7v5uy35grm4a_04.png" height="848" light_direction="-1.0,0.0,0.0" original_date="2014/04/15 17:43:00" original_dpi="162" original_filename="Squ014_04.tif" raw_filename="u2am7v5uy35grm4a_04.tif" size="3159412" width="1695">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="11" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="18" name="cropright"></process>
+<process argument1="1" name="cropbottom"></process></image>
+</object>

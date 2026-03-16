@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 02:04:42" dpi="40.25" filename="n32679i41ml2ghme_01.png" height="847" light_direction="1.0,0.0,0.0" original_date="2014/06/11 12:31:00" original_dpi="161" original_filename="Squ066_01.tif" raw_filename="n32679i41ml2ghme_01.tif" size="3797558" width="1969">
+<process argument1="25%" name="raw"></process>
+<process argument1="19" name="cropleft"></process>
+<process argument1="17" name="croptop"></process>
+<process argument1="4" name="cropright"></process>
+<process argument1="7" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="6" name="cropright"></process></image>
+<image date="2014/12/31 02:04:42" dpi="40.25" filename="n32679i41ml2ghme_02.png" height="847" light_direction="0.0,-1.0,0.0" original_date="2014/06/11 13:00:00" original_dpi="161" original_filename="Squ066_02.tif" raw_filename="n32679i41ml2ghme_02.tif" size="3550177" width="1969">
+<process argument1="25%" name="raw"></process>
+<process argument1="22" name="cropleft"></process>
+<process argument1="24" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="6" name="cropright"></process></image>
+<image date="2014/12/31 02:04:43" dpi="40.25" filename="n32679i41ml2ghme_03.png" height="847" light_direction="0.0,1.0,0.0" original_date="2014/06/11 13:29:00" original_dpi="161" original_filename="Squ066_03.tif" raw_filename="n32679i41ml2ghme_03.tif" size="3543344" width="1969">
+<process argument1="25%" name="raw"></process>
+<process argument1="19" name="cropleft"></process>
+<process argument1="1" name="croptop"></process>
+<process argument1="1" name="cropleft"></process>
+<process argument1="3" name="cropright"></process>
+<process argument1="23" name="cropbottom"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="6" name="cropright"></process></image>
+<image date="2014/12/31 02:04:37" dpi="40.25" filename="n32679i41ml2ghme_04.png" height="847" light_direction="-1.0,0.0,0.0" original_date="2014/06/11 13:46:00" original_dpi="161" original_filename="Squ066_04.tif" raw_filename="n32679i41ml2ghme_04.tif" size="3799620" width="1969">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="23" name="cropright"></process>
+<process argument1="24" name="cropbottom"></process>
+<process argument1="8" name="cropleft"></process></image>
+</object>

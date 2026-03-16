@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<object>
+<image date="2014/12/31 01:41:32" dpi="40.5" filename="3658qusiyeje68x3_01.png" height="837" light_direction="1.0,0.0,0.0" original_date="2014/04/14 15:59:00" original_dpi="162" original_filename="Squ012_01.tif" raw_filename="3658qusiyeje68x3_01.tif" size="3458673" width="1839">
+<process argument1="25%" name="raw"></process>
+<process argument1="17" name="cropright"></process>
+<process argument1="12" name="cropbottom"></process>
+<process argument1="1" name="cropleft"></process></image>
+<image date="2014/12/31 01:41:37" dpi="40.5" filename="3658qusiyeje68x3_02.png" height="837" light_direction="0.0,-1.0,0.0" original_date="2014/04/14 16:16:00" original_dpi="162" original_filename="Squ012_02.tif" raw_filename="3658qusiyeje68x3_02.tif" size="3233025" width="1839">
+<process argument1="25%" name="raw"></process>
+<process argument1="2" name="cropleft"></process>
+<process argument1="15" name="cropright"></process>
+<process argument1="12" name="cropbottom"></process>
+<process argument1="1" name="cropright"></process></image>
+<image date="2014/12/31 01:41:33" dpi="40.5" filename="3658qusiyeje68x3_03.png" height="837" light_direction="0.0,1.0,0.0" original_date="2014/04/14 16:41:00" original_dpi="162" original_filename="Squ012_03.tif" raw_filename="3658qusiyeje68x3_03.tif" size="3268747" width="1839">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="17" name="cropleft"></process>
+<process argument1="12" name="croptop"></process>
+<process argument1="1" name="cropleft"></process></image>
+<image date="2014/12/31 01:41:33" dpi="40.5" filename="3658qusiyeje68x3_04.png" height="837" light_direction="-1.0,0.0,0.0" original_date="2014/04/14 16:59:00" original_dpi="162" original_filename="Squ012_04.tif" raw_filename="3658qusiyeje68x3_04.tif" size="3464527" width="1839">
+<process argument1="25%" name="raw"></process>
+<process name="rotate180"></process>
+<process argument1="11" name="cropleft"></process>
+<process argument1="12" name="croptop"></process>
+<process argument1="3" name="cropright"></process>
+<process argument1="1" name="cropleft"></process></image>
+</object>
