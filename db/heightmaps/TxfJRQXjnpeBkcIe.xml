@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<record>
+	<field>
+		<field_id>8</field_id>
+		<field_value>May. 9, 2016</field_value>
+	</field>
+	<field>
+		<field_id>27</field_id>
+		<field_value>3D digitization of the artifact using bidirectional flatbed scanning.</field_value>
+		<source><citation_id>bbw7at22v3yya72h</citation_id></source>
+	</field>
+	<field>
+		<field_id>34</field_id>
+		<field_value>814</field_value>
+	</field>
+	<field>
+		<field_id>35</field_id>
+		<field_value>726</field_value>
+	</field>
+<record_link><neobject_id>_WK7RdmwnpBZAj1Dx</neobject_id></record_link>
+<record_link type="image" value="TxfJRQXjnpeBkcIe_0">
+		<field id="48" value="-1,0,0"/>
+	</record_link>
+	<record_link type="image" value="TxfJRQXjnpeBkcIe_1">
+		<field id="48" value="0,-1,0"/>
+	</record_link>
+</record>

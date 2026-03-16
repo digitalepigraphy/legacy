@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="vdeej0ud7maxkacs"/>
+	<record_link type="image" value="vdeej0ud7maxkacs_01">
+		<field id="48" value="-1,0,0"/>
+	</record_link>
+	<record_link type="image" value="vdeej0ud7maxkacs_02">
+		<field id="48" value="0,1,0"/>
+	</record_link>
+	<record_link type="image" value="vdeej0ud7maxkacs_03">
+		<field id="48" value="0,-1,0"/>
+	</record_link>
+	<record_link type="image" value="vdeej0ud7maxkacs_04">
+		<field id="48" value="1,0,0"/>
+	</record_link>
+	<field id="27" value="3D digitization of the squeeze using bidirectional flatbed scanning.">
+		<source id="bbw7at22v3yya72h"/>
+		<editor id="d1a7a25fdaf20101"/>
+	</field>
+	<field id="32" value="Better Light Model Super6k"/>
+	<field id="8" value="2014/04/14 13:00:00"/>
+	<field id="34" value="6876"/>
+	<field id="35" value="3376"/>
+	<field id="33" value="162"/>
+	<field id="45" value="Rhea Garen"/>
+	<field id="49" value="90"/>
+	<field id="43" value="Digitized through the Grants Program for Digital Collections in Arts and Sciences.">
+		<source url="https://dcaps.library.cornell.edu/initiatives/asgrants/"/>
+	</field>
+	<field id="51" value="40.5"/>
+<record_link><neobject_id>_qidgT2L5D7SaO4H0</neobject_id></record_link></record>

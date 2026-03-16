@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="h8346bs76ggt5s4d"></record_link>
+	<record_link type="image" value="h8346bs76ggt5s4d_01">
+		<field id="48" value="-1,0,0"></field>
+	</record_link>
+	<record_link type="image" value="h8346bs76ggt5s4d_02">
+		<field id="48" value="0,1,0"></field>
+	</record_link>
+	<record_link type="image" value="h8346bs76ggt5s4d_03">
+		<field id="48" value="1,0,0"></field>
+	</record_link>
+	<record_link type="image" value="h8346bs76ggt5s4d_04">
+		<field id="48" value="0,-1,0"></field>
+	</record_link>
+	<field id="27" value="3D digitization of the squeeze using bidirectional flatbed scanning.">
+		<source id="bbw7at22v3yya72h"></source>
+		<editor id="d1a7a25fdaf20101"></editor>
+	</field>
+	<field id="8" value="2015/04/28 18:30:16"></field>
+	<field id="32" value="EPSON Expression 10000XL"></field>
+	<field id="34" value="5006"></field>
+	<field id="35" value="7319"></field>
+	<field id="33" value="600"></field>
+	<field id="45" value="John Lanier"></field>
+	<field id="49" value="20"></field>
+	<field id="51" value="60"></field>
+</record>
