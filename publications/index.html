@@ -4,8 +4,134 @@
 <link rel="shortcut icon" href="../img/favicon.ico" />
 <link rel="stylesheet" type="text/css" href="../main_web.css" />
 <title>Digital Epigraphy and Archaeology Project - Digital Worlds Institute - Department of Classics - University of Florida</title>
+
+<script type="text/javascript">
+
+async function show_articles(path, scr_size) {
+    // Load XML
+    const response = await fetch(path + 'index.xml');
+    const text = await response.text();
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "text/xml");
+
+    const articles = xml.getElementsByTagName("article");
+    const num_of_items = articles.length;
+
+    let html = `
+<div class="content_block">
+  <div class="text_block dark_bkg">
+    <font class="ttl">Published articles</font>
+  </div>
+`;
+
+    if (scr_size === 0) {
+        html += `<div style="width:650px;overflow-x:hidden;" id="news_container">`;
+    } else {
+        html += `<div style="width:650px;-webkit-overflow-scrolling:touch;overflow:scroll;overflow-x:hidden;height:${scr_size}px;" id="news_container">`;
+    }
+
+    // Loop backwards like PHP
+    for (let i = num_of_items - 1; i >= 0; i--) {
+        const a = articles[i];
+
+        const get = (tag) => {
+            const el = a.getElementsByTagName(tag)[0];
+            return el ? el.textContent : "";
+        };
+
+        let image = get("image");
+        let title = get("title");
+        let author = get("author");
+        let urlvenue = get("urlvenue");
+        let journal = get("journal");
+        let month = get("month");
+        let year = get("year");
+        let volume = get("volume");
+        let number = get("number");
+        let pages = get("pages");
+        let id = get("id");
+        let urlpdf = get("urlpdf");
+        let demo = get("demo");
+
+        html += `
+<div class="item_block">
+<table style="border-spacing:0px;">
+<tr>
+<td width="100%" style="padding:0px;" valign="top">
+<div class="news_text_container">
+`;
+
+        if (image.length > 0) {
+            html += `<img src="../img/${image}"
+                style="float: left; margin: 3px; width: 48px;height: 48px; border-radius:5px;">`;
+        }
+
+        html += `
+<div class="project_text_block"><font class="bld">${title}</font></div>
+<div class="project_text_block">
+<font class="nrml">
+${author}
+`;
+
+        if (urlvenue.length > 0) {
+            html += `<br><i><a href="${urlvenue}"><font color="#0000FF">${journal}</font></a></i>`;
+        } else {
+            html += `<br><i>${journal}</i>`;
+        }
+
+        html += `<br>${month} ${year}`;
+
+        if (volume.length > 0) html += `, Vol. ${volume}`;
+        if (number.length > 0) html += `(${number})`;
+        if (pages.length > 0) html += `, Page(s): ${pages}`;
+
+        html += `
+<br>
+<a href="http://www.digitalworlds.ufl.edu/angelos/publications.php?full=1&abstract=${id}">
+<font color="#0000FF">Abstract</font></a> 
+| 
+<a href="http://www.digitalworlds.ufl.edu/angelos/publications.php?full=1&bibtex=${id}">
+<font color="#0000FF">BibTex</font></a>
+`;
+
+        // PDF logic
+        if (urlpdf.length > 0) {
+            if (urlpdf.startsWith("http")) {
+                html += ` | Full Text: 
+<img src="http://www.digitalworlds.ufl.edu/angelos/img/pdf.gif">
+<a href="${urlpdf}"><font color="#0000FF">PDF</font></a>`;
+            } else {
+                html += ` | Full Text: 
+<img src="http://www.digitalworlds.ufl.edu/angelos/img/pdf.gif">
+<a href="http://www.digitalworlds.ufl.edu/angelos/file.php?f=${urlpdf}">
+<font color="#0000FF">PDF</font></a>`;
+            }
+        }
+
+        if (demo.length > 0) {
+            html += ` | <a href="${demo}"><font color="#0000FF">DEMO</font></a>`;
+        }
+
+        html += `
+</font>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+`;
+    }
+
+    html += `</div></div>`;
+
+    // Attach to page (you need a container div)
+    document.getElementById("articles").innerHTML = html;
+}
+
+</script>
 </head>
-<body>
+<body onload="show_articles('',0);">
 
 
 
@@ -41,11 +167,8 @@
 
 		<div class="content_column" style="width:650px;">
 		
+		<div id="articles"></div>
 		
-		<?php
-		require('function_show_articles.php');
-		show_articles('',0);
-		?>
 		<br>
 		<p><font color="#FFFFFF" style="background-color:rgba(0,0,0,0.5);">We also encourage you to read the following citing articles from our peers, collaborators, and colleagues who work on related topics. </font></p>
 		
