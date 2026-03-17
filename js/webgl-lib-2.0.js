@@ -116,14 +116,14 @@ webGLcanvas.prototype.init=function()
 		var cnvs=this.canvas;
 	      imageObj.onload = function() {
 	        ctx.drawImage(imageObj, 0, 0, cnvs.width, cnvs.height);
-		    cnvs.addEventListener('click', function() { window.open("http://www.digitalepigraphy.org/toolbox/info.html");}, false);
+		    cnvs.addEventListener('click', function() { window.open("https://digitalepigraphy.github.io/legacy/toolbox/info.html");}, false);
       		};
       		imageObj.src = 'webgl_error.png';
 			}
 			else
 			{
 				var e=document.getElementById('error-message');
-				e.innerHTML='<a href="http://www.digitalepigraphy.org/toolbox/info.html" target="_blank"><img src="webgl_error.png" width="'+cnvs.width+'" height="'+cnvs.height+'"/></a>';
+				e.innerHTML='<a href="https://digitalepigraphy.github.io/legacy/toolbox/info.html" target="_blank"><img src="webgl_error.png" width="'+cnvs.width+'" height="'+cnvs.height+'"/></a>';
 			}
 			return false;
         }

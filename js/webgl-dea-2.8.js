@@ -3159,7 +3159,7 @@ DEAtoolbox.prototype.setup=function()
 		
 		if(!this.simple_background) 
 		{
-			this.room=new webGLimageComposition(gl,"http://www.digitalepigraphy.org/db/spaces/museum");
+			this.room=new webGLimageComposition(gl,"https://digitalepigraphy.github.io/legacy/db/spaces/museum");
 			this.room.setBrightness(0.1);
 		}
 		else
@@ -3255,7 +3255,7 @@ DEAtoolbox.prototype.setup=function()
 		var num_of_rows=6;
 	
 		var dea_button=new DEAbutton(this.gl_canvas,0,7,num_of_rows,0, 0.0, 7/8, 1/8, 1/8,0,0.2);  
-			dea_button.setLink("http://www.digitalepigraphy.org");
+			dea_button.setLink("https://digitalepigraphy.github.io/legacy/");
 			dea_button.setMessage("  The Digital Epigraphy and Archaeology project  \n  www.digitalepigraphy.org  ",this.messages);
 		this.dea_button=dea_button;
 		
@@ -3358,8 +3358,8 @@ DEAtoolbox.prototype.setup=function()
 		
 		var fullscreen_button=new DEAbutton(this.gl_canvas,6,7,num_of_rows,0, 5/8, 7/8, 1/8, 1/8);
 		if(this.dea_record.path=="objects")
-			fullscreen_button.setLink("http://www.digitalepigraphy.org/viewfull?object="+this.dea_record.id);
-		else fullscreen_button.setLink("http://www.digitalepigraphy.org/viewfull?heightmap="+this.dea_record.id);
+			fullscreen_button.setLink("https://digitalepigraphy.github.io/legacy/viewfull?object="+this.dea_record.id);
+		else fullscreen_button.setLink("https://digitalepigraphy.guthub.io/legacy/viewfull?heightmap="+this.dea_record.id);
 			fullscreen_button.setMessage("  Full screen and toolbox with more options ",this.messages);
 			if(this.fullscreen) fullscreen_button.enabled=false;
 		this.fullscreen_button=fullscreen_button;
@@ -3603,7 +3603,7 @@ DEAtoolbox.prototype.setup=function()
 			var id=tokens.pop().split(".")[0];
 			var path=tokens.pop();
 			path=path.substr(0,path.length-1);
-			download_button.setLink("http://www.digitalepigraphy.org/download?"+path+"="+id);
+			download_button.setLink("http://digitalepigraphy.guthub.io/legacy/download?"+path+"="+id);
 		}
 		download_button.setMessage("  Download object  ",this.messages);
 		this.download_button=download_button;
