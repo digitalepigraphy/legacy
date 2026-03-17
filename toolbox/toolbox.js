@@ -174,7 +174,7 @@ DigitalEpigraphyToolbox.prototype.showHeader=function()
 
 DigitalEpigraphyToolbox.prototype.showMain=function(first_record)
 {
-    document.write('<div id="maincontainer"><div id="aside"><div id="myexhibit"><iframe id="viewframe" src="https://digitalepigraphy.github.io/legacy/view.html?'+first_record+'&ref='+toolbox_root+'" width="618px" height="400px" frameborder="0" scrolling="no"></iframe></div><div id="myhrzone2"></div><div id="textarea_container"><iframe id="readframe" src="https://digitalepigraphy.github.io/legacy/read.html?'+first_record+'" width="618px" height="664px" frameborder="0"></iframe></div></div><div id="search_container">');
+    document.write('<div id="maincontainer"><div id="aside"><div id="myexhibit"><iframe id="viewframe" src="https://digitalepigraphy.github.io/legacy/view.html?'+first_record+'&ref='+toolbox_root+'" width="618px" height="400px" frameborder="0" scrolling="no"></iframe></div><div id="myhrzone2"></div><div id="textarea_container"><iframe id="readframe" src="../read.html?'+first_record+'" width="618px" height="664px" frameborder="0"></iframe></div></div><div id="search_container">');
 	var h=1026;
 	var f="";
 	if(this.collection!=null)
