@@ -1,0 +1,138 @@
+<html><head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="results.css" />
+<script type="text/javascript" src="toolbox.js"></script>
+<script type="text/javascript">
+var header_text="";
+var header_text_dummy="";
+
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1){c_start = c_value.indexOf(c_name + "=");}
+if (c_start == -1){c_value = null;}
+else{
+  c_start = c_value.indexOf("=", c_start) + 1;
+  var c_end = c_value.indexOf(";", c_start);
+  if (c_end == -1){c_end = c_value.length;}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+
+function onBodyLoad()
+{
+	window.parent.postMessage('resh:'+document.body.scrollHeight, '*');
+}
+
+function onFilter()
+{
+	var fkeys=document.getElementsByName('filter_keyword')[0].value.split(/[ ,]+/);
+	var show_all=true;
+	for(var j=0;j<fkeys.length;j++)
+	{
+		fkeys[j]=fkeys[j].toLowerCase();
+		if(fkeys[j].length>1) show_all=false;
+	}
+	var e;
+	var found;
+	var bool_op=getCookie('deaSettingRefineKeywords'); 
+	bool_op= bool_op != null ? bool_op : 'and';
+	if(bool_op!='or') bool_op='and';
+	for(var i=0;i<dea_collections.length;i++)
+	{
+		e=document.getElementById("result_"+i);
+				
+		if(!show_all)
+		{
+			var r=(dea_collections[i].name+dea_collections[i].description).toLowerCase();
+			if(bool_op=='and')
+			{
+				found=true;
+				for(var j=0;j<fkeys.length && found;j++)
+					if(fkeys[j].length>1 && r.indexOf(fkeys[j])==-1)
+						found=false;
+			}
+			else
+			{
+				found=false;
+				for(var j=0;j<fkeys.length && !found;j++)
+					if(fkeys[j].length>1 && r.indexOf(fkeys[j])!=-1)
+						found=true;
+			}
+		}
+		else found=true;
+				
+		if(found && dea_collections[i].hidden==false) e.style.display='block';
+		else e.style.display='none';
+	}
+	return false;
+}
+
+function onShowFilter()
+{
+	var he=document.getElementById('header_div');
+	var hde=document.getElementById('header_div_dummy');
+	
+	var fke=document.getElementsByName('filter_keyword');
+	if(fke.length==1)
+	{
+		he.innerHTML=header_text;
+		hde.innerHTML=header_text_dummy;
+		
+		var e;
+		for(var i=0;i<dea_collections.length;i++)
+		{
+			e=document.getElementById("result_"+i);
+			if(dea_collections[i].hidden)e.style.display='none';
+			else e.style.display='block';
+		}
+	}
+	else
+	{
+		he.innerHTML=header_text+'<input type="text" style="width:100%;font-size:14px" name="filter_keyword" onchange="onFilter();" onkeypress="this.onchange();" onpaste="this.onchange();" oninput="this.onchange();">';
+		hde.innerHTML=header_text_dummy+'<input type="text" style="width:100%;font-size:14px" disabled>';
+		var e=document.getElementsByName('filter_keyword');
+		e[0].focus();
+	}
+	return false;
+}
+
+</script></head>
+<body onload="onBodyLoad();" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
+<div id="result_container">
+<script type="text/javascript">
+header_text='<font class="nrml">Select a collection:</font><div style="float:right"><font class="nrml"><a href="#" onclick="return onShowFilter();"><font color="#000000">[Refine list]</font></a></font></div><div style="width:100%;height:1px;float:right;"></div>';
+header_text_dummy='<font class="nrml">Select a collection:</font><div style="float:right"><font class="nrml"><font color="#000000">[Refine list]</font></font></div><div style="width:100%;height:1px;float:right;"></div>';
+document.write('<div class="result_keywords" id="header_div">'+header_text+'</div><div class="result_keywords_dummy" id="header_div_dummy">'+header_text_dummy+'</div>');
+
+loadDEAcollections();
+var lnk="";
+var thmb="";
+var c=getCookie('deaSettingCustomStyles'); 
+c= c != null ? c : 'yes';
+if(c!='yes')c='no';
+
+for(var i=0;i<dea_collections.length;i++)
+{
+	if(dea_collections[i].folder.length>0)
+	{
+		if(c=='yes') lnk="clct:"+dea_collections[i].folder;
+		else lnk="clcn:"+dea_collections[i].folder;
+		thmb="collection_thmb.png";
+	}
+	else
+	{
+		lnk="redi:http://www.digitalepigraphy.org/toolbox";//+collection_root.substring(0,collection_root.length-11)+"toolbox";
+		thmb="dea_collection_thmb.png";
+	}
+	document.write("<div class=\"result_block\" id=\"result_"+i+"\"><table style=\"border-spacing:0px;\"><tr><td width=\"100px\" style=\"padding:0px;\"><img class=\"result_image\" id=\"thmb_"+i+"\" src=\""+thmb+"\" onclick=\"window.parent.postMessage('"+lnk+"', '*');\" onMouseover=\"this.style.cursor='pointer';\"></td><td width=\"100%\" style=\"padding:0px;\" valign=\"top\"><div class=\"result_text_container\"><div class=\"result_text_block\" style=\"background-color:rgba(0,0,0,0.5);\"><font class=\"nrml\" style=\"color:#FFFFFF\">"+dea_collections[i].name+"</font></div><div class=\"result_text_block\"><font class=\"nrml\">"+dea_collections[i].description+"</font></div></div></td></tr></table></div>" );
+	if(dea_collections[i].hidden)
+	{
+		var e=document.getElementById("result_"+i);
+		e.style.display='none';
+	}
+}
+</script>
+</div>
+</body></html>

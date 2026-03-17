@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="../img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="toolbox.css" />
+<script type="text/javascript" src="toolbox.js"></script>
+<title>Digital Epigraphy Toolbox - Digital Epigraphy and Archaeology</title>
+
+</head><body>
+<script type="text/javascript">
+dea_toolbox=new DigitalEpigraphyToolbox();
+{
+	document.write('<div id="globalcontainer">');
+    dea_toolbox.showHeader();
+}
+</script>
+<div id="myhrzone"></div>
+<div id="maincontainer_info">
+<div class="content_column_info" style="width:650px;">
+		<div class="content_block_info">
+			<div class="text_block_info">
+			<h1>Digital Epigraphy Toolbox</h1>
+<p>Digital Epigraphy Toolbox is a novel and technologically advanced scientific tool for the effective study and comparative analysis of Greek and Latin inscriptions. It provides archaeologists and epigraphists with a cost-effective and efficient method for 3D digitization of inscriptions based on squeezes (paper casts, impressions of inscriptions on a paper), as well as access to an online dynamic library of 3D inscriptions.</p>
+
+<p><b>Features:</b> On-line database of 3D inscriptions, 3D rotation, change lighting orientation, zoom in/out, thematic browsing, keyword search, connection with other existing on-line libraries, dynamic and open editing of the epigraphic records by the research community, and many other features.</p>
+
+<p><b>System requirements:</b> A modern computer with a decent graphics card is recommended (a tablet such as iPad or Surface is more than enough to run the system). The software runs in the majority of popular desktop and mobile web-browsers. No additional plugins necessary. Internet connection is required. The most popular choices of supported browsers are:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Windows:</b> Mozilla Firefox, Chrome, Opera, and Internet Explorer (v.11+).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Mac OSx:</b> Mozilla Firefox, Chrome, Opera, and Safari. (In Safari for OSx it can be enabled from the Preferences menu > Advanced tab > Show Develop menu in menu bar, and then from the Develop menu > Enable WebGL.)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Linux:</b> Mozilla Firefox, Chrome, Opera.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Mobile and Tablets:</b> The software is supported by the majority of web-browsers for iOS, Android or Microsoft Windows 8.1+ devices.</p>
+<p><b>Open source project:</b> Our team supports open-source programming as a form of academic collaboration, and we provide the source code of this software, which can be easily accessed by following directly <a href="http://www.digitalepigraphy.org/js"><font color="#0000FF">this link</font></a> or using the Developer Tools of your browser if you are an expert HTML5 software engineer.</p>
+			</div>
+		</div>
+		<div class="content_block_info2">
+		<img src="webgl1.png" width="215px"><img src="webgl2.png" width="215px"><img src="webgl3.png" width="215px">
+		</div>
+</div>
+<div class="last_column_info" style="width:300px;">
+		<div class="content_block_info2" style="background:rgb(200,50,50);"><br><center><font class="nrml"><a href="../toolbox"><font size="5"><b>Browse Database</b></font></a></font></center><br></div>
+		<div class="content_block_info">
+			<img src="../img/web_presentations.png" width="300px" onclick="parent.location='../videos';" onmouseover="this.style.cursor='pointer';" style="cursor: pointer;">
+		</div>
+		<div class="content_block_info">
+		<div class="text_block_info">
+		<font class="nrml"><b><font color="#000000">Quick guide</font></b></font><br>
+		</div>
+		<img src="../img/quickguide.jpg" width="300px" onclick="parent.location='DEA_quick_guide.pdf'" onmouseover="this.style.cursor='pointer';">
+		</div>
+</div>
+</div>
+<div id="myfooter"><font class="footer_text"><font style="BACKGROUND-COLOR: #623F2B;" color="#FFFFFF">&nbsp;The Digital Epigraphy and Archaeology Group, University of Florida, P.O.Box 115810, 101 Norman Gym, Gainesville, FL 32611-5810 USA&nbsp;</font></font></div>
+<script type="text/javascript">
+{
+	dea_toolbox.showFooter();
+	document.write('</div>');	
+	var opn={set:function(dst,src)
+{
+	for(v in src)
+		dst[v]=src[v];
+}}
+	var div=document.createElement('div');
+				opn.set(div.style,{
+					position:'relative',
+					left:'0px',
+					right:'0px',
+					height:'auto',
+					padding:'10px',
+					//textAlign:'center',
+					fontFamily:'Arial',
+					backgroundColor:'rgb(128,98,165)',
+					color:'white',
+					border:'1px solid black',
+					cursor:'default',
+					display:'flex',
+					justifyContent: 'center',
+					alignItems: 'center',
+					boxShadow:'rgb(136, 136, 136) 0px 10px 10px',
+					margin:'10px',
+					borderRadius:'10px'
+				});
+				var txt=document.createElement('div');
+				opn.set(txt.style,{
+					width:'100%'
+				});
+				div.appendChild(txt);
+				txt.innerHTML='<b>'+'New Version Available'+'</b><br><br>'+'As of Feb. 2022, a new version of the shape-from-shading tool is available at: <a href="https://www.digitalepigraphy.org/db/app/sfs">https://www.digitalepigraphy.org/db/app/sfs</a>';
+				var btn=document.createElement('div');
+				opn.set(btn.style,{
+					cursor:'pointer',
+					fontFamily:'Arial',
+					fontWeight:'700',
+					fontSize:'24px',
+					paddingLeft:'10px',
+					paddingRight:'10px',
+					border:'2px solid white',
+					borderRadius:'15px',
+					lineHeight:'normal'
+				});
+				btn.innerHTML="View old website";
+				btn.addEventListener('click',()=>{
+					announcement_div.remove();
+				})
+				div.appendChild(btn);
+				var announcement_div=document.createElement('div');
+		opn.set(announcement_div.style,{
+			position:'absolute',
+			scrollY:'auto',
+			top:'0px',
+			left:'0px',
+			right:'0px',
+			bottom:'0px',
+			backgroundColor:'rgba(0,0,0,0.2)',
+			cursor:'not-allowed',
+			zIndex:'100000'
+		});
+		announcement_div.appendChild(div);
+				document.body.appendChild(announcement_div);
+				
+				
+}
+</script>
+</body></html>

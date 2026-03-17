@@ -1,0 +1,117 @@
+<html><head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="settings.css" />
+<script type="text/javascript">
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1){c_start = c_value.indexOf(c_name + "=");}
+if (c_start == -1){c_value = null;}
+else{
+  c_start = c_value.indexOf("=", c_start) + 1;
+  var c_end = c_value.indexOf(";", c_start);
+  if (c_end == -1){c_end = c_value.length;}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+
+function setCookie(cname,cvalue,exdays)
+{
+var d = new Date();
+d.setTime(d.getTime()+(exdays*24*60*60*1000));
+var expires = "expires="+d.toGMTString();
+document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+
+function onSearchKeywordsChange()
+{
+	e = document.getElementById("search_keywords");
+	if(e.selectedIndex==0) setCookie('deaSettingSearchKeywords','and',365);
+	else setCookie('deaSettingSearchKeywords','or',365);
+}
+
+function onRefineKeywordsChange()
+{
+	e = document.getElementById("refine_keywords");
+	if(e.selectedIndex==0) setCookie('deaSettingRefineKeywords','and',365);
+	else setCookie('deaSettingRefineKeywords','or',365);
+}
+
+function onCustomStylesChange()
+{
+	e = document.getElementById("custom_styles");
+	if(e.checked) setCookie('deaSettingCustomStyles','yes',365);
+	else setCookie('deaSettingCustomStyles','no',365);
+}
+
+function onReset()
+{
+	var v;
+	var e;
+	
+	e = document.getElementById("search_keywords");
+	e.selectedIndex=1;
+	onSearchKeywordsChange();
+	
+	e = document.getElementById("refine_keywords");
+	e.selectedIndex=0;
+	onRefineKeywordsChange();
+	
+	e = document.getElementById("custom_styles");
+	e.checked=true;
+	onCustomStylesChange();
+}
+
+function onBodyLoad()
+{
+	window.parent.postMessage('resh:'+document.body.scrollHeight, '*');
+	
+	var v;
+	var e;
+	
+	v=getCookie('deaSettingSearchKeywords'); 
+	e = document.getElementById("search_keywords");
+	v= v != null ? v : 'or';
+	if(v=='and') e.selectedIndex=0;
+	else e.selectedIndex=1;
+	
+	v=getCookie('deaSettingRefineKeywords'); 
+	e = document.getElementById("refine_keywords");
+	v= v != null ? v : 'and';
+	if(v=='and') e.selectedIndex=0;
+	else e.selectedIndex=1;
+	
+	v=getCookie('deaSettingCustomStyles'); 
+	e = document.getElementById("custom_styles");
+	v= v != null ? v : 'yes';
+	if(v=='yes') e.checked=true;
+	else e.checked=false;
+}
+</script></head>
+<body onload="onBodyLoad();" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
+<div id="result_container">
+<div class="result_keywords"><font class="nrml">Digital Epigraphy Toolbox Settings</font></div>
+<div class="result_keywords_dummy"><font class="nrml">Settings</font></div>
+<div class="result_block_dummy"><font class="bld">Boolean operators</font></div>
+<div class="result_block"><table width="100%" style="border-spacing:0px;"><tr><td width="70%" style="padding:0px;"><div class="result_text_container"><font class="nrml">Combine <b>search</b> keywords with:</font></div></td><td width="30%" style="padding:0px;" valign="top"><div class="result_text_container"><font class="nrml">
+<select id="search_keywords" onchange="onSearchKeywordsChange();">
+<option value="and">AND</option>
+<option value="or">OR</option>
+</select>
+</font></div></td></tr></table></div>
+<div class="result_block"><table width="100%" style="border-spacing:0px;"><tr><td width="70%" style="padding:0px;"><div class="result_text_container"><font class="nrml">Combine <b>refine</b> keywords with:</font></div></td><td width="30%" style="padding:0px;" valign="top"><div class="result_text_container"><font class="nrml">
+<select id="refine_keywords" onchange="onRefineKeywordsChange();">
+<option value="and">AND</option>
+<option value="or">OR</option>
+</select>
+</font></div></td></tr></table></div>
+<div class="result_block_dummy"><font class="bld">Interface options</font></div>
+<div class="result_block"><table width="100%" style="border-spacing:0px;"><tr><td width="70%" style="padding:0px;"><div class="result_text_container"><font class="nrml">Display custom collection styles</font></div></td><td width="30%" style="padding:0px;" valign="top"><div class="result_text_container"><font class="nrml">
+<input type="checkbox" id="custom_styles" onchange="onCustomStylesChange();">
+</font></div></td></tr></table></div>
+<div class="result_block"><table width="100%" style="border-spacing:0px;"><tr><td width="70%" style="padding:0px;"><div class="result_text_container"><font class="nrml">Use default settings</font></div></td><td width="30%" style="padding:0px;" valign="top"><div class="result_text_container"><font class="nrml">
+<input type="button" value="Reset" onclick="onReset();">
+</font></div></td></tr></table></div>
+</div>
+</body></html>

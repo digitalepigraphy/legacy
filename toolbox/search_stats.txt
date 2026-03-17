@@ -1,0 +1,742 @@
+2014/01/12 23:06:05	98.70.128.76	adsl-98-70-128-76.gnv.bellsouth.net	0d9f698bad8a32f4	gree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/12 23:06:40	98.70.128.76	adsl-98-70-128-76.gnv.bellsouth.net	0d9f698bad8a32f4	wagman art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/12 23:06:54	98.70.128.76	adsl-98-70-128-76.gnv.bellsouth.net	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/12 23:06:56	98.70.128.76	adsl-98-70-128-76.gnv.bellsouth.net	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 01:06:59	98.70.128.76	adsl-98-70-128-76.gnv.bellsouth.net	f6fb260209bf640c	gre	Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) CriOS/29.0.1547.11 Mobile/9B206 Safari/7534.48.3
+2014/01/13 11:09:40	10.137.74.4	10.137.74.4	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 11:09:45	10.137.74.4	10.137.74.4	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 11:09:49	10.137.74.4	10.137.74.4	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 11:12:14	10.137.74.4	10.137.74.4	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 11:25:09	10.137.74.4	10.137.74.4	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 14:03:36	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	wag	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 14:04:51	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 14:05:04	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 14:06:00	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 14:08:48	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 14:38:16	10.136.4.210	10.136.4.210		gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 14:38:19	10.136.4.210	10.136.4.210		gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 14:38:20	10.136.4.210	10.136.4.210		gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 14:38:23	10.136.4.210	10.136.4.210		gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 14:38:36	10.136.4.210	10.136.4.210		gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 15:10:02	10.136.4.210	10.136.4.210		GRE	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 15:22:24	10.136.77.105	10.136.77.105		Gre	Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/10B329 Safari/8536.25
+2014/01/13 15:59:02	10.136.85.101	10.136.85.101		gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 15:59:07	10.136.85.101	10.136.85.101		gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 16:00:01	10.136.85.101	10.136.85.101	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 16:00:45	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 16:00:54	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 18:55:20	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/13 18:56:36	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	327fb66342b9ed84	Gre	Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/10B329 Safari/8536.25
+2014/01/13 19:12:01	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	1b95d8ad80ef4dd8	gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 19:12:16	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	ddd9ba8b517aab3e	gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 20:07:43	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	d22f72869d27ac15	gre	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/13 20:15:20	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	327fb66342b9ed84	Greek	Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/10B329 Safari/8536.25
+2014/01/13 20:16:44	98.70.51.7	adsl-98-70-51-7.gnv.bellsouth.net	7699f36d73f076ec	Greek	Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/10B329 Safari/8536.25
+2014/01/16 11:52:20	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/16 11:52:32	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+2014/01/17 16:38:46	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/17 16:38:48	10.136.85.101	10.136.85.101	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/19 11:46:51	213.65.237.22	213-65-237-22-no16.tbcn.telia.com	bedaa83c5236865a	cyprus	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:26.0) Gecko/20100101 Firefox/26.0
+2014/01/19 11:47:11	213.65.237.22	213-65-237-22-no16.tbcn.telia.com	bedaa83c5236865a	cypriot	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:26.0) Gecko/20100101 Firefox/26.0
+2014/01/19 11:47:24	213.65.237.22	213-65-237-22-no16.tbcn.telia.com	bedaa83c5236865a	kition	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:26.0) Gecko/20100101 Firefox/26.0
+2014/01/21 11:12:22	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	vase	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:13:17	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	limestone	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:13:32	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	greece	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:14:45	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	gift	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:16:01	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	greece	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:16:08	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	greece	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:16:22	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	greek	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/21 11:17:13	128.84.116.56	lib-rg27.library.cornell.edu	7fc6fba5f7e2ed55	greece	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+2014/01/22 13:44:17	10.136.122.116	10.136.122.116	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/22 14:24:11	128.227.162.151	das07.cise.ufl.edu	2a10dadbed3c2f59	art	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/22 14:24:12	128.227.162.151	das07.cise.ufl.edu	2a10dadbed3c2f59	art	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/22 16:01:09	10.136.122.116	10.136.122.116	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/22 21:25:19	98.70.56.219	adsl-98-70-56-219.gnv.bellsouth.net	a3a1e8d94443b6e8	greek art	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/01/23 14:08:07	10.136.122.116	10.136.122.116	0d9f698bad8a32f4	gree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/23 14:08:10	10.136.122.116	10.136.122.116	0d9f698bad8a32f4	gree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/23 14:09:05	10.136.122.116	10.136.122.116	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/25 11:45:24	98.70.130.228	adsl-98-70-130-228.gnv.bellsouth.net	0d9f698bad8a32f4	leipzig	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/01/25 11:45:25	98.70.130.228	adsl-98-70-130-228.gnv.bellsouth.net	0d9f698bad8a32f4	leipzig	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+2014/02/04 18:58:44	74.179.97.208	adsl-74-179-97-208.gnv.bellsouth.net	0d9f698bad8a32f4	england	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/04 18:58:49	74.179.97.208	adsl-74-179-97-208.gnv.bellsouth.net	0d9f698bad8a32f4	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:31:08	10.136.60.199	10.136.60.199	c88cfbce4e0adb30	henry	Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0
+2014/02/06 12:31:14	10.136.60.199	10.136.60.199	c88cfbce4e0adb30	henry	Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0
+2014/02/06 12:31:18	10.136.60.199	10.136.60.199	c88cfbce4e0adb30	Henry	Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0
+2014/02/06 12:31:23	10.136.60.199	10.136.60.199	c88cfbce4e0adb30	seal	Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0
+2014/02/06 12:31:35	10.136.60.199	10.136.60.199	c88cfbce4e0adb30	seal	Mozilla/5.0 (Windows NT 5.1; rv:27.0) Gecko/20100101 Firefox/27.0
+2014/02/06 12:48:10	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:49:41	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	henry	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:49:45	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	king	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:49:49	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	boat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:49:58	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	ship	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:50:04	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	ship boat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:50:11	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	ship boat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 12:50:15	10.136.48.239	10.136.48.239	0d9f698bad8a32f4	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.102 Safari/537.36
+2014/02/06 21:26:58	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	ca3fec68ad800652	uk	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/06 21:27:03	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	64839a70325e84f0	u.k.	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/06 21:27:10	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	e17479c6c6dfe34d	national	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/06 21:27:33	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	a70ff4de3cd01b61	national seal	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/06 21:28:19	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	6010844065cb5355	ship boat	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/06 21:28:25	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	76427b074782212a	seal	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/06 21:28:40	98.70.131.26	adsl-98-70-131-26.gnv.bellsouth.net	71f999a84aef28e5	seal boat ship	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:36:34	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	9357bfcee31c9118	bidirectional	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:37:34	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	4f9c26acf3e9700f	flatbed	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:37:58	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	16a98f965667e323	flatbed	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:38:32	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	350205e08f265590	epi	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:38:47	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	49876e3b3c0cdd6a	flatbed	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:39:30	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	45484f89d6de52f2	greek	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/07 21:39:51	98.70.132.127	adsl-98-70-132-127.gnv.bellsouth.net	03e2628d6f42e773	seal	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/10 21:17:23	74.179.96.237	adsl-74-179-96-237.gnv.bellsouth.net	0d9f698bad8a32f4	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/10 21:17:26	74.179.96.237	adsl-74-179-96-237.gnv.bellsouth.net	0d9f698bad8a32f4	henry	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/10 21:17:40	74.179.96.237	adsl-74-179-96-237.gnv.bellsouth.net	0d9f698bad8a32f4	henry	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/10 21:17:45	74.179.96.237	adsl-74-179-96-237.gnv.bellsouth.net	0d9f698bad8a32f4	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 11:06:09	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 11:06:17	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 11:06:37	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:36:13	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:36:18	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek art	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:36:52	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:44:14	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:44:17	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek art	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:45:32	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek art	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:45:45	10.136.60.199	10.136.60.199	9d3395c8410a18eb	greek	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:45:51	10.136.60.199	10.136.60.199	9d3395c8410a18eb	vase	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:45:54	10.136.60.199	10.136.60.199	9d3395c8410a18eb	seal	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:48:11	10.136.60.199	10.136.60.199	9d3395c8410a18eb	seal	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/11 15:55:24	10.136.60.199	10.136.60.199	9d3395c8410a18eb	seal	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 00:25:48	74.179.96.237	adsl-74-179-96-237.gnv.bellsouth.net	0d9f698bad8a32f4	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 10:50:11	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 10:50:14	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 10:50:17	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	artifact	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 10:50:23	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	wax	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 10:50:25	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/12 10:50:29	10.136.69.85	10.136.69.85	0d9f698bad8a32f4	ship boat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/13 12:20:05	87.21.188.37	host37-188-dynamic.21-87-r.retail.telecomitalia.it	8b8c35cd343ffabf	sdte	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/15 17:17:33	10.136.57.125	10.136.57.125	cbe508338c64c6c4	greek	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/15 17:17:35	10.136.57.125	10.136.57.125	25a6ccea2e222a62	greek	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/15 17:17:47	10.136.57.125	10.136.57.125	2ce6abfd9abb3467	tampa	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/02/17 03:14:31	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	lincoln	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:14:39	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	krowl	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:14:43	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	mich	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:14:49	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	libr	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:14:55	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	congress	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:19:36	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:19:38	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:20:12	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 03:21:34	98.70.132.33	adsl-98-70-132-33.gnv.bellsouth.net	0d9f698bad8a32f4	leip	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 12:08:24	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	lincoln	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 12:52:02	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 12:52:09	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 14:02:24	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 14:02:26	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 14:02:36	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	university	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:55:50	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:55:51	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:55:55	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	abraham	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:56:00	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	linc	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:09	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:24	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:32	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:38	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	linc	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:41	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	epid	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:45	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	gree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/17 16:57:49	10.136.2.14	10.136.2.14	0d9f698bad8a32f4	nem	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/19 04:01:05	98.70.63.109	adsl-98-70-63-109.gnv.bellsouth.net	0d9f698bad8a32f4	lin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/19 04:01:07	98.70.63.109	adsl-98-70-63-109.gnv.bellsouth.net	0d9f698bad8a32f4	lin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/20 12:48:31	194.27.186.191	194.27.186.191	d636aadd816a8899	fatih onur	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+2014/02/21 18:22:00	10.20.13.67	s10.20.13.n67.dhcp.cns.ufl.edu	93547adbebef5cc0	washi	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/21 18:22:02	10.20.13.67	s10.20.13.n67.dhcp.cns.ufl.edu	93547adbebef5cc0	washi	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/21 18:22:05	10.20.13.67	s10.20.13.n67.dhcp.cns.ufl.edu	93547adbebef5cc0	greek	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/24 09:54:22	192.76.7.217	client-7-217.eduroam.oxuni.org.uk	db0d60d24d1b3f76	sicily	Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+2014/02/27 11:05:26	10.136.119.4	10.136.119.4	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/27 11:05:37	10.136.119.4	10.136.119.4	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/27 11:12:12	10.136.119.4	10.136.119.4	0d9f698bad8a32f4	horse	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:21:25	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:21:40	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	cong	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:21:46	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	phi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:06	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:11	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	epi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:17	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	peig	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:19	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	epig	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:31	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	phi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:53	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	digi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/02/28 08:22:56	98.70.50.139	adsl-98-70-50-139.gnv.bellsouth.net	0d9f698bad8a32f4	digi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/03/03 23:13:05	98.70.130.59	adsl-98-70-130-59.gnv.bellsouth.net	9e81aa1e81356b25	gre	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+2014/03/10 13:14:20	10.136.72.126	10.136.72.126	9e81aa1e81356b25	lincoln	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:34	10.136.72.126	10.136.72.126	9e81aa1e81356b25	philp	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:38	10.136.72.126	10.136.72.126	9e81aa1e81356b25	krow	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:42	10.136.72.126	10.136.72.126	9e81aa1e81356b25	congress	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:46	10.136.72.126	10.136.72.126	9e81aa1e81356b25	library	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:49	10.136.72.126	10.136.72.126	9e81aa1e81356b25	gree	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:53	10.136.72.126	10.136.72.126	9e81aa1e81356b25	latin	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:14:57	10.136.72.126	10.136.72.126	9e81aa1e81356b25	inscription	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 13:15:01	10.136.72.126	10.136.72.126	9e81aa1e81356b25	epigr	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 16:03:33	10.136.72.126	10.136.72.126	9e81aa1e81356b25	greek	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 16:03:39	10.136.72.126	10.136.72.126	9e81aa1e81356b25	greek	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 16:19:40	10.136.72.126	10.136.72.126	9e81aa1e81356b25	greece	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 16:19:46	10.136.72.126	10.136.72.126	9e81aa1e81356b25	washing	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 16:21:45	10.136.72.126	10.136.72.126	9e81aa1e81356b25	gre	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/10 16:21:47	10.136.72.126	10.136.72.126	9e81aa1e81356b25	gre	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/11 07:14:51	74.179.115.12	adsl-74-179-115-12.gnv.bellsouth.net	9e81aa1e81356b25	greek	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/11 07:14:53	74.179.115.12	adsl-74-179-115-12.gnv.bellsouth.net	9e81aa1e81356b25	greek	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
+2014/03/17 19:38:09	74.39.212.92	74.39.212.92	0d3181c96a418816	tombstone	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.74.9 (KHTML, like Gecko) Version/7.0.2 Safari/537.74.9
+2014/03/21 06:52:00	98.70.58.35	adsl-98-70-58-35.gnv.bellsouth.net	9e81aa1e81356b25	greek	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/21 06:52:02	98.70.58.35	adsl-98-70-58-35.gnv.bellsouth.net	9e81aa1e81356b25	greek	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/28 00:57:12	98.70.51.89	adsl-98-70-51-89.gnv.bellsouth.net	6082c197ff3cea89	gr	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/03/28 00:57:15	98.70.51.89	adsl-98-70-51-89.gnv.bellsouth.net	eb3755c56df19aa0	gr	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/03/28 21:35:26	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	a6ec958c764e67bb	gr	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/03/28 21:35:28	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	10ec8cd4cb57710c	gr	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/03/28 21:40:03	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	dd8e010de89a7464	gr	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/03/30 00:36:02	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/30 00:36:10	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/31 07:43:15	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/31 07:43:17	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/31 07:45:27	98.70.134.221	adsl-98-70-134-221.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/31 16:44:18	10.137.14.188	10.137.14.188	261d2bd04a48b5db	epidauros	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/03/31 16:44:25	10.137.14.188	10.137.14.188	261d2bd04a48b5db	epidaurus	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+2014/04/02 23:03:13	72.148.30.158	adsl-072-148-030-158.sip.hsv.bellsouth.net	e03c6140ef958ef2	abacus	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+2014/04/09 16:53:11	10.136.100.248	10.136.100.248	90791a3e2a89e453	database	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+2014/04/15 17:59:52	10.136.2.115	10.136.2.115	9b373da59c483540	Free	Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/33.0.1750.21 Mobile/10B500 Safari/8536.25
+2014/04/15 17:59:58	10.136.2.115	10.136.2.115	9b373da59c483540	Gre	Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/33.0.1750.21 Mobile/10B500 Safari/8536.25
+2014/04/28 23:49:48	134.225.176.131	wes-176-131.readingconnect.net	ff0b7957ee4d296c	india	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.74.9 (KHTML, like Gecko) Version/7.0.2 Safari/537.74.9
+2014/04/28 23:49:55	134.225.176.131	wes-176-131.readingconnect.net	a71aee5f43054897	grantha	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.74.9 (KHTML, like Gecko) Version/7.0.2 Safari/537.74.9
+2014/04/28 23:50:06	134.225.176.131	wes-176-131.readingconnect.net	6e5689e9c07d8b19	rome	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.74.9 (KHTML, like Gecko) Version/7.0.2 Safari/537.74.9
+2014/05/02 11:47:00	74.179.96.222	adsl-74-179-96-222.gnv.bellsouth.net	0d9f698bad8a32f4	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/02 11:47:08	74.179.96.222	adsl-74-179-96-222.gnv.bellsouth.net	0d9f698bad8a32f4	linc	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/06 14:58:18	10.136.6.221	10.136.6.221	f8787fc14d78178c	gr	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/05/07 11:57:12	74.179.117.134	adsl-74-179-117-134.gnv.bellsouth.net	8727f077316daadb	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+2014/05/10 15:53:31	80.112.138.40	50708A28.static.ziggozakelijk.nl	79fb063ebcd2d523	Greek A	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/10 15:54:04	80.112.138.40	50708A28.static.ziggozakelijk.nl	79fb063ebcd2d523	Alpha	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/10 15:54:08	80.112.138.40	50708A28.static.ziggozakelijk.nl	79fb063ebcd2d523	pottery	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/10 15:54:13	80.112.138.40	50708A28.static.ziggozakelijk.nl	79fb063ebcd2d523	cup	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/10 15:54:18	80.112.138.40	50708A28.static.ziggozakelijk.nl	79fb063ebcd2d523	greek	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+2014/05/30 10:19:13	139.18.240.71	wlan240071.rz.uni-leipzig.de	261d2bd04a48b5db	seal	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+2014/06/01 23:33:07	139.18.240.73	wlan240073.rz.uni-leipzig.de	8727f077316daadb	greek art	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+2014/06/06 10:25:17	151.100.102.125	125-102rev.amm.uniroma1.it	1c3b8d71c8c58bef	ceramics	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+2014/06/06 10:26:24	151.100.102.125	125-102rev.amm.uniroma1.it	1c3b8d71c8c58bef	limestone	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+2014/06/06 10:26:30	151.100.102.125	125-102rev.amm.uniroma1.it	1c3b8d71c8c58bef	limestone	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+2014/06/12 09:22:47	159.84.218.170	book-pc-dhcp-159-84-218-170.univ-lyon2.fr	3fc6ac10da5de324	epid	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2014/06/12 13:01:03	159.84.217.155	stride-pc-dhcp-159-84-217-155.univ-lyon2.fr	8727f077316daadb	epid	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+2014/06/29 14:26:14	79.50.192.36	host36-192-dynamic.50-79-r.retail.telecomitalia.it	af13b1b37b21eecd	decree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+2014/06/29 14:26:21	79.50.192.36	host36-192-dynamic.50-79-r.retail.telecomitalia.it	8582e901e8a3a85f	athens	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+2014/07/02 10:07:35	194.95.188.5	hippo2.bbaw.de	b58e95d1c07f7d10	gre	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2014/07/14 13:01:52	212.128.70.80	212.128.70.80	7805812ad9ca016e	hispania	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+2014/07/14 13:02:01	212.128.70.80	212.128.70.80	7805812ad9ca016e	reseta	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+2014/08/05 21:24:02	86.152.196.244	host86-152-196-244.range86-152.btcentralplus.com	87f7b100c1d43e91	column	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+2014/08/06 08:46:01	94.118.57.219	94.118.57.219	87f7b100c1d43e91	column	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+2014/08/15 01:08:03	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	80c61a26a89822a5	gre	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+2014/08/27 14:28:11	10.5.162.167	10.5.162.167	82436030e7c0bf0c	gre	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36
+2014/09/23 01:55:46	186.56.190.63	186-56-190-63.mrse.com.ar	21cf3e89459dd05a	Senatum conlsultum	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+2014/09/23 01:55:54	186.56.190.63	186-56-190-63.mrse.com.ar	21cf3e89459dd05a	Bacchanalibus	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+2014/10/07 16:42:42	170.140.105.65	res-105065.nat.emory.edu	a4bf7bab4840e445	athens	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+2014/10/07 16:42:47	170.140.105.65	res-105065.nat.emory.edu	20393c9c1edf6230	acropolis	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+2014/10/07 16:42:49	170.140.105.65	res-105065.nat.emory.edu	902fcafcf2bb4de3	attica	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+2014/10/09 15:12:44	10.137.126.147	10.137.126.147	8727f077316daadb	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+2014/10/17 13:29:29	151.51.63.117	adsl-ull-117-63.51-151.net24.it	b2da816cf91ef51a	epigraphy	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:32.0) Gecko/20100101 Firefox/32.0
+2014/10/17 13:29:45	151.51.63.117	adsl-ull-117-63.51-151.net24.it	b2da816cf91ef51a	epigraphy	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:32.0) Gecko/20100101 Firefox/32.0
+2014/10/20 14:58:00	10.137.82.79	10.137.82.79	8727f077316daadb	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+2014/10/31 00:56:32	24.250.150.96	ip24-250-150-96.ga.at.cox.net	afc8f2af9c341cfb	artorius	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+2014/11/06 11:17:09	79.2.61.211	host211-61-dynamic.2-79-r.retail.telecomitalia.it	11891a36f566ac4b	votive	Mozilla/5.0 (Linux; U; Android 4.1.2; it-it; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+2014/11/06 11:17:17	79.2.61.211	host211-61-dynamic.2-79-r.retail.telecomitalia.it	11891a36f566ac4b	dedication	Mozilla/5.0 (Linux; U; Android 4.1.2; it-it; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+2014/11/28 08:29:35	141.84.155.136	pcitg1306.gwi.uni-muenchen.de	1e5792a3808a09e0	Sigel	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+2014/11/28 08:29:40	141.84.155.136	pcitg1306.gwi.uni-muenchen.de	1e5792a3808a09e0	Rom	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+2014/11/28 08:31:07	141.84.155.136	pcitg1306.gwi.uni-muenchen.de	1e5792a3808a09e0	greek	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+2014/11/28 08:37:02	141.84.155.140	pcitg1301.gwi.uni-muenchen.de	2ed1a2499c219869	kytenion	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+2014/11/28 08:37:16	141.84.155.140	pcitg1301.gwi.uni-muenchen.de	2ed1a2499c219869	opramoas	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+2014/11/28 08:39:17	141.84.155.140	pcitg1301.gwi.uni-muenchen.de	2ed1a2499c219869	IG	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+2014/11/28 08:39:26	141.84.155.140	pcitg1301.gwi.uni-muenchen.de	2ed1a2499c219869	IG II	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+2014/11/28 08:48:43	141.84.155.136	pcitg1306.gwi.uni-muenchen.de	1e5792a3808a09e0	horse	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+2015/01/10 16:03:38	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	bd0a8b220b2749d6	anc	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:03:58	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	8052b26e50e85045	anc	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:04:12	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	2d38b5dcffb412b5	angelos	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:04:20	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	34c4085e6113705e	insc	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:04:50	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	5a2a61982526df5f	epida	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:05:05	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	61222dd1249f6c4e	wagm	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:05:15	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	0341b918b4b0bd99	go	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 16:05:19	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	13aba1799cdee120	co	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/01/10 17:39:26	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	94611422e46b5d55	wagm	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/10 21:17:20	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	746f6389501bccef	A	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/10 21:17:23	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	746f6389501bccef	A	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/11 17:44:10	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	cong	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/11 17:44:13	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	cong	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/11 17:44:21	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/11 17:44:28	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	e	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:23:11	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	staue	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:23:15	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	statue	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:23:34	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:23:40	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:23:47	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	1	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:29:31	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	wag	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:29:43	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	wagman	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:29:47	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	wag	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:29:54	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	search	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:29:57	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:40:49	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:40:55	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	lat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:03	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	Latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:08	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:11	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	Latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:14	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	lat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:23	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	lati	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:29	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	lati	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:32	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	Lat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:40	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:47	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:41:51	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	Lat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:48:06	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:48:11	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:48:19	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:51:03	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:51:16	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:51:20	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:54:42	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	divi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:54:53	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	divi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:55:15	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	wag	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:55:18	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	wag	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 06:57:36	10.228.14.101	ssrb-vpn2-14-101.vpn.ufl.edu	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 14:06:35	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	6505d465ce727604	Latin	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+2015/01/12 15:58:25	10.136.25.206	10.136.25.206	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 15:58:44	10.136.25.206	10.136.25.206	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 15:59:02	10.136.25.206	10.136.25.206	7a0b89d79863a143	monum	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 15:59:14	10.136.25.206	10.136.25.206	7a0b89d79863a143	wagman	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 15:59:19	10.136.25.206	10.136.25.206	7a0b89d79863a143	wagman	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 15:59:23	10.136.25.206	10.136.25.206	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 16:00:23	10.136.25.206	10.136.25.206	7a0b89d79863a143	holf	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 16:00:26	10.136.25.206	10.136.25.206	7a0b89d79863a143	hol	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 16:00:41	10.136.25.206	10.136.25.206	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 17:45:41	128.84.117.12	lib-5479.library.cornell.edu	8d7d95c74690ab13	47pc8n9gn6gjmeeo	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:44:40	10.136.25.206	10.136.25.206	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:44:46	10.136.25.206	10.136.25.206	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:46:37	10.136.25.206	10.136.25.206	7a0b89d79863a143	ma	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:46:43	10.136.25.206	10.136.25.206	7a0b89d79863a143	res	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:46:52	10.136.25.206	10.136.25.206	7a0b89d79863a143	tree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:46:57	10.136.25.206	10.136.25.206	7a0b89d79863a143	ter	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:46:59	10.136.25.206	10.136.25.206	7a0b89d79863a143	tre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:47:07	10.136.25.206	10.136.25.206	7a0b89d79863a143	mal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:47:11	10.136.25.206	10.136.25.206	7a0b89d79863a143	kos	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:47:15	10.136.25.206	10.136.25.206	7a0b89d79863a143	cos	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/12 20:47:17	10.136.25.206	10.136.25.206	7a0b89d79863a143	sin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/19 16:12:41	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	&#931;&#932;&#927;	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:13:29	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	&#924;&#913;_&#915;	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:13:34	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	MA_G	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:14:08	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	&#963;&#965;&#957;&#954;&#945;&#953;&#966;	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:14:27	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	&#960;&#945;&#960;&#949;&#961;	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:14:31	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	paper	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:14:39	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	tree	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:14:42	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	paper	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:15:03	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:16:18	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	column 2	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:20:58	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:21:07	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	17	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:32:13	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:32:30	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	latin greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:32:57	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:40:24	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:41:42	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:42:04	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:42:33	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:42:42	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	lat	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 16:42:55	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 17:00:47	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	e8c481163953e295	Latin	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 17:22:27	174.77.237.196	wsip-174-77-237-196.ga.at.cox.net	e8c481163953e295	Greek	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 17:24:04	174.77.237.196	wsip-174-77-237-196.ga.at.cox.net	e8c481163953e295	Latin	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 17:24:15	174.77.237.196	wsip-174-77-237-196.ga.at.cox.net	e8c481163953e295	Latin	Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 18:53:09	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 19:00:57	10.137.49.121	10.137.49.121	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/19 20:32:07	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 20:34:27	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 20:34:55	10.137.18.241	10.137.18.241	746f6389501bccef	Greek	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 20:39:44	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 20:59:14	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:28:53	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:29:20	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:29:28	10.137.18.241	10.137.18.241	746f6389501bccef	Greek	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:29:41	10.137.18.241	10.137.18.241	746f6389501bccef	Lat	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:29:46	10.137.18.241	10.137.18.241	746f6389501bccef	Gr3	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:29:50	10.137.18.241	10.137.18.241	746f6389501bccef	Gre	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:31:06	10.137.18.241	10.137.18.241	746f6389501bccef	&#924;&#953;&#945;	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:31:13	10.137.18.241	10.137.18.241	746f6389501bccef	&#924;&#913;&#921;	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:31:18	10.137.18.241	10.137.18.241	746f6389501bccef	MAI	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 21:31:30	10.137.18.241	10.137.18.241	746f6389501bccef	Prim	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 22:16:08	10.137.18.241	10.137.18.241	746f6389501bccef	Greek	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/19 22:16:25	10.137.18.241	10.137.18.241	746f6389501bccef	Latin	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/20 00:36:12	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	80c61a26a89822a5	ancyranum	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+2015/01/20 03:56:59	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/20 03:57:25	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/20 03:57:29	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/20 03:58:46	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/01/20 04:40:17	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	746f6389501bccef	Gre	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/20 04:40:20	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	746f6389501bccef	Gre	Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/39.0.2171.50 Mobile/12B440 Safari/600.1.4
+2015/01/28 19:44:35	89.164.152.27	152-27.dsl.iskon.hr	1239c7f5fa17df05	roman	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+2015/01/28 19:55:46	89.164.152.27	152-27.dsl.iskon.hr	1239c7f5fa17df05	england	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+2015/01/29 15:34:25	10.136.71.21	10.136.71.21	80c61a26a89822a5	ancyr	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/02/09 21:08:23	136.152.142.182	airbears2-136-152-142-182.AirBears2.Berkeley.EDU	c865075e47abb436	squeeze	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+2015/02/16 06:25:56	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/16 06:25:58	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/16 07:00:24	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	33feb6ff592f5a12	greek	Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+2015/02/17 18:00:44	10.136.17.225	10.136.17.225	7a0b89d79863a143	greek	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/17 18:00:52	10.136.17.225	10.136.17.225	7a0b89d79863a143	latin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/17 18:01:01	10.136.17.225	10.136.17.225	7a0b89d79863a143	coin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/17 18:01:06	10.136.17.225	10.136.17.225	7a0b89d79863a143	coin	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/17 18:01:12	10.136.17.225	10.136.17.225	7a0b89d79863a143	seal	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/19 16:56:00	139.18.240.65	wlan240065.rz.uni-leipzig.de	80c61a26a89822a5	&#963;&#965;&#957;	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/25 15:40:26	10.136.123.112	10.136.123.112	80c61a26a89822a5	ancyr	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/25 21:16:06	128.84.125.230	nat-128-84-124-0-486.cit.cornell.edu	7ed408513ed235cb	column 12	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+2015/02/25 21:43:51	128.84.125.230	nat-128-84-124-0-486.cit.cornell.edu	7ed408513ed235cb	column 1	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+2015/02/28 06:14:41	50.75.120.45	rrcs-50-75-120-45.nys.biz.rr.com	80c61a26a89822a5	ancyranum	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/02/28 15:03:17	64.80.8.82	64.80.8.82	746f6389501bccef	King	Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/40.0.2214.73 Mobile/12B466 Safari/600.1.4
+2015/02/28 15:03:20	64.80.8.82	64.80.8.82	746f6389501bccef	King	Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/40.0.2214.73 Mobile/12B466 Safari/600.1.4
+2015/02/28 16:57:48	132.236.212.148	lib-pac-o74.library.cornell.edu	76b94e45019d077c	liln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/02/28 16:57:54	132.236.212.148	lib-pac-o74.library.cornell.edu	76b94e45019d077c	address\	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/02/28 16:58:14	132.236.212.148	lib-pac-o74.library.cornell.edu	76b94e45019d077c	lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 15:49:33	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	Gettysburg Address	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 15:49:41	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	lincoln's address	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 15:49:56	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 15:50:13	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	lincoln's address watermark	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 15:50:19	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	watermark	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 15:50:25	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	solomon	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/02 18:22:05	132.236.212.134	lib-olin106g.library.cornell.edu	7365930541d1edc1	Abraham lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+2015/03/02 18:22:13	132.236.212.134	lib-olin106g.library.cornell.edu	7365930541d1edc1	Abraham lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+2015/03/03 12:49:40	64.9.63.232	64-9-63-232.DICKINSON.EDU	806fd86f13d9e4b0	res gestae	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+2015/03/10 19:27:38	10.136.52.99	10.136.52.99	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+2015/03/11 08:44:21	185.11.153.246	185.11.153.246	c5371046943ed023	scipio	Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+2015/03/11 17:20:01	10.136.36.106	10.136.36.106	80c61a26a89822a5	res gest	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/03/13 13:55:57	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	Res Gestae	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/13 14:00:32	128.84.116.63	lib-6240.library.cornell.edu	fe5783f05cecc194	Res Gestae	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/03/16 22:05:40	78.65.198.85	host-78-65-198-85.homerun.telia.com	80c61a26a89822a5	lincoln	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/03/16 22:05:54	78.65.198.85	host-78-65-198-85.homerun.telia.com	80c61a26a89822a5	philp	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/03/16 23:49:30	78.65.198.245	host-78-65-198-245.homerun.telia.com	7a0b89d79863a143	lincoln	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+2015/03/16 23:49:46	78.65.198.245	host-78-65-198-245.homerun.telia.com	7a0b89d79863a143	gre	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+2015/03/16 23:49:56	78.65.198.245	host-78-65-198-245.homerun.telia.com	7a0b89d79863a143	congr	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+2015/03/16 23:50:04	78.65.198.245	host-78-65-198-245.homerun.telia.com	7a0b89d79863a143	abr	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+2015/03/17 09:46:22	78.65.198.245	host-78-65-198-245.homerun.telia.com	7a0b89d79863a143	linc	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+2015/03/21 00:20:59	213.115.88.66	static-213-115-88-66.sme.bredbandsbolaget.se	80c61a26a89822a5	linco	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/03/21 09:09:27	192.36.224.157	dhcp-ext-224157.eduroam.chalmers.se	7f3d99ba7f4f0686	palazzo	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+2015/03/21 09:12:14	192.36.224.124	dhcp-ext-224124.eduroam.chalmers.se	08bbe632ded0dd6b	Aias	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
+2015/03/21 09:12:19	192.36.224.124	dhcp-ext-224124.eduroam.chalmers.se	08bbe632ded0dd6b	Ajax	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
+2015/03/21 09:12:22	192.36.224.124	dhcp-ext-224124.eduroam.chalmers.se	08bbe632ded0dd6b	Venus	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
+2015/03/21 22:26:37	212.181.253.123	212-181-253-123.customer.telia.com	08bbe632ded0dd6b	Venus	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
+2015/03/25 23:19:34	77.248.56.85	dhcp-077-248-056-085.chello.nl	d77eed72c91309d1	via appia	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+2015/03/27 14:58:56	10.136.104.118	10.136.104.118	80c61a26a89822a5	leipzig	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+2015/03/30 20:19:14	178.21.55.94	host-178-21-55-94.comunique.hu	110b2d5899f452ad	rome	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36
+2015/04/07 17:56:52	101.219.237.121	101.219.237.121	0c927d1ba1fd5152	indian epigraphy	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+2015/04/07 17:58:00	101.219.237.121	101.219.237.121	0c927d1ba1fd5152	indian inscription	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+2015/04/14 15:02:38	128.84.116.56	lib-6231.library.cornell.edu	1d04b242041c4301	column 13	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/14 15:02:55	128.84.116.56	lib-6231.library.cornell.edu	1d04b242041c4301	'Column 13'	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/16 15:22:57	128.84.116.56	lib-6231.library.cornell.edu	9a87baf32ef33727	Gettysburg	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/16 16:22:35	128.84.116.56	lib-6231.library.cornell.edu	9a87baf32ef33727	gettysburg	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/16 16:22:40	128.84.116.56	lib-6231.library.cornell.edu	9a87baf32ef33727	Gettys	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/16 16:22:53	128.84.116.56	lib-6231.library.cornell.edu	9a87baf32ef33727	Gettys	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/21 13:25:11	128.84.116.34	lib-4943.library.cornell.edu	0f1e69404a934ea9	lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/21 13:29:35	128.84.116.34	lib-4943.library.cornell.edu	0f1e69404a934ea9	lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+2015/04/21 14:51:40	132.236.212.134	lib-olin106g.library.cornell.edu	488510d532106117	lincoln	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+2015/05/28 21:43:04	192.76.8.19	client-8-19.eduroam.oxuni.org.uk	7f7eac7ef8d79a7a	Aias	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
+2015/05/28 21:43:10	192.76.8.19	client-8-19.eduroam.oxuni.org.uk	7f7eac7ef8d79a7a	Ajax	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
+2015/05/28 21:44:59	192.76.8.19	client-8-19.eduroam.oxuni.org.uk	7f7eac7ef8d79a7a	Aigina	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
+2015/06/04 05:05:29	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	179647a06c981374	J	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.51 Mobile/12F69 Safari/600.1.4
+2015/06/04 05:05:32	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	179647a06c981374	J	Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.51 Mobile/12F69 Safari/600.1.4
+2015/06/22 10:49:20	134.99.150.144	134.99.150.144	35a4a14f4bf0e7f8	IG II	Mozilla/5.0 (Linux; Android 4.4.4; A1-840 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.92 Safari/537.36
+2015/06/22 10:49:49	134.99.150.144	134.99.150.144	35a4a14f4bf0e7f8	IG II samos	Mozilla/5.0 (Linux; Android 4.4.4; A1-840 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.92 Safari/537.36
+2015/06/22 10:53:09	134.99.150.144	134.99.150.144	35a4a14f4bf0e7f8	Samos	Mozilla/5.0 (Linux; Android 4.4.4; A1-840 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.92 Safari/537.36
+2015/07/13 11:03:07	207.188.245.3	207.188.245.3	f8f4a84942659d73	tablet	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0) Gecko/20100101 Firefox/35.0
+2015/07/13 11:03:11	207.188.245.3	207.188.245.3	f8f4a84942659d73	seal	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0) Gecko/20100101 Firefox/35.0
+2015/07/13 11:03:37	207.188.245.3	207.188.245.3	f8f4a84942659d73	horse	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0) Gecko/20100101 Firefox/35.0
+2015/07/13 11:03:42	207.188.245.3	207.188.245.3	f8f4a84942659d73	statue	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0) Gecko/20100101 Firefox/35.0
+2015/07/13 11:45:33	207.188.245.3	207.188.245.3	fba36c80b9ef3af8	greek	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+2015/07/21 08:29:45	2.173.227.151	2.173.227.151	0878d9118b21f4d5	teos	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+2015/07/21 08:29:49	2.173.227.151	2.173.227.151	0878d9118b21f4d5	delos	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+2015/07/27 16:53:32	65.102.87.186	oneguy.com	0e68ed0f3453e9f8	dedication	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.0
+2015/09/03 01:13:46	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	honours women	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/09/03 01:13:51	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	women	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/09/03 01:13:54	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	honours	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/09/03 01:13:57	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	dedications	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/09/03 01:14:00	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	dedication	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/09/03 01:14:35	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	women	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/09/03 01:14:40	125.253.32.4	125-253-32-4.dyn.ver.bigair.net.au	84d1bf29dc020591	priestess	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+2015/10/08 10:42:18	128.84.116.63	lib-6240.library.cornell.edu	d005eada08c0cdd8	Res Gestea	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+2015/10/14 07:26:53	194.95.188.5	hippo2.bbaw.de	98f136a29285b650	squeeze	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+2015/10/14 09:23:30	129.206.32.111	dhcp32-111.laptop-wlc.uni-heidelberg.de	85285da226fd6734	foucart	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+2015/10/14 09:23:35	129.206.32.111	dhcp32-111.laptop-wlc.uni-heidelberg.de	85285da226fd6734	mantin*	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+2015/10/14 09:25:28	129.206.32.111	dhcp32-111.laptop-wlc.uni-heidelberg.de	85285da226fd6734	IG V.2	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+2015/10/17 21:35:45	98.227.140.175	c-98-227-140-175.hsd1.il.comcast.net	1c1944ce55c0db32	IG	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+2015/10/17 21:35:51	98.227.140.175	c-98-227-140-175.hsd1.il.comcast.net	1c1944ce55c0db32	naval	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+2015/10/17 21:35:54	98.227.140.175	c-98-227-140-175.hsd1.il.comcast.net	1c1944ce55c0db32	1558	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+2015/10/17 21:36:31	98.227.140.175	c-98-227-140-175.hsd1.il.comcast.net	1c1944ce55c0db32	1558	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+2015/10/17 21:36:32	98.227.140.175	c-98-227-140-175.hsd1.il.comcast.net	1c1944ce55c0db32	naval	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+2015/10/17 21:36:33	98.227.140.175	c-98-227-140-175.hsd1.il.comcast.net	1c1944ce55c0db32	IG	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+2015/10/27 14:34:19	109.129.135.152	109.129.135.152	44ff50f960f9c409	144	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+2015/11/25 12:12:01	194.27.186.113	194.27.186.113	67e9ef2cad475cb9	Phaselis	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+2016/01/25 13:41:51	186.241.189.30	186-241-189-30.user.veloxzone.com.br	0ca40a8250a39fcc	ephesus	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2016/01/28 21:25:34	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	94611422e46b5d55	anc	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2016/01/28 21:30:49	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	94611422e46b5d55	anc	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2016/01/28 21:30:53	104.12.10.99	104-12-10-99.lightspeed.dybhfl.sbcglobal.net	94611422e46b5d55	te	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2016/01/29 09:01:46	134.117.249.251	134.117.249.251	7187c3a307643d5b	brick	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+2016/01/31 18:06:31	80.116.149.79	host79-149-dynamic.116-80-r.retail.telecomitalia.it	59eb9b45b58e89a2	lapis	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
+2016/01/31 18:06:37	80.116.149.79	host79-149-dynamic.116-80-r.retail.telecomitalia.it	59eb9b45b58e89a2	niger	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
+2016/01/31 18:07:25	80.116.149.79	host79-149-dynamic.116-80-r.retail.telecomitalia.it	59eb9b45b58e89a2	lapis	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
+2016/02/03 05:02:02	141.20.159.195	141.20.159.195	5c9d324109011c28	res gestae	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+2016/02/03 09:42:49	81.128.139.34	81.128.139.34	bc99ccc0ab81f3ba	res gestae	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+2016/02/03 15:45:38	137.111.13.200	cpmon.mq.edu.au	6ac5f3777a509d90	Res Gestae	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+2016/02/25 00:39:41	122.107.128.193	c122-107-128-193.eburwd5.vic.optusnet.com.au	2c2e5670ac7ddb88	egypt	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+2016/02/26 13:31:43	192.16.204.218	pulibgw-r3.net.ias.edu	00a88fd192d5d024	hyper	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+2016/02/26 13:31:48	192.16.204.218	pulibgw-r3.net.ias.edu	00a88fd192d5d024	attic	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+2016/02/28 08:41:02	72.73.210.192	pool-72-73-210-192.cmdnnj.east.verizon.net	2fad6cc99360d445	Hyper	Mozilla/5.0 (Linux; Android 4.2.2; SM-T110 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.95 Safari/537.36
+2016/03/19 20:43:47	75.69.21.127	c-75-69-21-127.hsd1.ma.comcast.net	416bde8f4a439f78	Boston	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
+2016/03/19 20:43:54	75.69.21.127	c-75-69-21-127.hsd1.ma.comcast.net	c67d50b9d30f7bcb	Wax seal	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
+2016/03/19 20:44:06	75.69.21.127	c-75-69-21-127.hsd1.ma.comcast.net	5530dc8af2366750	U.S. wax seal	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
+2016/03/19 20:45:27	75.69.21.127	c-75-69-21-127.hsd1.ma.comcast.net	b488786671b059ab	postal service	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
+2016/03/19 20:45:32	75.69.21.127	c-75-69-21-127.hsd1.ma.comcast.net	7c3079878d34c4fe	post office	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
+2016/03/22 12:03:42	95.149.127.252	95.149.127.252	4c6063afbadb333b	oscan	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+2016/03/22 12:03:48	95.149.127.252	95.149.127.252	4c6063afbadb333b	social	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+2016/03/22 12:03:51	95.149.127.252	95.149.127.252	4c6063afbadb333b	roman	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+2016/03/22 12:04:01	95.149.127.252	95.149.127.252	4c6063afbadb333b	pompeii	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586
+2016/03/24 16:51:49	109.98.165.124	109.98.165.124	b4897efdf3c04935	hungarian	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+2016/03/24 16:51:57	109.98.165.124	109.98.165.124	b4897efdf3c04935	panonia	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+2016/03/24 16:52:00	109.98.165.124	109.98.165.124	b4897efdf3c04935	pannonia	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+2016/03/24 16:52:07	109.98.165.124	109.98.165.124	b4897efdf3c04935	hungary	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+2016/03/24 16:52:22	109.98.165.124	109.98.165.124	b4897efdf3c04935	dacia	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+2016/03/24 16:52:26	109.98.165.124	109.98.165.124	b4897efdf3c04935	dacia	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+2016/03/24 17:14:21	83.212.188.17	ws-188-17.dorms-b.uoi.gr	e0bab5223e9358d2	áöñïäéôç	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/24 17:14:31	83.212.188.17	ws-188-17.dorms-b.uoi.gr	e0bab5223e9358d2	áôôéêç	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/25 17:09:31	192.16.204.211	pulibgw-c4.net.ias.edu	3e4a8ee50f405a3f	ig iv 12, 129	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/25 17:10:04	192.16.204.211	pulibgw-c4.net.ias.edu	3e4a8ee50f405a3f	ig number iv	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/25 17:10:16	192.16.204.211	pulibgw-c4.net.ias.edu	3e4a8ee50f405a3f	"ig number iv"	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/25 17:11:45	192.16.204.211	pulibgw-c4.net.ias.edu	3e4a8ee50f405a3f	IG Number: IV I 2, 129	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/29 15:25:49	64.191.189.59	64.191.189.59	4579902056f99e36	latin	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+2016/03/30 18:07:27	70.185.101.235	ip70-185-101-235.ga.at.cox.net	76b57c85cfb53395	nemea	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+2016/04/27 06:45:08	128.41.19.5	ct088005.ad.ucl.ac.uk	04de3cddd57e09e0	rib7	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+2016/04/27 06:45:18	128.41.19.5	ct088005.ad.ucl.ac.uk	04de3cddd57e09e0	lead	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+2016/04/28 11:34:09	192.16.204.210	pulibgw-c3.net.ias.edu	3e4a8ee50f405a3f	2016	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+2016/04/28 11:44:01	192.16.204.210	pulibgw-c3.net.ias.edu	3e4a8ee50f405a3f	av1dtXEcIQ1qDm9I	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+2016/04/29 12:58:06	192.16.204.210	pulibgw-c3.net.ias.edu	3e4a8ee50f405a3f	IV I 2, 129	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+2016/06/03 16:07:30	192.16.204.214	pulibgw-c7.net.ias.edu	3e4a8ee50f405a3f	cornell	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+2016/06/22 13:33:18	137.54.9.223	137.54.9.223	2bad614f78dc3698	epidaurus	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/06/22 13:33:29	137.54.9.223	137.54.9.223	2bad614f78dc3698	rome	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/07/14 02:05:38	138.186.33.189	138.186.33.189	196adc1e9f3bd663	temple	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/07/20 21:23:37	186.222.5.153	bade0599.virtua.com.br	91a51d83e2268875	IG II² 10	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/07/20 21:26:57	186.222.5.153	bade0599.virtua.com.br	91a51d83e2268875	theozotides	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/07/20 21:27:03	186.222.5.153	bade0599.virtua.com.br	91a51d83e2268875	stroud	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/07/20 21:27:14	186.222.5.153	bade0599.virtua.com.br	91a51d83e2268875	IG 2 [2] 10	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+2016/09/20 14:42:24	149.156.86.100	apus23.filg.uj.edu.pl	2ab31ce136e01e56	knife handle	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+2016/09/20 14:42:30	149.156.86.100	apus23.filg.uj.edu.pl	2ab31ce136e01e56	handle	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+2016/10/06 09:14:56	192.73.11.32	192.73.11.32	43912fd35565966a	coin	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/601.7.8
+2016/10/06 09:15:47	192.73.11.32	192.73.11.32	43912fd35565966a	c	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/601.7.8
+2016/10/06 10:13:44	141.20.206.251	client206-251.wlan.hu-berlin.de	3648d95171d99a2f	hebrew	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+2016/10/06 10:14:10	141.20.206.251	client206-251.wlan.hu-berlin.de	3648d95171d99a2f	old testament	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+2016/10/16 22:49:41	73.162.7.193	c-73-162-7-193.hsd1.ca.comcast.net	9aa9ccdc00803ea7	cutting compass	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.59 Safari/537.36
+2016/10/25 10:52:35	46.198.234.199	46.198.234.199	999c8b662e25b42a	itanos	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+2016/11/03 13:27:45	86.169.195.146	host86-169-195-146.range86-169.btcentralplus.com	4b850fed5c0cf309	liberti	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:49.0) Gecko/20100101 Firefox/49.0
+2016/11/21 10:27:03	194.95.188.5	hippo2.bbaw.de	2e7871182bd939e9	CIL	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+2016/12/06 08:54:48	194.95.188.5	hippo2.bbaw.de	06004949d05ff47c	CIL	Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+2017/01/05 04:27:18	83.47.107.234	234.red-83-47-107.dynamicip.rima-tde.net	67d1e9730c707e16	C.Aurelius Parthenius	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+2017/01/14 14:39:18	94.224.104.189	94-224-104-189.access.telenet.be	38fa15d4552983b9	cuneiform	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+2017/01/28 09:49:44	77.192.152.225	225.152.192.77.rev.sfr.net	2d5a1120aa044233	Samothrace	Mozilla/5.0 (iPad; CPU OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A456 Safari/602.1
+2017/02/07 10:44:19	45.106.76.48	45.106.76.48	6f41f93e9ae490a9	siwa	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+2017/02/07 10:44:32	45.106.76.48	45.106.76.48	6f41f93e9ae490a9	alexandria	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+2017/02/07 10:44:44	45.106.76.48	45.106.76.48	6f41f93e9ae490a9	amon	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+2017/02/13 15:31:16	93.57.249.211	93.57.249.211	2fe208ac07ebed55	475	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:51.0) Gecko/20100101 Firefox/51.0
+2017/03/07 09:27:10	68.175.139.245	mta-68-175-139-245.twcny.rr.com	2f8f187469b770a0	greek	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:51.0) Gecko/20100101 Firefox/51.0
+2017/03/08 17:04:56	80.12.63.34	80.12.63.34	b64d56c327cad539	Tenos	Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G35 Safari/601.1
+2017/03/08 17:05:03	80.12.63.34	80.12.63.34	b64d56c327cad539	Attic a	Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G35 Safari/601.1
+2017/03/11 13:24:25	95.210.220.59	95-210-220-59.ip.skylogicnet.com	590e54a6139a8e2f	Pisidian antioch	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+2017/03/11 13:25:05	95.210.220.59	95-210-220-59.ip.skylogicnet.com	590e54a6139a8e2f	IGR III 209	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+2017/03/11 13:27:15	95.210.220.59	95-210-220-59.ip.skylogicnet.com	590e54a6139a8e2f	Perge	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+2017/03/11 13:27:31	95.210.220.59	95-210-220-59.ip.skylogicnet.com	590e54a6139a8e2f	IGR III 309	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+2017/03/20 15:10:34	212.34.11.124	212.34.11.124	6a6c8362c0e7a374	sabaic	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2017/03/20 15:10:46	212.34.11.124	212.34.11.124	6a6c8362c0e7a374	kulmmua	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2017/03/20 15:10:55	212.34.11.124	212.34.11.124	6a6c8362c0e7a374	jordan	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2017/04/24 20:59:23	130.88.180.26	130.88.180.26	9905d11d21911081	mysia	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+2017/05/08 12:07:17	188.208.117.73	188.208.117.73	ae81faeee4706223	ILS 7178	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+2017/05/09 05:34:37	131.130.86.89	geo.oeai.univie.ac.at	851175df2806c60f	münze	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+2017/06/02 09:24:38	86.56.2.131	cable-86-56-2-131.cust.telecolumbus.net	6987d94e167f222e	ig XI 2	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+2017/06/15 06:08:06	87.219.49.13	13.49.219.87.dynamic.jazztel.es	22522a95edeb9995	Nemea	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+2017/06/15 06:08:43	87.219.49.13	13.49.219.87.dynamic.jazztel.es	22522a95edeb9995	Nemea	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+2017/06/15 06:08:50	87.219.49.13	13.49.219.87.dynamic.jazztel.es	22522a95edeb9995	Nemea	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0
+2017/07/08 12:01:38	95.236.121.74	host74-121-dynamic.236-95-r.retail.telecomitalia.it	1421fdddfdcb84d1	samotrhace	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/08 12:02:51	95.236.121.74	host74-121-dynamic.236-95-r.retail.telecomitalia.it	1421fdddfdcb84d1	theoi megaloi	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/08 12:03:35	95.236.121.74	host74-121-dynamic.236-95-r.retail.telecomitalia.it	1421fdddfdcb84d1	samothrace	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/08 12:06:06	95.236.121.74	host74-121-dynamic.236-95-r.retail.telecomitalia.it	1421fdddfdcb84d1	E 715	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/08 12:06:26	95.236.121.74	host74-121-dynamic.236-95-r.retail.telecomitalia.it	1421fdddfdcb84d1	E 715 delos	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/08 12:07:03	95.236.121.74	host74-121-dynamic.236-95-r.retail.telecomitalia.it	1421fdddfdcb84d1	ID 2441	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/17 21:50:52	99.58.18.241	99-58-18-241.lightspeed.cicril.sbcglobal.net	8e552ef8bbc987a3	coin	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/30 17:12:25	87.228.109.76	87.228.109.76	01256af3c7b1e3bc	*	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/07/30 17:12:34	87.228.109.76	87.228.109.76	01256af3c7b1e3bc	*	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+2017/10/03 13:10:47	157.138.162.66	157.138.162.66	41a5cf8327728890	squeeze	Mozilla/5.0 (Windows NT 10.0; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+2017/11/02 12:34:25	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	tenos	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:34:27	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	tinos	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:34:29	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	attica	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:34:32	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	ig xii	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:37:47	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	tinos	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:37:50	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	ténos	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:37:56	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	athens	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/02 12:37:59	86.246.189.184	LFbn-1-714-184.w86-246.abo.wanadoo.fr	6c0f0dedf4f8b064	ig	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+2017/11/06 07:22:42	141.78.44.140	ua-130-2.ku.de	8fa84a474fbf5ead	stamps	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+2017/11/06 07:22:52	141.78.44.140	ua-130-2.ku.de	8fa84a474fbf5ead	amphor	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+2017/11/10 13:26:32	206.87.157.186	dhcp-206-87-157-186.ubcsecure.wireless.ubc.ca	04ae6632e9686031	Latin column 3	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+2017/11/15 12:53:48	137.82.195.169	137.82.195.169	04ae6632e9686031	latin column 1	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+2017/11/29 04:03:25	130.192.155.250	130.192.155.250	cde32d629fd908b9	timosthenes	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+2017/11/29 04:03:42	130.192.155.250	130.192.155.250	cde32d629fd908b9	IG II2 467	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+2017/11/29 04:04:01	130.192.155.250	130.192.155.250	cde32d629fd908b9	KARYTOS	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+2017/12/13 10:48:44	185.24.186.192	185.24.186.192	bd5fad1338a97230	greek	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+2017/12/19 03:27:39	134.2.138.157	u-138-cbiblioth.uni-tuebingen.de	cc443a9763cff3df	IG I3 475	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+2017/12/20 10:05:22	147.210.201.1	147.210.201.1	b32f910453db92c3	letoon	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+2017/12/20 10:05:35	147.210.201.1	147.210.201.1	b32f910453db92c3	minor asia	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+2018/03/09 14:42:01	77.69.121.175	77-69-121-175.dynamic.cyta.gr	393239d3808ec3f2	sestius	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+2018/03/11 16:59:51	74.79.255.11	cpe-74-79-255-11.twcny.res.rr.com	75772a79c833d104	Latin Column 1	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+2018/03/12 14:23:35	31.1.24.96	apn-31-1-24-96.dynamic.gprs.plus.pl	58303847174f27a3	greek	Mozilla/5.0 (X11; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+2018/03/14 11:30:52	137.204.150.30	137.204.150.30	2480ac52c36dab6b	plotul	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+2018/03/14 11:30:58	137.204.150.30	137.204.150.30	2480ac52c36dab6b	plotulena	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+2018/03/14 11:31:04	137.204.150.30	137.204.150.30	2480ac52c36dab6b	titius	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+2018/03/14 11:31:10	137.204.150.30	137.204.150.30	2480ac52c36dab6b	alexander	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+2018/03/27 09:57:18	194.199.76.65	amon.lyc-la-martiniere-terreaux-diderot-centrale.ac-lyon.fr	42bbd4fa382d3fe5	epigraphic	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+2018/04/27 05:46:36	130.88.240.94	130.88.240.94	478c9bbc9dc4011d	Pergamum	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15
+2018/04/27 05:46:41	130.88.240.94	130.88.240.94	478c9bbc9dc4011d	Pergamon	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15
+2018/06/04 03:19:33	194.199.76.65	amon.lyc-la-martiniere-terreaux-diderot-centrale.ac-lyon.fr	42bbd4fa382d3fe5	epigraphic	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+2018/06/22 07:40:47	134.95.7.248	natoutside6.wlan.uni-koeln.de	3d6caa905fcc398d	proxeny	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+2018/07/18 10:06:50	10.138.89.134	10.138.89.134	24abe2931c71da14	epidamnus	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+2018/07/18 10:06:56	10.138.89.134	10.138.89.134	24abe2931c71da14	epidarus	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+2018/09/03 18:22:03	87.3.14.80	host80-14-dynamic.3-87-r.retail.telecomitalia.it	52d7ada715a3f2ee	syll	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/03 18:22:11	87.3.14.80	host80-14-dynamic.3-87-r.retail.telecomitalia.it	52d7ada715a3f2ee	437	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/03 18:22:31	87.3.14.80	host80-14-dynamic.3-87-r.retail.telecomitalia.it	52d7ada715a3f2ee	IG	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/03 18:22:39	87.3.14.80	host80-14-dynamic.3-87-r.retail.telecomitalia.it	52d7ada715a3f2ee	437	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/04 16:42:12	64.132.113.83	64-132-113-83.static.ctl.one	3c490ab42a626356	cilicia	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/04 16:42:17	64.132.113.83	64-132-113-83.static.ctl.one	3c490ab42a626356	bent	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/04 16:43:54	64.132.113.83	64-132-113-83.static.ctl.one	3c490ab42a626356	asia minor	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/04 16:44:04	64.132.113.83	64-132-113-83.static.ctl.one	3c490ab42a626356	cilicia	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+2018/09/12 08:18:36	128.86.177.160	eduroam-d.wi-fi.ulcc.net	3a1de0b69c890dd0	inscriptions	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+2018/09/12 08:18:46	128.86.177.160	eduroam-d.wi-fi.ulcc.net	3a1de0b69c890dd0	inscription	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+2018/09/12 08:19:23	128.86.177.160	eduroam-d.wi-fi.ulcc.net	3a1de0b69c890dd0	epitaph	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+2018/09/12 08:20:07	128.86.177.160	eduroam-d.wi-fi.ulcc.net	3a1de0b69c890dd0	squeeze	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+2018/09/17 10:54:15	165.225.86.54	165.225.86.54	0e145a733151c6aa	terramare	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+2018/09/25 13:45:27	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	Res Gestae	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/25 13:52:04	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	Res Gestae greek	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/25 13:59:29	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	IV 1 2.129	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/25 14:02:30	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	3D Res Gestae	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/27 16:06:01	87.203.113.240	athedsl-92322.home.otenet.gr	e3484d5e23929f34	res gestae	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/28 04:09:45	212.205.185.67	host3.ethel.gr	1614b40bd6228827	augustus	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2018/09/28 04:10:52	212.205.185.67	host3.ethel.gr	1614b40bd6228827	res gestae	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2018/09/29 01:41:36	79.167.205.30	ppp079167205030.access.hol.gr	be2eaa5bc644a447	pausanias	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+2018/09/30 07:46:06	87.203.113.240	athedsl-92322.home.otenet.gr	e3484d5e23929f34	res gestae	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/30 07:54:40	87.203.113.240	athedsl-92322.home.otenet.gr	e3484d5e23929f34	res gestae	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/30 07:56:52	87.203.113.240	athedsl-92322.home.otenet.gr	e3484d5e23929f34	res gestae	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/30 07:58:47	87.203.113.240	athedsl-92322.home.otenet.gr	e3484d5e23929f34	res gestae	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/09/30 08:01:04	66.249.81.207	google-proxy-66-249-81-207.google.com		Res gestae	Mozilla/5.0 (Linux; Android 8.0.0; RNE-L21 Build/HUAWEIRNE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+2018/10/01 05:15:11	94.65.99.40	ppp-94-65-99-40.home.otenet.gr	2d490e560aa4f6f6	res gestae	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/01 12:45:18	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	Res Gestae	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/01 13:12:45	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	Res Gestae 3d	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/01 13:13:06	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	Res Gestae 3d &#949;&#955;&#955;&#951;&#957;&#953;&#954;&#945;	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/01 13:13:33	79.167.161.56	ppp079167161056.access.hol.gr	01898dfd01a45541	Res Gestae 3d greek	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/02 12:58:52	209.58.142.158	209.58.142.158	286847bb16a20e8b	res gestae	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+2018/10/03 12:49:27	93.109.174.76	93-174-76.netrun.cytanet.com.cy	59dc4c18d53e8a2d	Res Gestae	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/05 15:32:30	46.199.254.175	46-254-175.internethome.cytanet.com.cy	9a2c8646e0d360c7	res gastae	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/22 00:57:58	78.87.202.34	78-202-34.adsl.cyta.gr	6094e6016b8aac72	IG II2 1102	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+2018/10/22 02:45:17	195.46.31.139	195.46.31.139	1bb1ea2a42f35419	IG	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/22 02:45:45	195.46.31.139	195.46.31.139	1bb1ea2a42f35419	Inscriptiones Graecae	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/10/22 22:54:12	84.136.104.230	p548868E6.dip0.t-ipconnect.de	1a54afe99b0f15cd	res gestae	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+2018/11/12 02:44:55	85.103.39.129	85.103.39.129.dynamic.ttnet.com.tr	486aa80e8c20bf36	mazaca	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018/11/14 11:50:26	93.34.113.157	93-34-113-157.ip49.fastwebnet.it	135b5a2abb8b762b	thasos 	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+2018/11/14 11:50:35	93.34.113.157	93-34-113-157.ip49.fastwebnet.it	135b5a2abb8b762b	thasos	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+2018/11/14 11:50:40	93.34.113.157	93-34-113-157.ip49.fastwebnet.it	135b5a2abb8b762b	thasos	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+2018/11/14 11:50:48	93.34.113.157	93-34-113-157.ip49.fastwebnet.it	135b5a2abb8b762b	thasos 	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+2018/12/22 05:30:28	93.39.142.52	93-39-142-52.ip76.fastwebnet.it	a28206b68b9f549d	Oinopion	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:64.0) Gecko/20100101 Firefox/64.0
+2019/01/02 07:52:02	31.17.255.64	ip1f11ff40.dynamic.kabel-deutschland.de	6be34c4fe82c7747	Mestrianos	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019/02/12 08:34:40	10.3.89.102	at-l-lw-342-13.lab.at.ufl.edu	21253e6f814caaf6	epidaurus	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+2019/03/11 13:32:06	83.168.25.195	83.25-195.internethome.cytanet.com.cy	1d12382bdbfff9a2	Corinthian Vases	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+2019/03/11 13:32:17	83.168.25.195	83.25-195.internethome.cytanet.com.cy	1d12382bdbfff9a2	corinth	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+2019/03/11 13:33:37	83.168.25.195	83.25-195.internethome.cytanet.com.cy	1d12382bdbfff9a2	oracular tablet	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+2019/03/22 10:33:32	141.163.120.111	141.163.120.111	620d23c020921059	syria	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+2019/03/22 10:33:59	141.163.120.111	141.163.120.111	620d23c020921059	syrian	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+2019/03/22 10:34:01	141.163.120.111	141.163.120.111	620d23c020921059	irQ	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+2019/03/22 10:34:05	141.163.120.111	141.163.120.111	620d23c020921059	iraq	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+2019/04/02 09:15:59	62.1.105.162	62.1.105.162	7c9a4b7ed3db2b62	Delos	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
+2019/04/20 19:43:23	73.66.238.80	c-73-66-238-80.hsd1.ca.comcast.net	7d3d4e0a12d6b413	rosetta	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+2019/04/20 19:43:33	73.66.238.80	c-73-66-238-80.hsd1.ca.comcast.net	7d3d4e0a12d6b413	rosetta stone	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+2019/05/14 06:41:19	83.220.238.100	83.220.238.100	72d6b52da5ed5510	Plougastel	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36
+2019/05/14 06:41:27	83.220.238.100	83.220.238.100	72d6b52da5ed5510	Caro	Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36
+2019/07/01 09:35:47	85.116.158.201	85.116.158.201	725b95d8713c1dcb	buthrotum	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+2019/07/01 09:35:55	85.116.158.201	85.116.158.201	725b95d8713c1dcb	buthrotos	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+2019/08/06 23:35:54	126.133.8.138	om126133008138.21.openmobile.ne.jp	a3aadb3278d9d707	CIL	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+2019/08/15 14:04:33	88.4.21.149	149.red-88-4-21.dynamicip.rima-tde.net	850b3c06ea498183	inscription	Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+2019/08/15 14:05:18	88.4.21.149	149.red-88-4-21.dynamicip.rima-tde.net	850b3c06ea498183	funerary	Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+2019/09/13 18:41:16	62.248.121.37	62.248.121.37	88ddc32300dd50ea	cappadocia	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+2019/09/13 18:41:47	62.248.121.37	62.248.121.37	88ddc32300dd50ea	cappadocia	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+2019/09/13 18:41:53	62.248.121.37	62.248.121.37	88ddc32300dd50ea	athena	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+2019/10/01 08:23:18	79.129.20.6	ams383.static.otenet.gr	796c303e0b9a595a	_lv3sQB7PP2YCcyiI	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+2020/02/22 14:28:57	77.102.97.114	cpc146430-hari22-2-0-cust113.20-2.cable.virginm.net	02472af53de7362b	funer	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+2020/02/22 14:29:03	77.102.97.114	cpc146430-hari22-2-0-cust113.20-2.cable.virginm.net	02472af53de7362b	epiyaph	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+2020/02/22 14:29:10	77.102.97.114	cpc146430-hari22-2-0-cust113.20-2.cable.virginm.net	02472af53de7362b	funerary	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+2020/02/22 14:29:13	77.102.97.114	cpc146430-hari22-2-0-cust113.20-2.cable.virginm.net	02472af53de7362b	death	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+2020/03/24 07:14:34	83.38.152.182	182.red-83-38-152.dynamicip.rima-tde.net	36982ae2fdcb0443	ATHENS	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+2020/03/24 07:14:57	83.38.152.182	182.red-83-38-152.dynamicip.rima-tde.net	36982ae2fdcb0443	ALCIBIADES	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+2020/04/21 15:29:25	151.82.131.78	151.82.131.78	0195e75da74d709f	Mestri	Mozilla/5.0 (Linux; Android 9; Redmi Note 7 Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/228.1.0.10.116;]
+2020/04/21 15:29:35	151.82.131.78	151.82.131.78	0195e75da74d709f	Mestre	Mozilla/5.0 (Linux; Android 9; Redmi Note 7 Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/228.1.0.10.116;]
+2020/06/25 05:11:47	31.201.214.170	170-214-201-31.ftth.glasoperator.nl	369ade84866db9c5	inscription	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+2020/08/24 12:17:13	109.178.230.43	109-178-230-43.pat.ren.cosmote.net	16f206204e49e97c	megalopolis	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+2020/08/24 12:17:32	109.178.230.43	109-178-230-43.pat.ren.cosmote.net	16f206204e49e97c	&#956;&#949;&#947;&#945;&#955;&#972;&#960;&#959;&#955;&#951;	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+2020/08/24 12:17:35	109.178.230.43	109-178-230-43.pat.ren.cosmote.net	16f206204e49e97c	&#956;&#949;&#947;&#940;&#955;&#945; &#960;&#972;&#955;&#953;&#962;	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+2020/08/30 15:53:27	217.196.133.26	host-217-196-133-26.as48500.net	e0ae27b96407f595	kyme	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+2020/09/04 06:21:03	80.180.7.142	host-80-180-7-142.pool80180.interbusiness.it	7b0ce52a1d288107	caesar	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+2020/09/04 06:21:40	80.180.7.142	host-80-180-7-142.pool80180.interbusiness.it	7b0ce52a1d288107	claud*	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+2020/09/09 04:57:32	82.59.188.46	host-82-59-188-46.retail.telecomitalia.it	93f8efe2eb19425d	DEDICATION	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+2020/09/12 08:14:51	65.110.156.140	user-10mt74c.cable.mindspring.com	893ebd53c8638aa8	Res Gestea	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:80.0) Gecko/20100101 Firefox/80.0
+2020/09/15 19:33:02	69.180.173.59	c-69-180-173-59.hsd1.mn.comcast.net	50a03834c925f12a	medica	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+2020/09/21 04:55:10	79.55.70.239	host-79-55-70-239.retail.telecomitalia.it	7b0ce52a1d288107	latin	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+2020/11/27 18:39:03	87.228.242.16	87-242-16.netrun.cytanet.com.cy	1c05e6446448c4a9	Corinth	Mozilla/5.0 (Linux; Android 7.0; LG-H840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2020/11/27 18:39:14	87.228.242.16	87-242-16.netrun.cytanet.com.cy	1c05e6446448c4a9	Corcyra	Mozilla/5.0 (Linux; Android 7.0; LG-H840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2020/11/27 18:39:23	87.228.242.16	87-242-16.netrun.cytanet.com.cy	1c05e6446448c4a9	Athens	Mozilla/5.0 (Linux; Android 7.0; LG-H840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2020/12/04 10:43:54	93.36.165.223	93-36-165-223.ip61.fastwebnet.it	42576a2664acda5d	IG I 3	Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-T815) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.0 Chrome/83.0.4103.106 Safari/537.36
+2020/12/04 10:44:41	93.36.165.223	93-36-165-223.ip61.fastwebnet.it	42576a2664acda5d	IG I 3 1330	Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-T815) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.0 Chrome/83.0.4103.106 Safari/537.36
+2020/12/17 11:44:43	86.159.34.241	host86-159-34-241.range86-159.btcentralplus.com	5da2de914c21d10c	CIL XIII.8351	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+2021/01/21 05:32:09	78.3.211.65	78-3-211-65.adsl.net.t-com.hr	7de52b96496e183f	velina	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/21 11:01:56	78.3.214.98	78-3-214-98.adsl.net.t-com.hr	6b1650fd4ae29f16	glagolitic	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/21 11:02:00	78.3.214.98	78-3-214-98.adsl.net.t-com.hr	6b1650fd4ae29f16	istria	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/21 11:02:09	78.3.214.98	78-3-214-98.adsl.net.t-com.hr	6b1650fd4ae29f16	roman	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:16:17	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	ship	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:16:31	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	corvus	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:16:34	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	raven	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:16:36	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	navy	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:16:39	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	sailor	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:16:43	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	trireme	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:17:32	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	carthage	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:17:36	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	punic	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/23 06:17:41	82.47.70.198	cpc147224-roth10-2-0-cust197.17-1.cable.virginm.net	52d3bec3f7711fb2	quinquereme	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/01/26 07:09:16	2.50.54.135	2.50.54.135	dbf820da87924719	Arms	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/26 07:09:35	2.50.54.135	2.50.54.135	dbf820da87924719	Mudrm	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/26 07:09:45	2.50.54.135	2.50.54.135	dbf820da87924719	Qrs	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/26 07:09:59	2.50.54.135	2.50.54.135	dbf820da87924719	Arab	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/26 07:15:34	2.50.54.135	2.50.54.135	dbf820da87924719	Qrs	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/26 07:15:45	2.50.54.135	2.50.54.135	dbf820da87924719	Arabia	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/26 07:16:22	2.50.54.135	2.50.54.135	dbf820da87924719	Arabia	Mozilla/5.0 (Linux; Android 6.0; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+2021/01/27 10:09:17	141.13.57.22	d057022.dhcp.netz-service.uni-bamberg.de	040af5b547bf03ad	poblicius	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+2021/01/27 10:09:50	141.13.57.22	d057022.dhcp.netz-service.uni-bamberg.de	040af5b547bf03ad	cologne	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+2021/01/27 10:09:54	141.13.57.22	d057022.dhcp.netz-service.uni-bamberg.de	040af5b547bf03ad	germania	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+2021/01/27 10:10:11	141.13.57.22	d057022.dhcp.netz-service.uni-bamberg.de	040af5b547bf03ad	bonna	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+2021/01/27 14:55:51	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	qrs	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 14:57:56	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	q	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 14:58:08	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	qur	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 14:58:18	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	qrsh	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 14:58:26	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	qrs	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 14:58:35	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	mud	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 14:58:50	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	qrsh	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 15:45:12	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	md	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/01/27 15:45:33	91.73.15.77	91.73.15.77	49b9ddd4c11761fe	arab	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344 (Edition Campaign 34)
+2021/03/05 14:12:12	176.92.27.155	176-92-27-155.adsl.cyta.gr	9e7d51202525f9d8	png	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+2021/04/10 04:09:48	114.255.218.26	114.255.218.26	594d04134cb294ab	persephone	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+2021/04/22 23:35:25	131.220.202.217	131.220.202.217	48929333a9d43fa1	rome	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+2021/04/22 23:35:32	131.220.202.217	131.220.202.217	48929333a9d43fa1	athens	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+2021/04/22 23:35:42	131.220.202.217	131.220.202.217	48929333a9d43fa1	corpus inscriptionum	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+2021/04/30 18:52:13	86.185.225.146	host86-185-225-146.range86-185.btcentralplus.com	bad49c0c3bff56e5	athens	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2021/04/30 18:52:24	86.185.225.146	host86-185-225-146.range86-185.btcentralplus.com	bad49c0c3bff56e5	squeeze	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2021/04/30 18:57:20	86.185.225.146	host86-185-225-146.range86-185.btcentralplus.com	bad49c0c3bff56e5	dedications athens	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2021/04/30 18:57:31	86.185.225.146	host86-185-225-146.range86-185.btcentralplus.com	bad49c0c3bff56e5	apollo	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2021/04/30 19:04:30	86.185.225.146	host86-185-225-146.range86-185.btcentralplus.com	bad49c0c3bff56e5	athens	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2021/05/06 18:30:40	194.27.72.52	194.27.72.52	30d3f910f9add75f	tabula	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2021/05/06 18:30:45	194.27.72.52	194.27.72.52	30d3f910f9add75f	ansata	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+2022/02/15 11:01:33	37.120.32.243	37.120.32.243.dyn.pyur.net	8b2a2da2f5548fed	Rosetta Stone	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+2022/02/15 11:01:58	37.120.32.243	37.120.32.243.dyn.pyur.net	8b2a2da2f5548fed	Rosetta	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+2022/02/15 11:02:44	37.120.32.243	37.120.32.243.dyn.pyur.net	8b2a2da2f5548fed	Rosettana	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+2022/02/15 11:02:49	37.120.32.243	37.120.32.243.dyn.pyur.net	8b2a2da2f5548fed	EA 14	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.114 Safari/537.36
+2022/07/18 12:27:26	2.28.100.193	2.28.100.193	9561cda71594aa57	Maat	Mozilla/5.0 (Linux; Android 10; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36
+2022/08/06 16:26:18	156.200.195.204	host-156.200.195.204.tedata.net	429e6957d3323a31	egypt	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+2022/08/06 16:26:22	156.200.195.204	host-156.200.195.204.tedata.net	429e6957d3323a31	egypt	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
+2023/07/02 19:36:00	95.70.233.53	53.233.70.95.dsl.dynamic.turk.net	badba8b4f6a74f3d	turkey	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TelePhyT Image Processing Client</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<link rel="stylesheet" type="text/css" href="styles/style.css" />
+	<link rel="stylesheet" type="text/css" href="styles/style_debug.css" />
+
+	<script type="text/javascript" src="lib/jquery-2.1.3.min.js"></script>
+	<script type="text/javascript" src="lib/jquery.easyModal.js"></script>
+	<script type="text/javascript" src="lib/jquery-ui.min.js"></script>
+	
+	<script type="text/javascript" src="scripts/global-functions.js"></script>
+	<script type="text/javascript" src="scripts/dea-terminal.js"></script>
+	<script type="text/javascript" src="scripts/dea-job.js"></script>
+	<script type="text/javascript" src="scripts/dea-file.js"></script>
+	
+	<script type="text/javascript" src="config/dea-terminal-config.js"></script>
+	<script type="text/javascript" src="config/client-config.js"></script>
+  </head>
+  <body onload="on_load();">
+      <header>
+		<h1>TelePhyT Image Processing Client</h1>
+		<div id="user-id"></div>
+		<div id="help-link" onclick="help();">[Help]</div>
+	  </header>
+      <div class="debug"><form id="sendForm"><input type="text" id="textField" value="" style="width:200px;"> <input type="submit" value="Send"></form><br></div>
+	  <div id="processing-overlay" class="transparent-overlay">
+		<div id="processing-message" class="overlay-message">Processing.....</div>
+		<div id="cancel-processing-button" class="cancel-button" onclick="cancelProcess();">Cancel</div>
+      </div>
+	  <div id="uploading-overlay" class="transparent-overlay">
+		<div id="uploading-message" class="overlay-message">
+			<span id="upload-text"></span>&nbsp;&#40;<span id="upload-index"></span>&nbsp;of&nbsp;<span id="upload-total"></span>&#41;
+		</div>
+		<div id="cancel-uploading-button" class="cancel-button" onclick="cancelUpload();">Cancel</div>
+      </div>
+	  <div id="help-modal"></div>
+	  <div id="server_offline">Connecting to server...</div>
+	  <div id="main">
+		  <div id="jobs_container"></div>
+		  <button id="add_job_button" onclick="addJob();" disabled>Add job</button>
+	  </div>
+      <div class="debug"><form><div id="log"></div></form><br></div>
+  </body>
+</html>

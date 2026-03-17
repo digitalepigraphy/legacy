@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<meta charset="utf-8"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+<title>Draghi e Leoni exhibition - Virtual Museum of World Heritage</title>
+<link rel="icon" href="icon.png" /> 
+<link rel="apple-touch-icon" href="icon.png" />
+<link rel="shortcut icon" href="icon.png" />
+
+<meta property="og:title" content="Draghi e Leoni: An open-access 3D digital exhibition" />
+<meta property="og:description" content="An open-access exhibition of 3D digitized models of lions and dragons from the Digital Epigraphy and Archaeology project." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://digitalepigraphy.github.io/legacy/museum/collection/draghi-e-leoni/icon.png" />
+<meta property="og:image:secure_url" content="https://digitalepigraphy.github.io/legacy/museum/collection/draghi-e-leoni/icon.png" />
+<meta property="og:image:type" content="image/png" />
+
+</head>
+<body style="margin:0px;" ondragover="event.dataTransfer.dropEffect='none';return false;">
+<div id="container" style="position:fixed;top:0px;left:0px;width:100%;height:100%;overflow:hidden;">
+
+<div id="main_header" style="width:100%;height:50px;position:absolute;background-image:url(background.jpg);background-size: cover;">
+		<div style="float:left;background-size:cover;background-image:url('draghieleoni.png');width:215px;height:50px;margin-left:8px;cursor:pointer;" onclick="parent.location='../../../';"></div>
+		
+		<div style="float:right;background-size:cover;background-image:url('../../museum_logo.png');width:160px;height:50px;margin-right:8px;cursor:pointer;" onclick="parent.location='../../../';"></div>
+		
+		<div style="float:left;width:400px;height:50px;margin-left:26px;font-family:  'Segoe UI', 'Segoe WP Light', 'Segoe WP', 'Segoe UI Latin Light', HelveticaNeue, Helvetica, Tahoma, ArialUnicodeMS, sans-serif; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0); vertical-align: middle; text-shadow: rgb(155, 155, 155) -1px 1px;" onclick="parent.location='http://www.digitalepigraphy.org';">A special exhibition for the inauguration of the 12th President of the University of Florida</div>
+		
+		
+	</div>
+
+	<?php $o='zpdft7pvddqbytx4';if(isset($_GET['o']))$o=$_GET['o'];?>
+
+	<div id="container" style="position:absolute;top:50px;bottom:0px;background-color:rgb(80,0,0);width:100%;">
+	<iframe src="http://www.visineat.com/view?o=<?php echo $o;?>&collection=r12pv4v563n1qi7m&full=1" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+	</div>
+</div>
+</body>
+</html>

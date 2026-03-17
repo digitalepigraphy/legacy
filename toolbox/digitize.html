@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="../img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="toolbox.css" />
+<script type="text/javascript" src="toolbox.js"></script>
+<title>Shape from shading 3D reconstruction - Digital Epigraphy Toolbox - Digital Epigraphy and Archaeology</title>
+<script type="text/javascript">
+function runApplet()
+{
+	document.getElementById('applet_container').innerHTML="<applet alt=\"Something is wrong. Java is not working.\" code=\"org.Digital_Epigraphy_3D_Reconstruction_Applet.class\" archive=\"DEAsfs.jar\" width=\"930\" height=\"570\"><PARAM name=\"java_arguments\" value=\"-Xmx1000m\"/></applet>";
+return false;
+}
+</script>
+</head><body>
+<script type="text/javascript">
+dea_toolbox=new DigitalEpigraphyToolbox();
+{
+	document.write('<div id="globalcontainer">');
+    dea_toolbox.showHeader();
+}
+</script>
+<div id="myhrzone"></div>
+<div id="maincontainer_info">
+<div class="last_column_info" style="width:956px;">
+		<div class="content_block_info">
+			<div class="text_block_info">
+			<h1>3D Digitization of Inscriptions</h1>
+			<a href="https://www.digitalepigraphy.org/db/app/sfs"><img src="button_runapp.png"/></a>
+			
+<p>One of the features of the <a href="info.html"><font color="#0000FF">Digital Epigraphy Toolbox</font></a> is to provide archaeologists and epigraphists with a cost-effective and efficient method for 3D digitization of inscriptions based on squeezes (impressions of inscriptions on a paper). This method uses a regular flatbed office scanner to analyze a pair of scanned images of squeezes and reconstruct in 3D the original inscription. More details regarding this algorithm can be found in our publication <sup><a href="#ref"><font color="#0000FF">1</font></a></sup>. Click on the <a href="https://www.digitalepigraphy.org/db/app/sfs"><font color="#0000FF">'Launch Application'</font></a> button to start the 3D reconstruction algorithm.</p>
+
+<p><b>System requirements:</b> The software runs in the majority of popular web-browsers. The latest <a href="http://www.java.com" target="_blank"><font color="#0000FF">Java plugin</font></a> must be installed. Internet connection is required.</p>
+			</div>
+		</div>
+		<div class="content_block_info">
+		<div class="text_block_info">
+		<div id="applet_container">
+		<font class="nrml"><font color="#000000"><b>Screenshots:</b></font></font><br>
+		<a href="sfs_screenshot1.jpg" target="_blank"><img src="sfs_screenshot1.jpg" width="200px"></a> <a href="sfs_screenshot2.jpg" target="_blank"><img src="sfs_screenshot2.jpg" width="200px"></a> <a href="sfs_screenshot3.jpg" target="_blank"><img src="sfs_screenshot3.jpg" width="200px"></a>
+		</div>
+		<p><b>Sample data:</b> <a href="epidaurica_sample_A.png" target="_blank"><font color="#0000FF">Sample image A</font></a>, <a href="epidaurica_sample_B.png" target="_blank"><font color="#0000FF">Sample image B</font></a>. Open this pair of images of scanned squeezes in order to reconstruct in 3D the original inscription using our digitization method. To do this go to the '3D Reconstruction' tab, select a region of interest, and click on the 'Reconstruct' button.</p>
+		
+		<p><b>How to cite:</b> To cite this software in your work you should reference the article that originaly presented this algorithm (<a href="#ref"><font color="#0000FF">Barmpoutis et al. Machine Vision and Applications, 2010)</font></a>. </p>
+		</div>
+		</div>
+
+		<div class="content_block_info">
+			<div class="text_block_info">	
+				<p><b>References</b></p>
+		<p><a name="ref"></a>
+1. A. Barmpoutis, E. Bozia, R. S. Wagman, &quot;A novel framework for 3D reconstruction and analysis of ancient inscriptions&quot;, <i>Journal of Machine Vision and Applications</i>
+2010, Vol. 21(6), pp. 989-998. <a href="https://doi.org/10.1007/s00138-009-0198-7" target="_blank"><font color="#0000FF">PDF</font></a></p>
+
+<p>Funded in part by the NEH grant <a href="https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HD-51214-11"target="_blank"><font color="#0000FF">HD-51214-11</font></a>.</p>
+			<div>
+		</div>
+</div>
+</div>
+<div id="myfooter"><font class="footer_text"><font style="BACKGROUND-COLOR: #623F2B;" color="#FFFFFF">&nbsp;The Digital Epigraphy and Archaeology Group, University of Florida, P.O.Box 115810, 101 Norman Gym, Gainesville, FL 32611-5810 USA&nbsp;</font></font></div>
+<script type="text/javascript">
+{
+	dea_toolbox.showFooter();
+	document.write('</div>');	
+	
+	var opn={set:function(dst,src)
+{
+	for(v in src)
+		dst[v]=src[v];
+}}
+	var div=document.createElement('div');
+				opn.set(div.style,{
+					position:'relative',
+					left:'0px',
+					right:'0px',
+					height:'auto',
+					padding:'10px',
+					//textAlign:'center',
+					fontFamily:'Arial',
+					backgroundColor:'rgb(128,98,165)',
+					color:'white',
+					border:'1px solid black',
+					cursor:'default',
+					display:'flex',
+					justifyContent: 'center',
+					alignItems: 'center',
+					boxShadow:'rgb(136, 136, 136) 0px 10px 10px',
+					margin:'10px',
+					borderRadius:'10px'
+				});
+				var txt=document.createElement('div');
+				opn.set(txt.style,{
+					width:'100%'
+				});
+				div.appendChild(txt);
+				txt.innerHTML='<b>'+'New Version Available'+'</b><br><br>'+'As of Feb. 2022, a new version of the shape-from-shading tool is available at: <a href="https://www.digitalepigraphy.org/db/app/sfs">https://www.digitalepigraphy.org/db/app/sfs</a>';
+				var btn=document.createElement('div');
+				opn.set(btn.style,{
+					cursor:'pointer',
+					fontFamily:'Arial',
+					fontWeight:'700',
+					fontSize:'24px',
+					paddingLeft:'10px',
+					paddingRight:'10px',
+					border:'2px solid white',
+					borderRadius:'15px',
+					lineHeight:'normal'
+				});
+				btn.innerHTML="View old website";
+				btn.addEventListener('click',()=>{
+					announcement_div.remove();
+				})
+				div.appendChild(btn);
+				var announcement_div=document.createElement('div');
+		opn.set(announcement_div.style,{
+			position:'absolute',
+			scrollY:'auto',
+			top:'0px',
+			left:'0px',
+			right:'0px',
+			bottom:'0px',
+			backgroundColor:'rgba(0,0,0,0.2)',
+			cursor:'not-allowed',
+			zIndex:'100000'
+		});
+		announcement_div.appendChild(div);
+				document.body.appendChild(announcement_div);
+}
+</script>
+</body></html>

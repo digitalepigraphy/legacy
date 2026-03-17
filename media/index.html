@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="../img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="twitter_core.bundle.css" />
+<link rel="stylesheet" type="text/css" href="../main_web.css" />
+<title>International Media on the Digital Epigraphy and Archaeology Project</title>
+
+
+<script type="text/javascript">
+
+function press_item(uimg, uname, ulink, uid, date, media, link, text, img) {
+    let html = `
+<li class="js-stream-item stream-item stream-item expanding-stream-item cards-forward" data-item-type="tweet">
+  <ol role="presentation" class="expanded-conversation expansion-container js-expansion-container js-navigable-stream">
+    <li role="presentation" class="original-tweet-container">
+      <div class="tweet original-tweet js-stream-tweet js-actionable-tweet js-profile-popup-actionable js-original-tweet has-cards has-native-media with-media-forward media-forward">
+        <div class="context"></div>
+        <div class="content">
+          <div class="stream-item-header">
+            
+            <a href="${link}">
+              <img style="float: right; margin-top: 3px; margin-left: 58px; width: 32px;height: 32px;" src="${media}.png">
+            </a>
+
+            <a class="account-group js-account-group js-action-profile js-user-profile-link js-nav" href="${ulink}">
+              <img class="avatar js-action-profile-avatar" src="${uimg}">
+              <strong class="fullname js-action-profile-name show-popup-with-id">${uname}</strong>
+              <span class="username js-action-profile-name"><s>@</s><b>${uid}</b></span>
+            </a>
+
+            <small class="time">
+              <span class="_timestamp js-short-timestamp">${date}</span>
+            </small>
+          </div>
+
+          <p class="js-tweet-text tweet-text" lang="en">${text}</p>
+
+          <div class="cards-media-container js-media-container">
+            <div data-card-type="photo" class="cards-base cards-multimedia">
+              <a class="media media-thumbnail twitter-timeline-link media-forward is-preview" href="${link}">
+                <div class="is-preview">
+                  ${img && img.length > 0 ? `<img src="${img}" width="100%" alt="Embedded image permalink" style="margin-top: -30px;">` : ``}
+                </div>
+              </a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </li>
+  </ol>
+</li>
+`;
+
+    // Append to a container (you need to have one in your HTML)
+    document.getElementById("feed").insertAdjacentHTML("beforeend", html);
+}
+
+function start(){
+
+press_item('uid52.jpg','Jeff Veitch','https://twitter.com/JDVeitch','JDVeitch','Jun 1, 2017 - 6:10am','twitter','https://twitter.com/JDVeitch/status/870266373011886080', '3D prints from Digital Epigraphy &amp; Archaeology project (<a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a> ) <s>#</s><b>capturingsenses</b>','img11.jpg');
+	
+	press_item('uid52.jpg','Jeff Veitch','https://twitter.com/JDVeitch','JDVeitch','Jun 1, 2017 - 5:43am','twitter','https://twitter.com/JDVeitch/status/870259482839982080', 'Eleni Bozia reflects on the humanities &amp; digital tools in the midst of department &amp; disciplinary divisions <s>#</s><b>capturingsenses</b>','img10.jpg');
+	
+	press_item('uid55.jpg','Costas Papadopoulos','https://twitter.com/Papadopoulos_C','Papadopoulos_C','Jun 1, 2017 - 5:42am','twitter','https://twitter.com/Papadopoulos_C/status/870259145429176323', '<s>#</s><b>archaeological</b> and <s>#</s><b>epigraphic data</b> - <s>#</s><b>3D</b> imaging <s>#</s><b>virtualreality</b> <s>#</s><b>augmentedreality</b> <s>#</s><b>capturingsenses</b> @lunduniversity','img12.jpg');
+	
+	press_item('uid53.jpg','erik champion','https://twitter.com/nzerik','nzerik','May 28, 2016 - 12:43am','twitter','https://twitter.com/nzerik/status/736462809496592384', 'Replying to @morethangrass <a href="http://www.digitalepigraphy.org/news/the_national_archives_3d_digitization_project/"><font color="#0000FF">digitalepigraphy.org/news/the_natio...</font></a> cool project, ta!! @infoliterati hmm could we 3d print ancient coins for a workshop? Nb @adreinhard','');
+	
+	press_item('uid54.jpg','Lise Summers','https://twitter.com/morethangrass','morethangrass','May 28, 2016 - 12:25am','twitter','https://twitter.com/morethangrass/status/736458385730605059', 'Replying to @infoliterati I\'m more about the challenges of retaining and maintaining the digitised content, but found this - <a href="http://www.digitalepigraphy.org/news/the_national_archives_3d_digitization_project/"><font color="#0000FF">digitalepigraphy.org/news/the_natio...</font></a>','');
+	
+	press_item('uid16.jpg','Laurie N. Taylor','https://twitter.com/laurien','laurien','Feb 24, 2016 - 1:39pm','twitter','https://twitter.com/laurien/status/702608938508918788', 'Love it! Using <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>  for letterpress books, cards, & artists books! @ehh_ptr @UF_Humanities @UFDigitalWorlds','');
+	
+	press_item('uid16.jpg','Laurie N. Taylor','https://twitter.com/laurien','laurien','Feb 24, 2016 - 1:05pm','twitter','https://twitter.com/laurien/status/702600191191425029', '"Skeleton query" <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>  pose &amp; find statues w the posture, Eleni Bozia presenting, so cool! <s>@</s><b>ufdigitalhum</b> <s>@</s><b>ElizabethRDale</b>','');
+	
+	press_item('uid16.jpg','Laurie N. Taylor','https://twitter.com/laurien','laurien','Feb 24, 2016 - 12:39pm','twitter','https://twitter.com/laurien/status/702593690502561794', 'Eleni Bozia on community/scholar sourcing for Digital Epigraphy &amp; Archaeology Project <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>  <s>@</s><b>ElizabethRDale</b> <s>@</s><b>ufdigitalhum</b>','');
+	
+	press_item('uid50.jpg','lorna hughes','https://twitter.com/lornamhughes','lornamhughes','Jan 29, 2016 - 2:58am','twitter','https://twitter.com/lornamhughes/status/693025508108406789', 'The <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>  project has some wonderful interactive visualizations  <s>#</s><b>eagle2016</b>','');
+	
+	press_item('uid51.jpg','Manuel Ram&#237;rez','https://twitter.com/manuelramirez','manuelramirez','Jan 29, 2016 - 4:25am','twitter','https://twitter.com/manuelramirez/status/693047226852052992', 'Eleni Bozia presents de <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a> project at <s>#</s><b>EAGLE2016</b> <s>@</s><b>SapienzaRoma</b>','img9.jpg');
+	
+	press_item('uid50.jpg','lorna hughes','https://twitter.com/lornamhughes','lornamhughes','Jan 29, 2016 - 2:43am','twitter','https://twitter.com/lornamhughes/status/693021752088068096', 'Eleni Bozia on <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>  - lots of analysis of users needs! <s>#</s><b>eagle2016</b>','');
+	
+	press_item('uid48.jpg','DigitalHeritageAge','https://twitter.com/DH_Age','DH_Age','Sep 16, 2015 - 2:17pm','twitter','https://twitter.com/DH_Age/status/644258905984339968', 'The Digital Epigraphy Toolbox is an digital tool for examining inscriptions #virtualheritage <s>#</s><b>epigraphy</b> <s>#</s><b>3D</b> <a href="http://www.digitalepigraphy.org/viewfull?heightmap=d1a7a25fdaf3010f"><font color="#0000FF">digitalepigraphy.org/viewfull?heigh...</font></a>','');
+	
+	press_item('uid44.jpg','Sian Jones','https://twitter.com/Blinkymanx','Blinkymanx','Sep 5, 2015 - 3:30am','twitter','https://twitter.com/Blinkymanx/status/640109805223415808', 'E Bozia talking about replicating  replicas. 3D digitisation of paper squeezes. <s>#</s><b>Ca19</b> <s>#</s><b>EAAGla</b> <s>@</s><b>EAAGlasgow</b>','');
+	
+	press_item('uid45.jpg','Alison Atkin','https://twitter.com/alisonatkin','alisonatkin','Sep 5, 2015 - 3:25am','twitter','https://twitter.com/alisonatkin/status/640108590401998848', 'Okay so I don\'t deal with texts, but if you do <a href="http://www.digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a> looks ace! <s>#</s><b>CA19</b> <s>#</s><b>eaagla</b> <s>@</s><b>katemond</b>','');
+	
+	press_item('uid34.jpg','Fabienne Marchand','https://twitter.com/FV_Marchand','FV_Marchand','May 1, 2015 - 6:55am','twitter','https://twitter.com/FV_Marchand/status/594138101955620864', 'Exciting project between France and the UF: 3D digitisation of <s>#</s><b>squeezes</b> of inscriptions from Thessaly <s>#</s><b>Epigraphy</b> <a href="http://www.digitalepigraphy.org/news/the_estampages_3d_digitization_project_of_greek_inscriptions/"><font color="#0000FF">digitalepigraphy.org/news/the_estam...</font></a>','');
+	
+	press_item('uid14.jpg','UF Humanities Center','https://twitter.com/UF_Humanities','UF_Humanities','Apr 24, 2015 - 11:35am','twitter','https://twitter.com/UF_Humanities/status/591671747172261888', 'Angelos @UFDigitalWorlds opens up 3d scanning and preservation to all sizes of data across humanities. <s>#</s><b>tcgnv</b>','img5.jpg');
+	
+	press_item('uid46.jpg','THATCamp Gainesville','https://twitter.com/THATCampGNV','THATCampGNV','Apr 22, 2015 - 10:13am','twitter','https://twitter.com/THATCampGNV/status/590926316318371840', 'Interested in 3D scanning and printing? Join Angelos Barmpoutis\'s "Play" session &amp; DIY workshop <a href="http://gainesville2015.thatcamp.org/2015/04/18/diy-workshop-3d-digitization-and-3d-printing/"><font color="#0000FF">gainesville2015.thatcamp.org/2015/04/18/diy...</font></a> <s>#</s><b>tcgnv</b>','');
+	
+	press_item('uid1.jpg','Jonathan Westin','https://twitter.com/Kallikanzaros','Kallikanzaros','Mar 21, 2015 - 3:10am','twitter','https://twitter.com/Kallikanzaros/status/579223612554641408', 'Eleni Bozia makes the audience go wow <s>#</s><b>ctp2015</b>  <s>@</s><b>ctp2015</b>','img1.jpg');
+	press_item('uid2.jpg','Adam Chapman','https://twitter.com/Woodlandstaar','Woodlandstaar','Mar 21, 2015 - 2:20am','twitter','https://twitter.com/Woodlandstaar/status/579210908565639168', 'Eleni Bozia shows inventive uses of Kinect for teaching classics <s>#</s><b>ctp2015</b>','img2.jpg');
+	press_item('uid3.jpg','Edwige Leli&#232;vre','https://twitter.com/edwigelel','edwigelel','Mar 21, 2015 - 2:02am','twitter','https://twitter.com/edwigelel/status/579206432681246720', 'Another example with the Monumentum Ancyranum <a href="http://www.digitalepigraphy.org/viewfull?heightmap=vret3kqeote7lnna"><font color="#0000FF">digitalepigraphy.org/viewfull?heigh...</font></a> Extremely cheap 3D scanning: only need A4 scan or pictures <s>#</s><b>ctp2015</b>','');
+	press_item('uid29.jpg','Jo Matias','https://twitter.com/jz_matias','jz_matias','Mar 21, 2015 - 1:52am','twitter','https://twitter.com/jz_matias/status/579203899221000192', 'Elena Bozia on the future of epigraphy: 3D models! The technology is pretty wild  <s>#</s><b>ctp2015</b>','img6.jpg');
+	press_item('uid3.jpg','Edwige Leli&#232;vre','https://twitter.com/edwigelel','edwigelel','Mar 21, 2015 - 1:49am','twitter','https://twitter.com/edwigelel/status/579203145491984384', 'Eleni Bozia is showing a really cool tool for examining in 3D squeezes of epigraphy: <a href="http://www.digitalepigraphy.org/viewfull?heightmap=d1a7a25fdaf3010f"><font color="#0000FF">http://www.digitalepigraphy.org/viewfull?heightm...</font></a> <s>#</s><b>ctp2015</b>','img3.jpg');
+	
+	press_item('uid3.jpg','Edwige Leli&#232;vre','https://twitter.com/edwigelel','edwigelel','Mar 21, 2015 - 1:35am','twitter','https://twitter.com/edwigelel/status/579199574050545664', 'Eleni Bozia&#39;s talk at <s>#</s><b>ctp2015</b>: The Visual Language and metalanguage of ancient sources. Begins with Umberto Eco&#39;s The name of the rose!','');
+	
+	press_item('uid4.jpg','Simon Lindgren','https://twitter.com/simonlindgren','simonlindgren','Mar 17, 2015 - 2:45am','twitter','https://twitter.com/simonlindgren/status/577767671892205568', 'At <s>@</s><b>HUMlab</b> seminar with Eleni Bozia and <s>@</s><b>adreinhard</b> (chaired by <s>@</s><b>FencingFox</b> ). Nice to have future post-doc <s>@</s><b>lornarichardson</b> visiting!','');
+	
+	press_item('uid5.jpg','Patrik Svensson','https://twitter.com/patriksv','patriksv','Mar 13, 2015 - 8:48am','twitter','https://twitter.com/patriksv/status/576409602826321920', 'And the same day (Tuesday, March 17): Eleni Bozia and <s>@</s><b>adreinhard</b></a> in HUMlab. Great day! <a href="http://www.humlab.umu.se/en/events/calendar/?link=http://rss.kc.umu.se/english/humlab/calendar/calendardisplay/?eventId=9869"><font color="#0000FF">humlab.umu.se/en/events/cale...</font></a>','');
+	
+	press_item('uid6.jpg','HUMlab','https://twitter.com/HUMlab','HUMlab','Mar 11, 2015 - 12:41am','twitter','https://twitter.com/HUMlab/status/575562107070062593', 'Don&#39;t miss! SeminarsX3 March 17, with Eleni Bozia <s>@</s><b>UF</b>, <s>@</s><b>adreinhard</b> and <s>@</s><b>RaifordGuins</b>! <a href="http://www.humlab.umu.se/en/events/calendar/"><font color="#0000FF">humlab.umu.se/en/events/cale...</font></a> <s>@</s><b>umeauniversity</b> <s>@</s><b>humanioraumu</b>','');
+	
+	press_item('uid36.jpg','Ancient Jew Review','https://twitter.com/ancientjew','ancientjew','Mar 3, 2015 - 5:04am','twitter','https://twitter.com/ancientjew/status/572744436972703744', 'Digital epigraphy! Open source epigraphic collaboration shares artifacts broadly.   <a href="http://www.digitalepigraphy.org/news/embed_3d_inscriptions_into_your_website/"><font color="#0000FF">digitalepigraphy.org/news/embed_3d_...</font></a>','');
+	
+	press_item('uid30.jpg','Dickinson College Commentaries by Chris Francese','https://twitter.com/DCComm','DCComm','Mar 3, 2015 - 4:51am','twitter','https://twitter.com/DCComm/status/572741065909932032', 'Paper cast of the Res Gestae Divi Augusti inscription from the Monumentum Ancyranum, represented in 3-D <a href="http://www.digitalepigraphy.org/viewfull?heightmap=0azgbxh8j3455j9v"><font color="#0000FF">digitalepigraphy.org/viewfull?heigh...</font></a>','');
+	press_item('uid30.jpg','Dickinson College Commentaries by Chris Francese','https://twitter.com/DCComm','DCComm','Mar 3, 2015 - 4:48am','twitter','https://twitter.com/DCComm/status/572740380489334784', 'You can embed 3-D representations of inscriptions in your website, thanks to Dig Epig, Project <a href="http://www.digitalepigraphy.org/news/embed_3d_inscriptions_into_your_website/"><font color="#0000FF">digitalepigraphy.org/news/embed_3d_...</font></a>','');
+	press_item('uid30.jpg','Dickinson College Commentaries by Chris Francese','https://twitter.com/DCComm','DCComm','Mar 3, 2015 - 4:47am','twitter','https://twitter.com/DCComm/status/572740009381502977', 'Enjoyed a fascinating presentation from the team at U. Fla\s <b>Digital Epigraphy Project</b>. <a href="http://www.digitalepigraphy.org/"><font color="#0000FF">http://www.digitalepigraphy.org/</font></a>  3-D scans of squeezes rock!','');
+	
+	press_item('uid37.jpg','Dan Cohen','https://twitter.com/dancohen','dancohen','Feb 3, 2015 - 8:38am','twitter','https://twitter.com/dancohen/status/562651457523310592', 'Interesting to see what additional info one might be able to glean from 3D (vs 2D) scans of ancient papyri/tablets <a href="http://www.digitalepigraphy.org/collection/ancyranum/"><font color="#0000FF">digitalepigraphy.org/collection/anc...</font></a>','');
+	
+	press_item('uid38.jpg','Tim Sorg','https://twitter.com/timsorg','timsorg','Feb 2, 2015 - 2:18pm','twitter','https://twitter.com/timsorg/status/562374626425446401', '3D images of <s>#</s><b>Cornell</b> collection of <s>#</s><b>ResGestae</b> squeezes now online <a href="http://www.digitalepigraphy.org/collection/ancyranum/"><font color="#0000FF">digitalepigraphy.org/collection/anc...</font></a>','img7.jpg');
+	
+	press_item('uid49.jpg','Simona Stoyanova','https://twitter.com/SimonStoyanova','SimonStoyanova','Dec 4, 2014 - 8:34am','twitter','https://twitter.com/SimonStoyanova/status/540544596959584256', '<s>#</s><b>OpenPhilology</b> Eleni Bozia on using virtual reality and experimental learning in teaching Classical drama','');
+	
+	press_item('uid10.jpg','Tom Elliott','https://twitter.com/paregorios','paregorios','Sep 30, 2014 - 6:21am','twitter','https://twitter.com/paregorios/status/516940821401440256', '<s>#</s><b>eagle2014</b> digital epigraphy toolbox provides tools to build the 3D model from your own flatbed scans of the squeeze','');
+	
+	press_item('uid10.jpg','Tom Elliott','https://twitter.com/paregorios','paregorios','Sep 30, 2014 - 6:15am','twitter','https://twitter.com/paregorios/status/516939487012999168', 'Bozia: The Digital Epigraphy Toolbox: <a href="http://digitalepigraphy.org/toolbox/info.html"><font color="#0000FF">digitalepigraphy.org/toolbox/info.h...</font></a> manipulate 3D models of inscriptions through your browser','');
+	
+	press_item('uid40.jpg','Finlay McCourt','https://twitter.com/FinlayMcCourt','FinlayMcCourt','Sep 30, 2014 - 6:08am','twitter','https://twitter.com/FinlayMcCourt/status/516937743898017792', '<s>#</s><b>eagle2014</b> <a href="http://digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a> "we provide the source code of this software which can be accessed using the D...','');
+	
+	press_item('uid10.jpg','Tom Elliott','https://twitter.com/paregorios','paregorios','Sep 30, 2014 - 6:00am','twitter','https://twitter.com/paregorios/status/516935649883332608', '<s>#</s><b>eagle2014</b> <s>#</s><b>openaccess</b> <s>#</s><b>epigraphy</b>: electronic dissemination of 3D-digitized archaeological material (E. Bozia, A. Barmpoutis, R. Wagman)','');
+	
+	press_item('uid10.jpg','Tom Elliott','https://twitter.com/paregorios','paregorios','Sep 30, 2014 - 1:18am','twitter','https://twitter.com/paregorios/status/516864591490715648', 'Angelos Barmpoutis considers computer vision, pattern recognition, machine learning for <s>#</s><b>epigraphy</b> <s>#</s><b>eagle2014</b> <a href="http://eer.hypotheses.org/technology-tradition-a-synergic-approach-to-deciphering-analyzing-and-annotating-epigraphic-writings/unit-1-computer-graphics-digital-epigraphy-and-computational-linguistics-from-cnr-pisa/matteo-delle-piane-new-technologies-and-epigraphic-writings-current-trends-and-perspectives"><font color="#0000FF">http://eer.hypotheses.org/technology-tra...</font></a>','');
+	
+	press_item('uid21.jpg','Rebecca Fitzsimmons','https://twitter.com/writing_it_down','writing_it_down','Apr 25, 2014 - 3:55pm','twitter','https://twitter.com/writing_it_down/status/459828075271045120', 'One last thing from an amazing 2 days at <s>#</s><b>tcgnv</b>. Really cool technology that will be changing online education.','img4.jpg');
+	
+	press_item('uid41.jpg','Biblissima','https://twitter.com/biblissima','biblissima','March 25, 2014 - 10:19am','twitter','https://twitter.com/biblissima/status/448509503651450880', '<s>#</s><b>Digitalepigraphy</b> &amp; <s>#</s><b>archaeology</b> <s>#</s><b>classics</b> <s>#</s><b>inscriptions</b> <s>#</s><b>3Dvisualization</b> <a href="http://www.digitalepigraphy.org/"><font color="#0000FF">digitalepigraphy.org</font></a>','');
+	
+	press_item('uid22.jpg','Humanities Insights','https://humanitiesinsights.wordpress.com/','NEHgov','March 18, 2014 - 2:15pm','website','https://humanitiesinsights.wordpress.com/2014/03/18/march-madness-at-the-neh-university-of-florida/', 'March Madness at the NEH: University of Florida - The Digital Epigraphy and Archaeology project (DEA) is an interdisciplinary project initiated by scientists from <a href="https://humanitiesinsights.wordpress.com/2014/03/18/march-madness-at-the-neh-university-of-florida/"><font color="#0000FF">...</font></a>','');
+	
+	press_item('uid31.jpg','Classics at UGA','https://twitter.com/ClassicsatUGA','ClassicsatUGA','Feb 24, 2014 - 11:15am','twitter','https://twitter.com/ClassicsatUGA/status/438029556554166273', 'Cody Houseman: The Digital Epigraphy and Archaeology project | Classics <a href="http://fb.me/1cbS4tjQt"><font color="#0000FF">http://fb.me/1cbS4tjQt</font></a>','');
+	
+	press_item('uid28.jpg','Cody Houseman','http://www.classics.uga.edu/news/cody-houseman-digital-epigraphy-and-archaeology-project','classics_uga','Feb 24, 2014 - 2:09pm','website','http://www.classics.uga.edu/news/cody-houseman-digital-epigraphy-and-archaeology-project', 'DEA should not sound too far-fetched. After all, gaming systems which use haptic technology and 3D motion detection and on-screen recreation have been on the market for a few years now. It is about time we apply similar technology in the field of archaeology beyond artists&#39; renderings based on maps.','');
+	
+	press_item('uid42.jpg','Hamdi &#350;ahin','https://twitter.com/Hamdi_Sahin','Hamdi_Sahin','Feb 11, 2014 - 12:07pm','twitter','https://twitter.com/Hamdi_Sahin/status/433331466152321024', 'Visualization of the 3D reconstructed model of  a part of the Res Gestae via <a href="http://www.digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>','img8.jpg');
+	
+	press_item('uid23.jpg','JustNews','http://www.justnews.it/','JNews','Jan 8, 2014 - 4:35am','website','http://www.justnews.it/2014/01/08/usa-tele-epigrafia-3d-16555.html', 'USA: Tele-Epigrafia in 3D JustNews.it Il portale delle news Ecco un passo veramente importante nell&#39;uso delle stampanti 3D per le comunit&#224; accademiche di tutto il mondo. Da qualche mese dall&#39; Universit&#224; della Florida e dalla Cornell University , entrambe <a href="http://www.justnews.it/2014/01/08/usa-tele-epigrafia-3d-16555.html"><font color="#0000FF">...</font></a>','');
+	
+	press_item('uid43.jpg','corem2r','https://twitter.com/corem2r','corem2r','Jan 7, 2014 - 10:11am','twitter','https://twitter.com/corem2r/status/420618827064672256', 'Um grupo interdisciplinar fez a 1a. teletransfer&ecirc;ncia de uma inscri&ccedil;&atilde;o antiga em relevo, enviada de Cornell e... <a href="http://fb.me/2hiNi0FTV"><font color="#0000FF">fb.me/2hiNi0FTV</font></a>','');
+	
+	press_item('uid32.jpg','&#27508;&#21490;&#12392;&#12487;&#12472;&#12479;&#12523;','https://twitter.com/historyanddigi','historyanddigi','Jan 5, 2014 - 3:05pm','twitter','https://twitter.com/historyanddigi/status/419967901420908545', '"Digital Epigraphy and Archaeology Project" good read &#12501;&#12525;&#12522;&#12480;&#22823;&#12398;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488; <a href="http://ancientworldonline.blogspot.com/2014/01/digital-epigraphy-and-archaeology.html"><font color="#0000FF">ancientworldonline.blogspot.com/2014/01/digita...</font></a>','');
+	
+	press_item('uid33.jpg','Dr John Ward KT','https://twitter.com/drjohnwardkt','drjohnwardkt','Jan 4, 2014 - 11:32pm','twitter','https://twitter.com/drjohnwardkt/status/419733244092100608', 'Digital Epigraphy and Archaeology Project - Digital Worlds Institute - Department of Classics - Univ... | <s>@</s>scoopit <a href="http://sco.lt/5gFz8r"><font color="#0000FF">http://sco.lt/5gFz8r</font></a>','');
+	
+	press_item('uid11.jpg','Ste. Trombetti','https://twitter.com/ste_trombetti','ste_trombetti','Jan 4, 2014 - 9:11am','twitter','https://twitter.com/ste_trombetti/status/419471138977513473', 'Digital Epigraphy Toolbox: <a href="http://www.digitalepigraphy.org/toolbox/info.html"><font color="#0000FF">digitalepigraphy.org/toolbox/info.h...</font></a>','');
+	
+	press_item('uid26.jpg','Charles E. Jones','http://ancientworldonline.blogspot.com/','ancientworldonline','Jan 4, 2014 - 8:21am','blog','http://ancientworldonline.blogspot.com/2014/01/digital-epigraphy-and-archaeology.html', 'Digital Epigraphy and Archaeology Project: DEA is an interdisciplinary project initiated by scientists from the Digital Worlds Institute and the Department of Classics at the University of Florida. The goal of the project <a href="http://ancientworldonline.blogspot.com/2014/01/digital-epigraphy-and-archaeology.html"><font color="#0000FF">...</font></a>','');
+	
+	press_item('uid42.jpg','Hamdi &#350;ahin','https://twitter.com/Hamdi_Sahin','Hamdi_Sahin','Nov 7, 2013 - 2:01am','twitter','https://twitter.com/Hamdi_Sahin/status/398389643835502592', 'Digital Epigraphy <a href="http://www.digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a>','');
+	
+	press_item('uid7.jpg','simon mahony','https://twitter.com/simon_mahony','simon_mahony','Jul 29, 2013 - 12:14am','twitter','https://twitter.com/simon_mahony/status/361746501313118208', 'Eleni Bozia: The Digital Epigraphy and Archaeology Project. video/audio/slides now online <a href="http://www.digitalclassicist.org/wip/wip2013.html"><font color="#0000FF">digitalclassicist.org/wip/wip2013.ht...</font></a> <s>#</s><b>DigiClass</b>','');
+	
+	press_item('uid8.jpg','Stoa','https://twitter.com/stoaorg','stoaorg','Jul 24, 2013 - 4:55am','twitter','https://twitter.com/stoaorg/status/360005285361876992', '<s>#</s><b>digiclass</b> The Digital Epigraphy and Archaeology Project (Eleni Bozia): This presentation will introduce the D... ','');
+
+	press_item('uid47.jpg','Emily Lena Jones','https://twitter.com/emilylenajones','emilylenajones','Jul 12, 2013 - 9:01am','twitter','https://twitter.com/emilylenajones/status/355718468357734400', 'RT <s>@</s><b>palaeofuturist</b>: Eleni Bozia from U Florida is speaking on the Digital Epigraphy and Archaeology Project <s>#</s><b>digiclass</b>','');
+	
+	press_item('uid12.jpg','Gabriel Bodard','https://twitter.com/palaeofuturist','palaeofuturist','Jul 12, 2013 - 8:57am','twitter','https://twitter.com/palaeofuturist/status/355717637172498432', 'Digital Epigraphy Toolbox has a button, "3D from 2D" that does all the work of creating model. <s>#</s><b>digiclass</b>','');
+	
+	press_item('uid12.jpg','Gabriel Bodard','https://twitter.com/palaeofuturist','palaeofuturist','Jul 12, 2013 - 8:56am','twitter','https://twitter.com/palaeofuturist/status/355717242119393280', 'Bozia giving detailed demonstration of value of palaeographic collections for reading and dating inscriptions <s>#</s><b>digiclass</b>','');
+	
+	press_item('uid12.jpg','Gabriel Bodard','https://twitter.com/palaeofuturist','palaeofuturist','Jul 12, 2013 - 8:54am','twitter','https://twitter.com/palaeofuturist/status/355716799557410817', 'Digital Epigraphy Toolbox: 2 scans, at 90* angle, with flatbed scanner; physical properties of paper known. "Shape from shading". <s>#</s><b>digiclass</b>','');
+	
+	press_item('uid39.jpg','From Stone to Screen','https://twitter.com/CNRS_Squeezes','CNRS_Squeezes','Jul 11, 2013 - 12:03pm','twitter','https://twitter.com/CNRS_Squeezes/status/355401866332487681', 'Check out some other digital epigraphy projects - this one from U of Florida <a href="http://bit.ly/14LxvYT"><font color="#0000FF">bit.ly/14LxvYT</font></a>  <s>#</s><b>digital</b> humanities','');
+	
+	press_item('uid9.jpg','Kathryn E. Piquette','https://twitter.com/kathrynpiquette','kathrynpiquette','Jul 10, 2013 - 8:34am','twitter','https://twitter.com/kathrynpiquette/status/354987020449349633', 'Eleni Bozia (Florida): The Digital Epigraphy and Archaeology Project. Friday July 12th at 16:30 <a href="http://www.digitalclassicist.org/wip/wip2013-06eb.html"><font color="#0000FF">digitalclassicist.org/wip/wip2013-06...</font></a>','');
+	
+	press_item('uid25.jpg','Paola Tomasi','http://inscriptio.hypotheses.org/author/inscriptio','hypotheses.org','March 14, 2013 - 4:45am','blog','http://inscriptio.hypotheses.org/74', 'A fascinating project from the Classics Dept. of Florida University, presented also at the XIV Congressus Internationalis Epigraphiae Graecae et Latinae <a href="http://inscriptio.hypotheses.org/74"><font color="#0000FF">...</font></a>','');
+	
+	
+	press_item('uid13.jpg','Sarah Bond','https://twitter.com/SarahEBond','SarahEBond','Dec 27, 2012 - 3:06am','twitter','https://twitter.com/SarahEBond/status/284253898020118529', 'Having fun playing with the U of Florida (free) Digital Epigraphy Toolbox which can help anyone turn squeeze scans 3D! <a href="http://www.digitalepigraphy.org/toolbox/"><font color="#0000FF">digitalepigraphy.org/toolbox/</font></a>','');
+	
+	press_item('uid24.jpg','UF Digital Worlds','https://twitter.com/UFDigitalWorlds','UFDigitalWorlds','Nov 14, 2012 - 11:15am','twitter','https://twitter.com/UFDigitalWorlds/status/268794315046793216', 'Digital Worlds Professor, Angelos Barmpoutis, placed second at a competition for <s>#</s><b>DigitalHumanities</b> for the Digital Epigraphy Toolbox','');
+	
+	press_item('uid27.jpg','Chris Christodoulou','https://plus.google.com/+ChrisChristodoulou78','ephilology','Sep 29, 2012 - 5:35am','blog','http://ephilology.blogspot.com/2012/09/digital-epigraphy-toolbox.html', '&Tau;&omicron; Digital Epigraphy Toolbox &epsilon;&#943;&nu;&alpha;&iota; &#941;&nu;&alpha; &kappa;&alpha;&iota;&nu;&omicron;&#973;&rho;&iota;&omicron; &kappa;&alpha;&iota; &epsilon;&xi;&epsilon;&lambda;&iota;&gamma;&mu;&#941;&nu;&omicron; &epsilon;&rho;&epsilon;&upsilon;&nu;&eta;&tau;&iota;&kappa;&#972; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;&#943;&omicron; &gamma;&iota;&alpha; &tau;&eta;&nu; &alpha;&nu;&#940;&gamma;&nu;&omega;&sigma;&eta; &kappa;&alpha;&iota; &alpha;&nu;&#940;&lambda;&upsilon;&sigma;&eta; &tau;&omega;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;&#974;&nu; &kappa;&alpha;&iota; &lambda;&alpha;&tau;&iota;&nu;&iota;&kappa;&#974;&nu; &alpha;&rho;&chi;&alpha;&#943;&omega;&nu; &epsilon;&pi;&iota;&gamma;&rho;&alpha;&phi;&#974;&nu;. &Eta; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;&#942; &epsilon;&pi;&iota;&tau;&rho;&#941;&pi;&epsilon;&iota; &tau;&eta;&nu; &tau;&rho;&iota;&sigma;&delta;&iota;&#940;&sigma;&tau;&alpha;&tau;&eta; 3D &alpha;&pi;&epsilon;&iota;&kappa;&#972;&nu;&iota;&sigma;&eta; &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&gamma;&rho;&alpha;&phi;&#942;&sigmaf; &kappa;&alpha;&iota; &tau;&eta;&nu; &alpha;&pi;&omicron;&theta;&#942;&kappa;&epsilon;&upsilon;&sigma;&eta; &tau;&eta;&sigmaf; &mu;&epsilon;&tau;&alpha;&gamma;&rho;&alpha;&phi;&#942;&sigmaf; &tau;&eta;&sigmaf; &sigma;&tau;&eta;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&tau;&upsilon;&alpha;&kappa;&#942; &beta;&iota;&beta;&lambda;&iota;&omicron;&theta;&#942;&kappa;&eta;. &Eta; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;&#942; &alpha;&nu;&alpha;&pi;&tau;&#973;&chi;&theta;&eta;&kappa;&epsilon; &alpha;&pi;&#972; &tau;&omicron; UF &sigma;&tau;&alpha; &pi;&lambda;&alpha;&#943;&sigma;&iota;&alpha; &tau;&omicron;&upsilon; Digital Epigraphy & Archaeology (DEA)','');
+	
+	press_item('uid14.jpg','UF Humanities Center','https://twitter.com/UF_Humanities','UF_Humanities','Sep 5, 2012 - 1:20pm','twitter','https://twitter.com/UF_Humanities/status/243443573356392449', 'UF&#39;s digital epigraphy toolbox is released to the public: <a href="http://www.digitalepigraphy.org"><font color="#0000FF">digitalepigraphy.org</font></a> ! <s>#</s><b>digitalhumanities</b>','');
+	
+	press_item('uid35.jpg','Shannon Moore','https://twitter.com/caffeneko','caffeneko','Apr 26, 2012 - 11:04am','twitter','https://twitter.com/caffeneko/status/195574167372955649', '<a href="digitalworlds.ufl.edu/news/DigitalEpigraphy.asp"><font color="#0000FF">digitalworlds.ufl.edu/news/DigitalEp...</font></a> open-source cross-platform web-app:  for digital pres, study, & electronic dissemination of ancient inscriptions.','');
+	
+	press_item('uid15.jpg','Brian Croxall','https://twitter.com/briancroxall','briancroxall','Apr 26, 2012 - 10:47am','twitter','https://twitter.com/briancroxall/status/195569872963506178', 'That Digital Epigraphy Toolbox looks amazing. Great way to solve a problem with tools that almost any scholars has at home. <s>#</s><b>interfaceUF</b>','');
+	
+	press_item('uid15.jpg','Brian Croxall','https://twitter.com/briancroxall','briancroxall','Apr 26, 2012 - 10:43am','twitter','https://twitter.com/briancroxall/status/195568919556276225', 'In a few months, the Digital Epigraphy Toolbox will be online for anyone to use thanks to NEH funding! <s>#</s><b>interfaceUF</b>','');
+	
+	press_item('uid16.jpg','Laurie N. Taylor','https://twitter.com/laurien','laurien','Apr 26, 2012 - 10:43am','twitter','https://twitter.com/laurien/status/195568818561630208', '<s>@</s><b>briancroxall</b></a> the video of the Digital Epigraphy Toolbox is really awesome, showing the 3d so clearly and powerfully. <s>#</s><b>interfaceUF</b>','');
+	
+	press_item('uid15.jpg','Brian Croxall','https://twitter.com/briancroxall','briancroxall','Apr 26, 2012 - 10:39am','twitter','https://twitter.com/briancroxall/status/195567913846054913', 'You can create a 3D image of the squeeze by simply scanning it twice, once rotated 90 degrees. Light shift is enough. <s>#</s><b>interfaceUF</b>','');
+	
+	press_item('uid15.jpg','Brian Croxall','https://twitter.com/briancroxall','briancroxall','Apr 26, 2012 - 10:34am','twitter','https://twitter.com/briancroxall/status/195566599275675648', 'We are now hearing about the digital epigraphy toolbox from the Digital Worlds Institute: <a href="http://bit.ly/JIVYDT"><font color="#0000FF">bit.ly/JIVYDT</font></a>. <s>#</s><b>interfaceUF</b>','');
+	
+	press_item('uid17.jpg','Amanda French','https://twitter.com/amandafrench','amandafrench','Sep 27, 2011 - 7:53am','twitter','https://twitter.com/amandafrench/status/118699787708137474', 'Now: Digital Epigraphy Toolbox. Thingywhatsits for working with ancient inscriptions. <s>#</s><b>sug2011</b>','');
+	
+	press_item('uid18.jpg','Kathryn Tomasek','https://twitter.com/KathrynTomasek','KathrynTomasek','Sep 27, 2011 - 7:53am','twitter','https://twitter.com/KathrynTomasek/status/118699688852586497', 'Elli Mylonis, this is for you: Digital Epigraphy Toolbox. <s>#</s><b>SUG2011</b>','');
+	
+	press_item('uid19.jpg','John Muccigrosso','https://twitter.com/JD_PhD','JD_PhD','Apr 26, 2011 - 4:20pm','twitter','https://twitter.com/JD_PhD/status/63019612572360704', 'Digital Epigraphy Toolbox winds NEH <s>#</s><b>DigHum</b> grant: <a href="https://securegrants.neh.gov/PublicQuery/main.aspx?f=1&amp;gn=HD-51214-11"><font color="#0000FF">securegrants.neh.gov/PublicQuery/ma...</font></a>','');
+	
+	press_item('uid20.jpg','Bill LeFurgy','https://twitter.com/blefurgy','blefurgy','Apr 20, 2011 - 7:56am','twitter','https://twitter.com/blefurgy/status/60718564289687553', 'Epigraphic squeeze now in 3D!  NEH funds Digital Epigraphy Toolbox project at U of Florida http://ow.ly/4Ef4f','');
+}
+
+</script>
+
+</head>
+<body onload="start();">
+
+
+
+<div id="globalcontainer">
+       <div id="myheader_container">
+		<div id="myheader">
+           	<div id="mylogo"><img src="../img/main_web_logo.png" onclick="parent.location='../';" onMouseover="this.style.cursor='pointer';"></div>
+		<div id="myheader_links_container">
+              	<div id="myheader_upper_links">  
+				<div class="myheader_upper_block"><h4><a href="../contact">Contact</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="../media">Media</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="../people">People</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="../publications">Publications</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="../projects">Projects</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="../about">About</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="../">Home</a></h4></div>
+			</div>
+			<div id="myheader_lower_links">  
+              		<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div> 			
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>				
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>						
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+			</div>
+              </div>
+       </div>
+       </div>
+       <div id="myhrzone"></div>
+	<div id="maincontainer">
+
+		<div class="content_column" style="width:650px;">
+
+		<div role="main" aria-labelledby="content-main-heading" class="content-main light-inline-actions" id="timeline">
+  <div class="content-header">
+    <div class="header-inner">
+    <div class="search-header js-search-header">
+    
+  <h2 id="content-main-heading" class="search-title">
+    DEA - your project, your voice.
+    
+  </h2>
+</div>
+   
+
+</div>
+
+  </div>
+    <div class="stream-container ">
+
+      <div class="stream-item js-new-items-bar-container">
+</div>
+
+    <div class="stream search-stream">
+        <ol class="stream-items js-navigable-stream" id="stream-items-id">
+          
+		<div id="feed"></div>
+
+
+        </ol>
+        <div class="stream-footer">
+  <div class="timeline-end has-items">
+    <div class="stream-end">
+  <div class="stream-end-inner "> 
+         <p>You&#39;ve reached the end of the top media posts.</p>
+		 <p>Word cloud info-graphic:<br><img src="wordcloud.png" width="600px"/></p>
+		 
+  </div>
+</div>
+
+   
+
+  </div>
+</div>
+
+
+    </div>
+  </div>
+
+</div>
+		
+		</div>
+		<div class="last_column" style="width:305px;">
+		
+		<div class="content_block">
+			<div class="text_block dark_bkg">
+			<font class="ttl">Video library</font>
+			</div>
+			<div class="image_block">
+			<img src="../img/web_presentations.png" width="295px" onclick="parent.location='../videos';" onMouseover="this.style.cursor='pointer';"/>
+			</div>
+		</div>
+		
+			<?php 
+	require('../news/function_shownews.php');
+	show_news('../news/',0);
+	?>
+		
+		<font class="ttl">&nbsp;<b>Awards</b></font><br>
+		<img src="../img/leipzig_award.png" width="100px" title="e-Humanities Innovation Award, 2nd place, University of Leipzig, 2012">
+		<img src="../img/neh_grant2011.png" title="National Endowment for the Humanities, Office of Digital Humanities, Award: HD-51214-11, 2011-2012">
+		<img src="../img/chps_grant2013.png" title="Center for the Humanities and the Public Sphere, University of Florida, Rothman Summer Fellowship in the Humanities, 2013">
+		<img src="../img/ciegl_bursary_award_2007.png" width="100px" title="Bursary Award, University of Oxford, 13th International Congress of Greek and Latin Epigraphy, 2007">
+		<img src="../img/BSN5_2014_logo2.png" width="100px" title="BSN5 Grant for E-STAMPAGES project, French Ministry of Higher Education in collaboration with the University of Lyon 2 and the French School of Athens, 2014">
+		<br><br>
+		
+	
+	
+	
+		
+		</div>				
+	</div>
+	<div id="myfooter"><h5><font color="#FFFFFF">&nbsp;The Digital Epigraphy and Archaeology Group, University of Florida, P.O.Box 115810, 101 Norman Gym, Gainesville, FL 32611-5810 USA&nbsp;</font></h5></div>
+</div>
+
+</body>
+</html>

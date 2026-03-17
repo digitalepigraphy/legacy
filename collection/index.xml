@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<collections>
+	<collection>
+		<name>Digital Epigraphy and Archaeology database</name>
+		<description>Browse the entire database of the Digital Epigraphy and Archaeology project.</description>
+		<featured>object=bywt672d7suhw63g</featured>
+	</collection>
+	<collection>
+		<name>Epidaurica</name>
+		<folder>epidaurica</folder>
+		<description>A collection of inscriptions from Epidaurus.</description>
+		<featured>heightmap=d1a7a25fdaf3010f</featured>
+	</collection>
+	<collection>
+		<name>Tampa Museum of Art</name>
+		<folder>tampamuseum</folder>
+		<description>This collection contains archaeological exhibits from the Tampa Museum of Art.</description>
+		<featured>object=cg2s7dh28hd9js7d</featured>
+	</collection>
+	<collection>
+		<name>The National Archives</name>
+		<folder>nationalarchives</folder>
+		<description>Digitized exhibits from The National Archives [UK].</description>
+		<featured>heightmap=dgf9tila8gmhElys</featured>
+	</collection>
+	<collection>
+		<name>Monumentum Ancyranum</name>
+		<folder>ancyranum</folder>
+		<description>A collection of fragments from the Res Gestae Divi Augusti inscription from Monumentum Ancyranum.</description>
+		<featured>heightmap=4uk52idgb0a3xlnf</featured>
+	</collection>
+	<collection>
+		<name>Abraham Lincoln</name>
+		<folder>lincoln</folder>
+		<description>A collection of digitized embossments from manuscripts of Abraham Lincoln.</description>
+		<featured>heightmap=DLyHUwsYKYQVXirQ</featured>
+	</collection>
+	<collection>
+		<name>Aleshire</name>
+		<folder>aleshire</folder>
+		<description>Squeezes from the Aleshire collection housed in UC Berkeley.</description>
+		<featured>heightmap=h8346bs76ggt5s4d</featured>
+	</collection>
+	<collection>
+		<name>Nemea</name>
+		<folder>nemea</folder>
+		<description>A collection of inscriptions from the archaeological excavations in Nemea.</description>
+		<featured>heightmap=YzOBXO9ktBEguBjX</featured>
+	</collection>
+	<collection>
+		<name>Palazzo Altemps</name>
+		<folder>altemps</folder>
+		<description>A collection of digitized statues from Palazzo Altemps.</description>
+		<featured>object=statue1</featured>
+		<hidden>true</hidden>
+	</collection>
+</collections>

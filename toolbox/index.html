@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="../img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="toolbox.css" />
+<script type="text/javascript" src="toolbox.js"></script>
+<script type="text/javascript" src="../browser_check.js"></script>
+<title>Digital Epigraphy Toolbox - Digital Epigraphy and Archaeology</title>
+
+</head><body onload="browser_check();">
+<script type="text/javascript">
+dea_toolbox=new DigitalEpigraphyToolbox();
+{
+	var v=getURLValues();
+	if(typeof v['collection'] !== 'undefined') dea_toolbox.show('#623F2B','#FFFFFF',v['collection']);
+	else dea_toolbox.show('#623F2B','#FFFFFF');
+	
+	var opn={set:function(dst,src)
+{
+	for(v in src)
+		dst[v]=src[v];
+}}
+	var div=document.createElement('div');
+				opn.set(div.style,{
+					position:'relative',
+					left:'0px',
+					right:'0px',
+					height:'auto',
+					padding:'10px',
+					//textAlign:'center',
+					fontFamily:'Arial',
+					backgroundColor:'rgb(128,98,165)',
+					color:'white',
+					border:'1px solid black',
+					cursor:'default',
+					display:'flex',
+					justifyContent: 'center',
+					alignItems: 'center',
+					boxShadow:'rgb(136, 136, 136) 0px 10px 10px',
+					margin:'10px',
+					borderRadius:'10px'
+				});
+				var txt=document.createElement('div');
+				opn.set(txt.style,{
+					width:'100%'
+				});
+				div.appendChild(txt);
+				txt.innerHTML='<b>'+'New Version Available'+'</b><br><br>'+'As of Feb. 2022, a new version of the shape-from-shading tool is available at: <a href="https://www.digitalepigraphy.org/db/app/sfs">https://www.digitalepigraphy.org/db/app/sfs</a>';
+				var btn=document.createElement('div');
+				opn.set(btn.style,{
+					cursor:'pointer',
+					fontFamily:'Arial',
+					fontWeight:'700',
+					fontSize:'24px',
+					paddingLeft:'10px',
+					paddingRight:'10px',
+					border:'2px solid white',
+					borderRadius:'15px',
+					lineHeight:'normal'
+				});
+				btn.innerHTML="View old website";
+				btn.addEventListener('click',()=>{
+					announcement_div.remove();
+				})
+				div.appendChild(btn);
+				var announcement_div=document.createElement('div');
+		opn.set(announcement_div.style,{
+			position:'absolute',
+			scrollY:'auto',
+			top:'0px',
+			left:'0px',
+			right:'0px',
+			bottom:'0px',
+			backgroundColor:'rgba(0,0,0,0.2)',
+			cursor:'not-allowed',
+			zIndex:'100000'
+		});
+		announcement_div.appendChild(div);
+				document.body.appendChild(announcement_div);
+}
+</script>
+<noscript><br><font color="#FFFFFF" size=6>This web-site requires JavaScript. Please go to the Settings of your browser and enable JavaScript.</font></noscript>
+
+</body></html>

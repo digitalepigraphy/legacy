@@ -1,0 +1,687 @@
+function DEAJob(terminal,job_id)
+{
+	this.terminal=terminal;
+	this.id=null;
+	if(typeof job_id !== 'undefined')
+		this.id=job_id;
+	this.element_id=null;
+	this.dea_files=new Array();
+	this.dropped_on={};
+}
+
+DEAJob.prototype.setId=function(job_id)
+{
+	this.id=job_id;
+}
+
+DEAJob.prototype.uploadNextFile=function()
+{
+	for(var i=0;i<this.dea_files.length;i++)
+	{
+		if(this.dea_files[i] != null && this.dea_files[i].status==1)
+		{
+			this.dea_files[i].status=2;
+			this.terminal.send("NEW:UPLOAD:"+this.id+":"+i+":"+this.dea_files[i].file.size);
+log('New upload: "'+this.dea_files[i].file.name+'"');
+			break;
+		}
+	}
+}
+
+DEAJob.prototype.addFiles=function(files)
+{
+log('Adding ' + files.length + ' file' + (files.length == 1 ? '' : 's') + ' to Job ' + this.element_id + ' (' + (this.id == null ? 'new job' : this.id) + ')');
+	for(var i=0;i<files.length;i++)
+	{
+		var file=new DEAFile(this.terminal,this);
+		file.upload(files[i]);
+		this.dea_files[this.dea_files.length]=file;
+	}
+}
+
+DEAJob.prototype.getFileElementIndexById=function(id)
+{
+	var found=-1;
+	for (var i=0; found==-1 && i<this.dea_files.length; i++)
+	{
+		if (this.dea_files[i] != null && this.dea_files[i].id == id)
+		{
+			found=i;
+		}
+	}
+	return found;
+}
+
+// Tell whether or not a drop zone has been used yet.
+DEAJob.prototype.alreadyDroppedOn=function(dz_idx)
+{
+	var dropped = this.dropped_on[''+dz_idx];
+	if (dropped == null) return false;
+	return dropped;
+}
+
+// Store that a certain drop zone has been dropped on already.
+DEAJob.prototype.setDroppedOn=function(dz_idx)
+{
+	this.dropped_on[''+dz_idx] = true;
+}
+
+// Get a count of non-null files in this job.
+DEAJob.prototype.fileCount=function()
+{
+	var count = 0;
+	for (var i=0; i<this.dea_files.length;i++)
+	{
+		if (this.dea_files[i] != null)
+		{
+			count++;
+		}
+	}
+	return count;
+}
+
+function DEAFile(terminal,job,file_id)
+{
+	this.terminal=terminal;
+	this.job=job;
+	this.id=null;
+	this.file=null;
+	this.status=1;//1:just created for upload and waiting, 2:request uploading and waiting,
+	if(typeof file_id !== 'undefined')
+		this.id=file_id;
+}
+
+DEAFile.prototype.setId=function(file_id,job_index,file_index)
+{
+	this.id=file_id;
+	this.performUploading(job_index,file_index);
+}
+
+DEAFile.prototype.performUploading=function(job_index,file_index)
+{
+	var BLOB_SIZE = 8000;
+	var this_file = this;
+	this.terminal.send("SENDING:"+this.job.id+":"+this.id);
+	var reader = new FileReader();
+	var read=0;
+	var self=this;
+	var id_size=this.id.length;
+	var id_header=new ArrayBuffer(this.id);
+	reader.onload = function(e) {
+		self.terminal.send(e.target.result);
+		if (read < self.file.size)
+		{
+			var blob = self.file.slice(read, read+BLOB_SIZE);
+			read+=BLOB_SIZE;
+			reader.readAsArrayBuffer(blob);
+			var percent_uploaded = (read*100/self.file.size);
+			if (percent_uploaded > 100) {
+				percent_uploaded = 100;
+			}
+log('Uploading "' + self.file.name + '" (' + self.id + '): ' + (percent_uploaded<10 ? ' ' : '') + (percent_uploaded<100 ? ' ' : '') + percent_uploaded.toFixed(1) + '%');
+		}
+		else {
+			// File done uploading. Send message to server to indicate this.
+			self.terminal.send("COMPLETE:UPLOAD:"+this_file.job.id+":"+this_file.id);
+log('Done uploading "'+self.file.name+'".');
+		}
+	};
+	var blob = this.file.slice(0, BLOB_SIZE);
+	read += BLOB_SIZE;
+    reader.readAsArrayBuffer(blob);
+	
+	// Prevent default drag-and-drop behavior for all the other drop zones in this job.
+	for (var f=0; this.terminal.jobs[job_index] != null && f < this.terminal.jobs[job_index].dea_files.length; f++) {
+		var drop_zone = document.getElementById('drop_zone_'+job_index+'_'+f);
+		if (drop_zone != null)
+		{
+			drop_zone.addEventListener('dragover', dragoverEffectNone ,false);
+					
+			drop_zone.addEventListener('drop', dropEffectNone, false);
+		}
+	}
+}
+
+DEAFile.prototype.upload=function(file)
+{
+	this.file=file;
+	this.status=1;
+}
+
+function DEATerminal(user_id)
+{
+	this.user_id=null;
+	if(typeof user_id !== 'undefined')
+		this.user_id=user_id;
+	this.ws=null;
+	this.jobs=new Array();
+	this.addJobEnabled = false;
+	this.port=0;
+}
+
+// Enabled the "Add job" button if and there are no empty jobs displayed
+DEATerminal.prototype.setAddJobEnabled = function()
+{
+	// Check if there are any empty jobs
+	var jobs_container = document.getElementById('jobs_container');
+	var drop_zone_container_array = new Array();
+	var k = 0;
+	for (var i = 0; i < jobs_container.childNodes.length; i++)
+	{
+		var child = jobs_container.childNodes[i];
+		if (child.className.indexOf('drop_zone_container') >= 0)
+		{
+			drop_zone_container_array[k] = child;
+			k++;
+		}
+	}
+	// Assume all drop zone containers have no full drop zones. Then decrement
+	// from this value all drop zone containers that do have full drop zones.
+	var empty_drop_zone_containers = drop_zone_container_array.length;
+	for (var i = 0; i < drop_zone_container_array.length; i++)
+	{
+		var drop_zone_container = drop_zone_container_array[i];
+		for (var j = 0; j < drop_zone_container.childNodes.length; j++)
+		{
+			var drop_zone = drop_zone_container.childNodes[j];
+			if (drop_zone.className.indexOf('full_drop_zone') >= 0)
+			{
+				empty_drop_zone_containers--;
+				break;
+			}
+		}
+	}
+	var enabled = drop_zone_container_array.length == 0 || !(empty_drop_zone_containers > 0);
+	this.addJobEnabled = enabled;
+	var button = document.getElementById('add_job_button');
+	if (enabled) {
+		button.removeAttribute('disabled');
+	}
+	else {
+		var att = document.createAttribute('disabled');
+		button.setAttributeNode(att);
+	}
+}
+
+DEATerminal.prototype.startUI=function()
+{
+	document.getElementById('main').setAttribute('style', 'display:block;');
+	var serverOffline = document.getElementById('server_offline');
+	serverOffline.parentNode.removeChild(serverOffline);
+}
+
+DEATerminal.prototype.showFileDeleted=function(job_idx, file_idx)
+{
+	var drop_zone = document.getElementById('drop_zone_'+job_idx+'_'+file_idx);
+	if (drop_zone != null)
+	{
+		drop_zone.parentNode.removeChild(drop_zone);
+	}
+	this.updateFileCount(job_idx);
+}
+
+DEATerminal.prototype.setCookie=function(c_key, c_value, exp_days)
+{
+	var exp_date = new Date();
+	exp_date.setTime(exp_date.getTime() + (exp_days*24*60*60*1000));
+	var expires = 'expires='+exp_date.toUTCString();
+	document.cookie = c_key + '=' + c_value + '; ' + expires;
+}
+
+DEATerminal.prototype.onopen=function(e)
+{
+	if(this.user_id!=null) this.send("USER:"+this.user_id);
+	else this.send("NEW:USER");
+	this.startUI();
+}
+DEATerminal.prototype.onmessage=function(e)
+{
+	log_blue("Recv: " + e.data);
+	var tokens=e.data.split(":");
+	if(tokens[0]=="SET")
+	{
+		if(tokens[1]=="USER")
+		{
+			this.user_id=tokens[2];
+			// Save user cookie
+			this.setCookie('deaUserID', this.user_id, 14);
+		}
+	}
+	else if(tokens[0]=="NEW")
+	{
+		if(tokens[1]=="JOB")
+		{
+			var job=this.findJobByElementId(tokens[2]);
+			job.setId(tokens[3]);
+			job.uploadNextFile();
+		}
+		else if(tokens[1]=="UPLOAD")
+		{
+			var job=this.findJobById(tokens[2]);
+			var file=job.dea_files[parseInt(tokens[3])];
+			file.setId(tokens[4],job.element_id,tokens[3]);
+		}
+	}
+	else if(tokens[0]=="COMPLETE")
+	{
+		if(tokens[1]=="UPLOAD")
+		{
+			var job=this.findJobById(tokens[2]);
+			// See if any files left in job.
+			var fileElementId=job.getFileElementIndexById(tokens[3]);
+			this.addDropZone(job.element_id, fileElementId+1, true);
+			this.setAddJobEnabled();
+			if (job.dea_files.length > fileElementId+1)
+			{
+				//Upload the next file.
+				job.uploadNextFile();
+			}
+		}
+	}
+	else if(tokens[0]=="FAILED")
+	{
+		if(tokens[1]=="UPLOAD")
+		{
+			var job=this.findJobById(tokens[2]);
+			// See if any files left in job.
+			var fileElementId=job.getFileElementIndexById(tokens[3]);
+			this.addDropZone(job.element_id, fileElementId+1, false);
+			this.setAddJobEnabled();
+			if (job.dea_files.length > fileElementId+1)
+			{
+				//Upload the next file.
+				job.uploadNextFile();
+			}
+		}
+	}
+	else if(tokens[0]=="DELETED")
+	{
+		if(tokens[1]=="FILE")
+		{
+			var job = this.findJobById(tokens[2]);
+			var file_idx = job.getFileElementIndexById(tokens[3]);
+			job.dea_files[file_idx] = null;
+			this.showFileDeleted(job.element_id, file_idx);
+			this.setAddJobEnabled();
+		}
+	}
+}
+DEATerminal.prototype.onclose=function(){}
+DEATerminal.prototype.onerror=function(){}
+
+DEATerminal.prototype.connect=function()
+{
+	var self=this;
+    this.ws = new WebSocket("ws://localhost:"+this.port);
+	//this.ws = new WebSocket("ws://research.dwi.ufl.edu:"+this.port);
+	this.ws.binaryType = "arraybuffer";
+	this.ws.onopen = function(e) {self.onopen(e);};
+    this.ws.onmessage = function(e) {self.onmessage(e);};
+    this.ws.onclose = function() { self.onclose(); self.ws = null;};
+	this.ws.onerror = function() {self.onerror();};
+}
+
+DEATerminal.prototype.send=function(data)
+{
+	if(this.ws!=null)
+	{
+log_red("Send: " + data);
+		this.ws.send(data);
+	}
+}
+
+DEATerminal.prototype.disconnect=function()
+{
+	if(this.ws!=null)
+	{
+		this.ws.close();
+		this.ws=null;
+	}
+}
+
+DEATerminal.prototype.findJobByElementId=function(element_id)
+{
+	var found=-1;
+	for(var i=0;found==-1 && i<this.jobs.length;i++)
+	{
+		if(this.jobs[i] != null && this.jobs[i].element_id==element_id)
+			found=i;
+	}
+	return this.jobs[found];
+}
+
+DEATerminal.prototype.findJobById=function(id)
+{
+	var found=-1;;
+	for(var i=0;found==-1 && i<this.jobs.length;i++)
+	{
+		if(this.jobs[i] != null && this.jobs[i].id==id)
+			found=i;
+	}
+	return this.jobs[found];
+}
+
+DEATerminal.prototype.requestNewJob=function(element_id)
+{
+	var job=new DEAJob(this);
+	job.element_id=element_id;
+	this.jobs[this.jobs.length]=job;
+	this.send("NEW:JOB:"+element_id);
+	return job;
+}
+
+function dragoverEffectCopy (evt, job_idx, file_idx)
+{
+	evt.stopPropagation();
+	evt.preventDefault();
+	evt.dataTransfer.dropEffect = 'copy'; // Explicitly show this is a copy.
+	
+	var drop_zone = document.getElementById('drop_zone_'+job_idx+'_'+file_idx);
+	if (drop_zone != null)
+	{
+		drop_zone.style.backgroundColor = 'rgb(204,255,204)';
+	}
+}
+
+function dragleaveEffectCopy (evt, job_idx, file_idx)
+{
+	var drop_zone = document.getElementById('drop_zone_'+job_idx+'_'+file_idx);
+	if (drop_zone != null)
+	{
+		drop_zone.style.backgroundColor = 'rgb(204,204,204)';
+	}
+}
+
+function dropEffectCopy (evt, self, job_exists, job_idx, drop_zone_idx)
+{
+	evt.stopPropagation();
+	evt.preventDefault();
+	
+	var files = evt.dataTransfer.files;
+	
+	if (files.length == 0) {
+		dragleaveEffectCopy(evt, job_idx, drop_zone_idx);
+	}
+	else if (job_exists) {
+		var job = self.jobs[job_idx];
+		// File upload will only start once per drop - if a box has already
+		// been dropped on, triggering this function will have no effect.
+		if (job != null && !job.alreadyDroppedOn(drop_zone_idx))
+		{
+			job.setDroppedOn(drop_zone_idx);
+			job.addFiles(files);
+			job.uploadNextFile();
+		}
+	}
+	else {
+		var job = self.requestNewJob(job_idx);
+		job.addFiles(files);
+	}
+}
+
+function shortenFilename(filename,length)
+{
+	// Cut off file extension
+	var lastDotIndex = filename.lastIndexOf('.');
+	if (lastDotIndex != -1)
+	{
+		filename = filename.substring(0,lastDotIndex);
+	}
+	if (filename.length <= length)
+	{
+		return filename;
+	}
+	else
+	{
+		return filename.substring(0,length-3) + '...';
+	}
+}
+
+DEATerminal.prototype.updateFileCount=function(job_idx)
+{
+	var job = this.findJobByElementId(job_idx);
+	if (job != null)
+	{
+		var file_count = job.fileCount();
+		var file_count_div = document.getElementById('file_count_'+job_idx);
+		if (file_count == 0)
+		{
+			file_count_div.innerHTML = '';
+		}
+		else if (file_count == 1)
+		{
+			file_count_div.innerHTML = file_count + ' file';
+		}
+		else
+		{
+			file_count_div.innerHTML = file_count + ' files';
+		}
+	}
+}
+
+// New drop zone is created for each file in a job.
+DEATerminal.prototype.addDropZone=function(job_idx, file_idx, last_upload_success)
+{
+	var self=this;
+	var zone_container=document.getElementById('drop_zone_container_' + job_idx);
+	
+	// Check if job has been created yet.
+	var job = this.findJobByElementId(job_idx);
+	var job_exists = job != null;
+
+	if (job_exists)
+	{
+		// Change Drop zone just before this one to show that file is uploaded.
+		var old_file_index = file_idx-1;
+		var last_drop_zone = document.getElementById('drop_zone_' + job_idx + '_' + old_file_index);
+		var old_file = job.dea_files[old_file_index];
+		
+		last_drop_zone.innerHTML =    '<div tabindex="0" id="job_menu_'+job_idx+'" class="action_menu">'
+									+ '<span title="'+old_file.file.name+'">'+shortenFilename(old_file.file.name,11)+'</span>'
+									+ '<ul class="action_menu_content">'
+									+ toActionMenuButton('File Info', 'fileInfo('+job_idx+','+old_file_index+')')
+									+ toActionMenuButton('Delete File', 'deleteFile('+job_idx+','+old_file_index+')')
+									+ '</ul></div>'
+									+ '<br><div id="thumbnail_'+job_idx+'_'+old_file_index+'"></div>'; // TODO Create thumbnail from file info
+		last_drop_zone.style.borderStyle = 'solid';
+		
+		if (last_upload_success)
+		{
+			last_drop_zone.className = last_drop_zone.className.replace(/(?:^|\s)empty_drop_zone(?!\S)/g , '');
+			last_drop_zone.className = last_drop_zone.className.replace(/(?:^|\s)failed_drop_zone(?!\S)/g , '');
+			last_drop_zone.className += ' full_drop_zone';
+			last_drop_zone.style.removeProperty('background-color');
+		}
+		else
+		{
+			last_drop_zone.className = last_drop_zone.className.replace(/(?:^|\s)full_drop_zone(?!\S)/g , '');
+			last_drop_zone.className = last_drop_zone.className.replace(/(?:^|\s)empty_drop_zone(?!\S)/g , '');
+			last_drop_zone.className += ' failed_drop_zone';
+			last_drop_zone.style.removeProperty('background-color');
+			last_drop_zone.innerHTML += "Upload failed.";
+		}
+		
+		if (old_file.file.type.substring(0,5) == 'image')
+		{
+			var thumbnail_img = new Image();
+			thumbnail_img.src = (window.URL || window.webkitURL || window.mozURL).createObjectURL(old_file.file);
+			thumbnail_img.onload = function()
+			{
+				var nat_height = thumbnail_img.naturalHeight;
+				var nat_width = thumbnail_img.naturalWidth;
+				
+				if (nat_height >= nat_width)
+				{
+					thumbnail_img.height = 80;
+					thumbnail_img.width = nat_width * 80 / nat_height;
+				}
+				else
+				{
+					thumbnail_img.width = 80;
+					thumbnail_img.height = nat_height * 80 / nat_width;
+				}
+				
+				var thumbnail_div = document.getElementById('thumbnail_'+job_idx+'_'+old_file_index);
+				if (thumbnail_div != null)
+				{
+					thumbnail_div.appendChild(thumbnail_img);
+				}
+			}
+		}
+	}
+	
+	zone_container.innerHTML+='<div id="drop_zone_'+job_idx+'_'+file_idx+'" class="drop_zone empty_drop_zone"><div class="drop_zone_description">Drop files here.</div></div>';
+	
+	var new_zone=document.getElementById('drop_zone_'+job_idx+'_'+file_idx);
+	new_zone.addEventListener('dragover', function(job_idx,file_idx) { return function(evt) {dragoverEffectCopy(evt,job_idx,file_idx); };} (job_idx,file_idx) , false);
+	new_zone.addEventListener('dragleave', function(job_idx,file_idx) { return function(evt) {dragleaveEffectCopy(evt,job_idx,file_idx); };} (job_idx,file_idx) , false);
+	new_zone.addEventListener('drop', function(self,job_exists,job_idx,file_idx) { return function(evt) {dropEffectCopy(evt,self,job_exists,job_idx,file_idx); };} (self,job_exists,job_idx,file_idx) , false);
+	var is_last_file_in_drop = (job_exists) ? file_idx == job.dea_files.length : true;
+	
+	if (is_last_file_in_drop)
+	{
+		// Add event listeners to last drop zone in each other drop zone container.
+		for (var j = 0; j < this.jobs.length; j++)
+		{
+			if (this.jobs[j] == null)
+			{
+				continue;
+			}
+			var f = this.jobs[j].dea_files.length;
+			var last_zone=document.getElementById('drop_zone_'+j+'_'+f);
+			if (j != job_idx && last_zone != null) // Don't repeat adding a listener for this job.
+			{
+				job_exists = this.findJobByElementId(j) != null;
+				// Don't add a drop copy listener if there is already one in this drop zone
+				last_zone.addEventListener('dragover', function(j,f) { return function(evt) {dragoverEffectCopy(evt,j,f); };} (j,f) , false);
+				last_zone.addEventListener('dragleave', function(j,f) { return function(evt) {dragleaveEffectCopy(evt,j,f); };} (j,f) , false);
+				last_zone.addEventListener('drop', function(self,job_exists,j,f) { return function(evt) {dropEffectCopy(evt,self,job_exists,j,f); };} (self,job_exists,j,f) , false);
+			}
+		}
+	}
+	
+	this.updateFileCount(job_idx);
+}
+
+function toActionMenuButton(actionName, callback)
+{
+	return '<li><div class="action_menu_button" onclick="'+callback+'">'+actionName+'</div></li>'
+}
+
+DEATerminal.prototype.addDropZoneContainer=function()
+{
+	// Create a new drop container for each job.
+	var self = this;
+	var job_idx = this.jobs.length;
+	var jobs_container = document.getElementById('jobs_container');
+	
+	// If the previous job has no files, don't allow the user to create a new job.
+	if (job_idx == 0 || this.addJobEnabled) {
+		jobs_container.innerHTML+=    '<div id="drop_zone_container_'+job_idx+'" class="drop_zone_container">'
+		                            + '<div id="drop_zone_container_header_"'+job_idx+'" class="drop_zone_container_header">'
+									+ '<div tabindex="0" id="job_menu_'+job_idx+'" class="action_menu">Job '+job_idx
+									+ '<ul class="action_menu_content">'
+									+ toActionMenuButton('Delete Job', "deleteJob('"+job_idx+"')")
+									+ '</ul></div>'
+									+ '<div id="file_count_'+job_idx+'" class="file_count"></div>'
+									+ '</div></div>';
+		this.setAddJobEnabled();
+	}
+	// Add a drop zone in this container.
+	this.addDropZone(job_idx, 0, true);
+}
+
+// Display information about the file to the user.
+DEATerminal.prototype.fileInfo=function(job_idx, file_idx)
+{
+	var info = 'File Information\n\n';
+	
+	var job = this.findJobByElementId(job_idx);
+	if (job == null)
+	{
+		info += 'Error: Job not found.';
+	}
+	else
+	{
+		var dea_file = job.dea_files[file_idx];
+		if (dea_file == null)
+		{
+			info += 'Error: File not found.';
+		}
+		else
+		{
+			var file = dea_file.file;
+			
+			var date = file.lastModifiedDate;
+			var hours = date.getUTCHours();
+			var ampm = hours < 12 ? 'am' : 'pm';
+			hours %= 12;
+			if (hours == 0) hours = 12;
+			var minutes = date.getUTCMinutes();
+			if (minutes < 10) minutes = '0' + minutes;
+			var dateStr = date.toDateString() + ' ' + hours + ':' + minutes + ' ' + ampm + ' (UTC)';
+			
+			var size = file.size;
+			var sizeUnit;
+			if (size < 1024)
+			{
+				sizeUnit = 'B';
+			}
+			else if (size < 1024*1024)
+			{
+				size /= 1024;
+				sizeUnit = 'kiB';
+			}
+			else if (size < 1024*1024*1024)
+			{
+				size /= 1024*1024;
+				sizeUnit = 'MiB';
+			}
+			else
+			{
+				size /= 1024*1024*1024;
+				sizeUnit = 'GiB';
+			}
+			size = Math.round(size);
+			var sizeStr = size + ' ' + sizeUnit;
+			
+			info += 'Name: ' + file.name + '\n';
+			info += 'Last modified: ' + dateStr + '\n';
+			info += 'Size: ' + sizeStr + '\n';
+			info += 'Type: ' + file.type;
+		}
+	}
+	
+	window.alert(info);
+}
+
+DEATerminal.prototype.deleteFile=function(job_idx, file_idx)
+{
+	log('Job ' + job_idx + ', File ' + file_idx + ' deleted.');
+	
+	var job = this.findJobByElementId(job_idx);
+	var file = job.dea_files[file_idx];
+	if (file != null)
+	{
+		this.send('DELETE:FILE:'+job.id+':'+file.id);
+	}
+}
+
+DEATerminal.prototype.deleteJob=function(job_idx)
+{
+	if (this.jobs[job_idx] != null)
+	{
+		var job = this.findJobByElementId(job_idx);
+		this.send('DELETE:JOB:'+job.id);
+	}
+		
+	var drop_zone_container = document.getElementById('drop_zone_container_'+job_idx);
+	if (drop_zone_container != null)
+	{
+		drop_zone_container.parentNode.removeChild(drop_zone_container);
+	}
+	this.jobs[job_idx] = null;
+	
+	log('Job ' + job_idx + ' deleted.');
+	this.setAddJobEnabled();
+}

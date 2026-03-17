@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<record>
+	<record_link>
+		<object_id>statue1</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue2</object_id>
+	</record_link>
+		<record_link>
+		<object_id>statue5</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue8</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue6</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue10</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue7</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue3</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue4</object_id>
+	</record_link>
+	<record_link>
+		<object_id>statue9</object_id>
+	</record_link>
+</record>

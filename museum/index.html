@@ -1,0 +1,160 @@
+<html>
+<head>
+<link rel="shortcut icon" href="../img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="museum.css" />
+<title>The DEA Virtual Museum of World Heritage - Digital Epigraphy and Archaeology</title>
+<script>
+function setAlpha(obj_id,val)
+{
+   obj_id.style.opacity=parseInt(val)/100;
+}
+var blocks=new Array();
+var opacities=new Array();
+var anim_now=99;
+function initAnimation()
+{
+  for(var i=0;i<11;i++)
+  {
+	blocks[i]=document.getElementById('block'+(i+1));
+	opacities[i]=0;
+  }
+  opacities[10]=100;
+  animationTimer=setInterval("loopAnimation()",50);
+}
+function loopAnimation()
+{
+  if(anim_now<99)
+  {
+    anim_now+=1;
+    if(anim_now>99) anim_now=99;
+  }
+  else if(anim_now==99)
+  {
+     if(opacities[10]>0) opacities[10]-=2;
+     else
+	{
+		opacities[10]=0;
+		anim_now=100;
+	}
+       setAlpha(blocks[10],opacities[10]);
+  }
+  else if(anim_now==100)
+  {
+  	for(var i=0;i<5;i++)
+  	{
+		if(i==0 || opacities[i-1]>30)
+		{
+			opacities[i]+=2;
+			if(opacities[i]>100)opacities[i]=100;
+			setAlpha(blocks[i],opacities[i]);
+		}
+  	}
+	if(opacities[4]==100)anim_now=101;
+  }
+  else if(anim_now==101)
+  {
+	for(var i=0;i<5;i++)
+  	{
+		if(i==0 || opacities[i-1]<70)
+		{
+			opacities[i]-=2;
+			if(opacities[i]<0)opacities[i]=0;
+			setAlpha(blocks[i],opacities[i]);
+		}
+  	}
+       if(opacities[4]==0)anim_now=102;
+  }
+  else if(anim_now==102)
+  {
+  	for(var i=5;i<10;i++)
+  	{
+		if(i==5 || opacities[i-1]>30)
+		{
+			opacities[i]+=2;
+			if(opacities[i]>100)opacities[i]=100;
+			setAlpha(blocks[i],opacities[i]);
+		}
+  	}
+	if(opacities[9]==100)anim_now=103;
+  }
+  else if(anim_now==103)
+  {
+	for(var i=5;i<10;i++)
+  	{
+		if(i==5 || opacities[i-1]<70)
+		{
+			opacities[i]-=2;
+			if(opacities[i]<0)opacities[i]=0;
+			setAlpha(blocks[i],opacities[i]);
+		}
+  	}
+       if(opacities[9]==0)anim_now=104;
+  }
+  else if(anim_now==104)
+  {
+     if(opacities[10]<100) opacities[10]+=2;
+     else
+	{
+		opacities[10]=100;
+		anim_now=0;
+	}
+       setAlpha(blocks[10],opacities[10]);
+  }
+}
+</script>
+</head>
+<body onload="initAnimation();">
+
+
+
+<div id="globalcontainer">
+       <div id="myheader_container">
+		<div id="myheader_bkg"></div>
+		<div id="myheader">
+           	<div id="mylogo"><img src="museum_logo.png" onclick="parent.location='../museum/';" onMouseover="this.style.cursor='pointer';"></div>
+		<div id="myheader_links_container">
+              	<div id="myheader_upper_links">  
+				<div class="myheader_upper_block"><h4><a href="login.html">Login</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="embed.html">Install</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="contact.html">Contact</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="about.html">About</a></h4></div>
+				<div class="myheader_upper_block"><h4><a href="index.html">Home</a></h4></div>
+			</div>
+			<div id="myheader_lower_links">  
+              		<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div> 			
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>				
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>						
+				<div class="myheader_lower_block"><h3>&nbsp;<a href=""></a>&nbsp;</h3></div>
+			</div>
+              </div>
+       </div>
+       </div>
+       <div id="myhrzone"></div>
+	<div id="maincontainer">
+		<div id="aside6">
+			<div id="block1" class="index_block" style="background-image:url('intro_img6.png');"></div><div id="block2" class="index_block" style="background-image:url('intro_img7.png');"></div><div id="block3" class="index_block" style="background-image:url('intro_img8.png');"></div><div id="block4" class="index_block" style="background-image:url('intro_img9.png');"></div><div id="block5" class="index_block" style="background-image:url('intro_img10.png');"></div>
+			<div id="block11" class="index_center"><center><table width="100%" height="100%"><tr><td valign="center"><center><font color="#FFFFFF" size=8><b>Welcome to our Virtual<br>Interactive 3D Museum</b></font></center></td></tr></table></center></div>
+			<div id="block6" class="index_block" style="background-image:url('intro_img1.png');"></div><div id="block7" class="index_block" style="background-image:url('intro_img2.png');"></div><div id="block8" class="index_block" style="background-image:url('intro_img3.png');"></div><div id="block9" class="index_block" style="background-image:url('intro_img4.png');"></div><div id="block10" class="index_block" style="background-image:url('intro_img5.png');"></div>
+		</div>
+		<div id="vrzone"></div>
+		<div id="textarea_container6">
+		<div class="textarea_block"><font class="nrml">Click here to enter:</font></div>
+		<div class="textarea_block" style="background:rgb(200,50,50);"><center><font class="nrml"><a href="collection.html"><font size=5><b>View Exhibits</b></font></a></font></center></div>
+		<div class="textarea_block_down" style="bottom:0px;">
+		<div class="textarea_block2"><div class="textarea_image" style="background-image:url('dea_icon.png');"></div><div class="textarea_text"><font class="nrml"><a href="../"><font size=4><b>Digital Epigraphy and Archaeology</b></font></a></font></div></div>
+		<div class="textarea_block2"><div class="textarea_image" style="background-image:url('embed_icon.png');"></div><div class="textarea_text"><font class="nrml"><a href="embed.html"><font size=4><b>Embed in HTML</b></font></a></font></div></div>
+		<div class="textarea_block2"><div class="textarea_image" style="background-image:url('ar_icon.png');"></div><div class="textarea_text"><font class="nrml"><a href="augmented_reality.html"><font size=4><b>Augmented Reality Exhibits</b></font></a></font></div></div>
+		<div class="textarea_block2"><div class="textarea_image" style="background-image:url('fb_icon.png');"></div><div class="textarea_text"><font class="nrml"><a href="http://www.facebook.com/groups/digitalepigraphy"><font size=4><b>Join us in Facebook</b></font></a></font></div></div>
+		</div>
+		</div>
+				
+
+	</div>
+	<div id="myfooter"><h5><font style="BACKGROUND-COLOR: #575351" color="#FFFFFF">&nbsp;Digital Worlds Institute &amp; Classics Department, University of Florida, P.O.Box 115810, 101 Norman Gym, Gainesville, FL 32611-5810 USA&nbsp;</font></h5></div>
+</div>
+</body>
+</html>

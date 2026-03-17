@@ -1,0 +1,368 @@
+.nrml
+{
+color:#FFFFFF;
+font-family: "Segoe UI Light","Segoe UI","Segoe WP Light","Segoe WP","Segoe UI Latin Light",HelveticaNeue,Helvetica,Tahoma,ArialUnicodeMS,sans-serif;
+font-weight: 200;
+font-size: 14px;
+line-height: 1em;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 12px;
+padding-right: 0px;
+padding-bottom: 12px;
+letter-spacing: 0px;
+border-top-width: 0px;
+outline-width: 0px;
+vertical-align: baseline;
+background: transparent;
+text-align: left;
+}
+
+.header_text
+{
+color:#FFFFFF;
+font-family: "Segoe UI Light","Segoe UI","Segoe WP Light","Segoe WP","Segoe UI Latin Light",HelveticaNeue,Helvetica,Tahoma,ArialUnicodeMS,sans-serif;
+font-weight: 200;
+font-size: 12px;
+line-height: 1em;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 8px;
+padding-right: 0px;
+padding-bottom: 8px;
+letter-spacing: 0px;
+border-top-width: 0px;
+outline-width: 0px;
+vertical-align: baseline;
+background: transparent;
+text-align: center;
+display: block;
+}
+
+.footer_text
+{
+font-family: "Segoe UI Light","Segoe UI","Segoe WP Light","Segoe WP","Segoe UI Latin Light",HelveticaNeue,Helvetica,Tahoma,ArialUnicodeMS,sans-serif;
+font-weight: 200;
+font-size: 12px;
+line-height: 1em;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 12px;
+padding-right: 0px;
+padding-bottom: 12px;
+letter-spacing: 0px;
+border-top-width: 0px;
+outline-width: 0px;
+vertical-align: baseline;
+background: transparent;
+text-align: center;
+display: block;
+}
+
+.dea_title_font
+{
+color:#FFFFFF;
+font-family: "Segoe UI Light","Segoe UI","Segoe WP Light","Segoe WP","Segoe UI Latin Light",HelveticaNeue,Helvetica,Tahoma,ArialUnicodeMS,sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1em;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+letter-spacing: 0px;
+border-top-width: 0px;
+outline-width: 0px;
+vertical-align: baseline;
+background: transparent;
+text-align: center;
+}
+
+#globalcontainer
+{
+   width:960px;
+   position:relative;
+   margin-top: 14px;
+   margin-right: auto;/*auto for centered*/
+   margin-bottom: 14px;
+   margin-left: auto;
+   background-color: transparent;
+   z-index:0;
+   overflow-x: visible;
+   overflow-y: visible;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   border-top-width: 0px;
+}
+
+#maincontainer
+{
+   width:956px;
+   min-height:566px;
+   position:relative;
+   display: block;
+   margin-top: 0px;
+   padding-top: 2px;
+   padding-left: 2px;
+   padding-bottom: 2px;
+   padding-right: 2px;
+   border-top-width: 0px;
+   outline-width: 0px;
+   vertical-align: baseline;
+   overflow: hidden;
+   background-color: #EEEEEE;
+   background-image: url("digitalepigraphy_tile2.png");  
+}
+
+#maincontainer_info
+{
+   width:956px;
+   min-height:566px;
+   position:relative;
+   display: block;
+   margin-top: 0px;
+   padding-top: 2px;
+   padding-left: 2px;
+   padding-bottom: 2px;
+   padding-right: 2px;
+   border-top-width: 0px;
+   outline-width: 0px;
+   vertical-align: baseline;
+   overflow: hidden; 
+}
+
+.content_column_info
+{
+float: left;
+position: relative;
+display: block;
+margin-right: 5px;
+}
+
+.last_column_info
+{
+float: left;
+position: relative;
+display: block;
+}
+
+.content_block_info
+{
+float: left;
+width: 100%;
+position: relative;
+min-height:20px;
+display: block;
+background:rgb(238,238,238); 
+background:rgba(238,238,238,0.95);
+margin-bottom:10px;
+}
+
+.content_block_info2
+{
+float: left;
+width: 100%;
+position: relative;
+min-height:20px;
+display: block;
+margin-bottom:10px;
+}
+
+.text_block_info
+{
+float: top;
+min-height: 15px;
+display: block;
+position:relative;
+margin-top: 5px;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+h1
+{
+font-family: "Segoe UI Light","Segoe UI","Segoe WP Light","Segoe WP","Segoe UI Latin Light",HelveticaNeue,Helvetica,Tahoma,ArialUnicodeMS,sans-serif;
+font-weight: 200;
+font-size: 36px;
+line-height: 1em;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 38px;
+letter-spacing: -1px;
+border-top-width: 0px;
+outline-width: 0px;
+vertical-align: baseline;
+background: transparent;
+}
+
+p {
+font-family: "Segoe UI Light","Segoe UI","Segoe WP Light","Segoe WP","Segoe UI Latin Light",HelveticaNeue,Helvetica,Tahoma,ArialUnicodeMS,sans-serif;
+}
+
+#myheader_container
+{
+  width: 960px;
+  min-height: 40px;
+  position: relative;
+  background: rgb(0,0,0);
+  background: rgba(0, 0, 0, 0.5);
+}
+
+
+#myheader
+{
+   width:960px;
+   min-height:40px;
+   position: absolute;
+   left:0px;
+   top:0px;
+   z-index: 20;
+}
+
+#myhrzone
+{
+   width:960px;
+   min-height:8px;
+   display: block;
+}
+
+#myfooter
+{
+  display: block;
+}
+
+#mycredits_container
+{
+  width: 956px;
+  padding-top: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  min-height: 100px;
+  position: relative;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#mylogo
+{
+float: left;
+width: 440px;
+min-height: 40px;
+display: block;
+position:relative;
+}
+
+#myheader_links_container
+{
+float: left;
+width: 520px;
+min-height: 40px;
+display: block;
+position:relative;
+}
+
+#myheader_upper_links
+{
+float: top;
+width: 520px;
+min-height: 30px;
+display: block;
+position:relative;
+}
+
+.myheader_upper_block
+{
+float: right;
+min-height: 30px;
+display: block;
+position:relative;
+margin-top: 0px;
+margin-right: 10px;
+margin-bottom: 0px;
+margin-left: 10px;
+}
+
+#aside
+{
+float: left;
+width: 620px;
+min-height: 480px;
+display: block;
+position:relative;
+}
+
+
+#myexhibit
+{
+float: top;
+width: 618px;
+min-height: 400px;
+max-height: 400px;
+display: block;
+position:relative;
+background:rgba(128,0,0,0.9);
+}
+
+#myhrzone2
+{
+float: top;
+width: 618px;
+min-height: 2px;
+display: block;
+position:relative;
+}
+
+#textarea_container
+{
+float: top;
+width: 618px;
+min-height: 164px;
+position:relative;
+}
+
+#search_container
+{
+float: left;
+width: 336px;
+min-height: 566px;
+position:relative;
+}
+
+form
+{
+  margin-bottom: 0px;
+  position: relative;
+}
+
+body
+{
+  background-color: #000000;
+  background-image: url("DEAbkg_dark.png");
+  background-attachment:fixed;
+  min-width: 980px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  border-top-width: 0px;
+  outline-width: 0px;
+  vertical-align: baseline;
+  display: block;
+}
+
+a:link {color:#FFFFFF;}     
+a:visited {color:#FFFFFF;}  
+a:hover {color:#FFFFFF;}  
+a:active {color:#FFFFFF;}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}

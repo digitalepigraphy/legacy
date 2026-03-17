@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com"
+      codebase="http://www.digitalworlds.ufl.edu/angelos/lab/DEA/"
+      href="DEA.jnlp">
+    <information>
+        <title>University of Florida DEA Project</title>
+        <vendor>UFL</vendor>
+        <homepage href="http://www.digitalworlds.ufl.edu"/>
+         <description>University of Florida DEA Project</description>
+        <description kind="short">University of Florida DEA Project</description>
+		<icon href="DEAicon_72.png"/>
+		<icon kind="splash" href="loading.png"/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+    </resources>
+    <resources>
+        <j2se version="1.6+" initial-heap-size="512m" max-heap-size="512m"/>
+        <jar href="DEA.jar" main="true"/>
+        <jar href="http://www.digitalworlds.ufl.edu/angelos/lab/ufdw/ufdw.jar" main="false"/>
+		<extension name="jogl"
+                   href="http://www.digitalworlds.ufl.edu/angelos/lab/jogl/jogl-all-awt.jnlp"/>
+    </resources>
+    <application-desc main-class="edu.ufl.digitalworlds.dea.gui.DEAapp"/>
+</jnlp>

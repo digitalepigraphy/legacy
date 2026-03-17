@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<news>
+<news_item>
+	<id>11</id>
+	<folder>dragons_and_lions_in_a_special_virtual_reality_exhibition</folder>
+	<title>"Touch the exhibits": An innovative VR museum now on-line</title>
+	<outline>Hundreds of visitors experienced a special virtual reality exhibition of dragons and lions using natural user...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Wed, 2 Dec 2015 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>10</id>
+	<folder>inscriptions_revealed_using_sfs_method</folder>
+	<title>Inscriptions revealed using SFS technology</title>
+	<outline>Weathered squeezes from the Aleshire collection at the UC Berkeley were digitized in 3D and revealed inscribed fragments...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Wed, 3 Jun 2015 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>9</id>
+	<folder>computational_archaeology_demonstrated_in_national_roman_museum</folder>
+	<title>Computational Archaeology in Roman statues</title>
+	<outline>Interactive 3D digitization, retrieval, and analysis of ancient sculptures in collaboration with Museo Nationale Romano di Palazzo Altemps in Rome, Italy...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Fri, 20 Feb 2015 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>8</id>
+	<folder>the_estampages_3d_digitization_project_of_greek_inscriptions</folder>
+	<title>Grant supports 3D digitization of estampages</title>
+	<outline>Grant award from the French Ministry of Higher Education will support a 3D digitization project of paper casts of inscriptions from Delphes...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Wed, 15 Oct 2014 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>7</id>
+	<folder>tracing_the_papers_of_abraham_lincoln</folder>
+	<title>3D digitization of Abraham Lincoln's letters</title>
+	<outline>Embossments found on various documents of Abraham Lincoln were digitized in 3D using the Digital Epigraphy Toolbox. The documents include the Gettysburg address...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Mon, 17 Feb 2014 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>6</id>
+	<folder>the_national_archives_3d_digitization_project</folder>
+	<title>The National Archives digitize exhibits in 3D</title>
+	<outline>Several important artifacts from The National Archives [UK] were digitized in 3D using the Digital Epigraphy Toolbox. The 3D digital collection includes wax seals, medals, and coins as well as lace...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Thu, 23 Jan 2014 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>5</id>
+	<folder>inscriptions_teletransferred_and_printed_in_3d</folder>
+	<title>Inscriptions teletransferred and printed in 3D</title>
+	<outline>The DEA team successfully achieved the first tele-transferring and printing of 3D inscriptions. This is an important step towards the electronic dissemination of 3D inscriptions...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Fri, 06 Sep 2013 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>4</id>
+	<folder>virtual_museum_opens_in_london_digital_classicist_seminar</folder>
+	<title>The DEA virtual museum opens in London</title>
+	<outline>The DEA virtual museum of World Heritage opened its electronic gates to the public yesterday during our talk in the Digital Classicist Seminar in London...</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Sat, 13 Jul 2013 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>3</id>
+	<folder>embed_3d_inscriptions_into_your_website</folder>
+	<title>Embed 3D inscriptions into your web-site</title>
+	<outline>The DEA group presents the first HTML5 embeddable 3D epigraphic viewer. Now you can easily create your own collection of 3D artifacts in your web-site or database...</outline>
+	<pubDate>Mon, 03 Jun 2013 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>2</id>
+	<folder>augmented_reality_museum_exhibit_art_in_engineering</folder>
+	<title>Augmented Reality museum exhibit</title>
+	<outline>The DEA group showcased their innovative Augmented Reality Exhibit at the HARN Museum of Art to a large and enthusiastic audience....</outline>
+	<icon>thumb.png</icon>
+	<pubDate>Thu, 13 May 2011 12:00:00 +0000</pubDate>
+</news_item>
+<news_item>
+	<id>1</id>
+	<folder>neh_funds_the_digital_epigraphy_project</folder>
+	<title>NEH funds the Digital Epigraphy toolbox</title>
+	<outline>The award from the Office of Digital Humanities in the National Endowmnent for the Humanities will fund a collaborative research initiative for the 3D digitization of ancient inscriptions...</outline>
+	<pubDate>Sun, 10 Apr 2011 12:00:00 +0000</pubDate>
+</news_item>
+</news>

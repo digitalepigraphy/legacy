@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<articles>
+<article><id>12</id>
+	<author>A. Barmpoutis, E. Bozia and R. S. Wagman</author>
+	<title>Application of 3D Technologies for the Analysis of Ancient Inscriptions</title>
+	<journal>In Proceedings of CIEGL07: 13th International Congress of Greek and Latin Epigraphy, Oxford</journal>
+	<urlvenue>http://ciegl.classics.ox.ac.uk</urlvenue>
+	<month>2 - 7 Sep</month>
+	<volume></volume>
+	<number></number>
+	<year>2007</year>
+	<pages></pages>
+	<urlpdf></urlpdf>
+	<abstract>In this paper we propose a novel method for 3D reconstruction of inscriptions using a
+shape-from-shading technique and for statistical analysis of their reconstructed surfaces using images of scanned squeezes.
+The squeeze is scanned twice from two different directions. Using the shading information a 3D model of the original 
+surface is reconstructed and parametrized as a height map. This map is automatically segmented into smaller regions 
+containing single letters, which are divided into groups of same characters and are further employed for a statistical 
+analysis of the inscribed letters. The results can be used for studying the variations of the lettering techniques 
+within a set of inscriptions.We have applied our framework to five inscribed fragments from the archaeological site of 
+Epidauros, containing religious hymns for Asclepius and other deities (IG IV I 2, 129-135; SEG 30, 390 = Robert Wagman, 
+Inni di Epidauro, 1995). Although found in different locations, these inscriptions show close affinities in content 
+(sacred poetry), material (red local limestone) and writing (uncial lettering of the third century CE).
+The 3D reconstruction of the letterforms provides us with definite proof that all of them came from the same 
+monument, possibly an inscribed wall from one of the buildings in the sanctuary's main area. A closer 
+observation of the results reveals even some minor groups of letters with similar construction, which 
+validates the accuracy of the proposed method. The advantages of 3D reconstruction in epigraphical research 
+are especially obvious in the case of badly weathered or damaged inscribed surfaces, where the lettering is 
+difficult to discern with the naked eye. A demo of this method can be found in: <a href="http://plaza.ufl.edu/bozia/epigraphy">
+http://plaza.ufl.edu/bozia/epigraphy</a></abstract>
+	<selected></selected>
+	<image>paper20.jpg</image>
+	<type>a</type>
+	<area>dh</area>
+</article>
+<article><id>29</id>
+	<author>E. Bozia, A. Barmpoutis, R. S. Wagman</author>
+	<title>An Efficient Method for Digitizing Squeezes and Performing Automated Epigraphic Analysis.</title>
+	<journal>140th Annual Meeting of the American Philological Association - American Institute of Archaeology</journal>
+	<urlvenue>http://apaclassics.org/index.php/annual_meeting/past_annual_meetings/january_8-11_2009_140th_annual_meeting_philadelphia_pa/</urlvenue>
+	<month>January 8-11</month>
+	<volume></volume>
+	<number></number>
+	<year>2009</year>
+	<pages></pages>
+	<urlpdf></urlpdf>
+	<abstract></abstract>
+	<selected></selected>
+	<image>paper1.jpg</image>
+	<type>a</type>
+	<area>dh</area>
+</article>
+<article><id>30</id>
+	<author>A. Barmpoutis, E. Bozia, R. S. Wagman</author>
+	<title>A novel framework for 3D reconstruction and analysis of ancient inscriptions</title>
+	<journal>Journal of Machine Vision and Applications</journal>
+	<urlvenue>http://www.springer.com/computer/computer+imaging/journal/138</urlvenue>
+	<month></month>
+	<volume>21</volume>
+	<number>6</number>
+	<year>2010</year>
+	<pages>989-998</pages>
+	<urlpdf>barmpoutis_mva10.pdf</urlpdf>
+	<abstract>Studying ancient inscriptions is based up to date mostly on observation and manual analysis by means of 
+which epigraphists attempt to establish a  geographical and chronological classification as well as to analyze the lettering techniques.
+ In this paper we propose a novel  framework for efficient 3D reconstruction of inscriptions and for statistical analysis of their 
+reconstructed surfaces. The  proposed framework employs a shape-from-shading technique to reconstruct in 3D the shape of the inscribed surfaces.
+ The  obtained surfaces are segmented into smaller box-shaped regions containing single  letters.  These letters are classified into groups
+ of same characters or symbols and then an atlas (average) letter shape is created for each character. For the construction of those atlases 
+we  employ a functional minimization method that registers the surfaces of same letters to the unknown average surface, which is also estimated
+ simultaneously. Using the estimated atlases an automated analysis of the inscribed  letters is performed. This framework can be effectively 
+used for the study of the variations of the lettering techniques within an inscription or a set of  inscriptions. We applied our framework to 
+five ancient Greek inscriptions. Our results are reported in detail and the variations found  in lettering techniques are commented on by 
+archaeologists who also validate the accuracy of our proposed method.<br/><br/>A demo of this method can be found in: <a href="http://www.digitalepigraphy.org">www.digitalepigraphy.org</a></abstract>
+	<selected></selected>
+	<image>paper20.jpg</image>
+	<type>j</type>
+	<area>dh</area>
+</article>
+<article><id>41</id>
+	<author>E. Bozia, A. Barmpoutis,  and R. S. Wagman</author>
+	<title>The First Online 3D Epigraphic Library</title>
+	<journal>In Proceedings of CIEGL12: 14th International Congress of Greek and Latin Epigraphy, Humboldt University, Berlin</journal>
+	<urlvenue>http://www.congressus2012.de/</urlvenue>
+	<month>27 - 31 Aug</month>
+	<volume></volume>
+	<number></number>
+	<year>2012</year>
+	<pages></pages>
+	<urlpdf>barmpoutis_ciegl12.pdf</urlpdf>
+	<abstract>In our presentation we intend to introduce the Digital Epigraphy Toolbox which is a crossplatform web-application designed to facilitate the digital preservation, study, and electronic 
+dissemination of ancient inscriptions1. It allows epigraphists to digitize in 3D their epigraphic 
+squeezes using our novel cost-effective technique, which overcomes the limitations of the 
+current methods for digitizing epigraphic data in 2-dimensions only. Our toolbox contains 
+several options for 3D visualization of inscriptions, as well as a set of scientific tools for 
+analyzing the lettering techniques and performing quantitative analysis of the letterform 
+variations. Furthermore, the users have the option to share their data, as well as search 
+other uploaded collections of 3D inscriptions in a semi-supervised dynamic library. This 
+dynamic library is organized thematically according to language, area of origin, and date and 
+contains a comprehensive record of the inscription in the form of plain text, 3D model, 2D 
+photographs, and other epigraphic information.</abstract>
+	<selected></selected>
+	<image>paper40.jpg</image>
+	<type>a</type>
+	<area>dh</area>
+</article>
+<article><id>42</id>
+	<author>A. Barmpoutis</author>
+	<title>A novel Augmented-Reality Educational System for Classical Drama 
+using RGB-D</title>
+	<journal>10th Annual Meeting, International Digital Media and Arts Association</journal>
+	<urlvenue>http://www.idmaa.org/</urlvenue>
+	<month>November 8-10</month>
+	<volume></volume>
+	<number></number>
+	<year>2012</year>
+	<pages></pages>
+	<urlpdf></urlpdf>
+	<abstract>Depth cameras have been used widely as low-cost computer peripheral devices for various applications related to virtual-reality interaction by tracking and utilizing the natural motion of the users. The acquired depth information can be mapped to RGB video data, producing a sequence of 3D video frames (known as RGB-D) that can be used in mixed- or augmented-reality applications. 
+In this paper a novel system is presented for facilitating the study of classical drama and potentially other forms of literature in which the spatiotemporal interactions of the portrayed characters play significant role in the study of the original text. In the particular case of classical Greek and Roman drama there is evidence regarding the number of actors and dancers (chorus), their gender restrictions, the theater in which it was originally performed, the structure of the theater (type, size, auxiliary rooms available, etc.), as well as information about costumes and mechanical devices used during the performances. Questions such as "how many dancers in circular arrangement can fit on the stage of the theater of Dionysus in Athens?", "what are the possible arrangements of the chorus on a rectangular stage?", "how much time does it take to walk from the center of the stage to the back stage in the theater of Epidaurus?", "what would be the appropriate size of props, costume accessories, and other machinery so as to be visible to everyone in the audience, including people in the back rows?" cannot be easily answered by the traditional teaching methodologies in the humanities. The proposed system offers a novel tool in the area of digital humanities that helps students and researchers answer such questions and understand the circumstances of performance and ultimately interpret the text through an experiential learning environment.
+</abstract>
+	<selected></selected>
+	<image>paper39.jpg</image>
+	<type>a</type>
+	<area>dh</area>
+</article>
+<article><id>60</id>
+	<author>R. Gallen, D. Eastop, E. Bozia, and A. Barmpoutis</author>
+	<title>Digital imaging: the application of shape-from-shading to lace, seals and metal objects</title>
+	<journal>Journal of the Institute of Conservation</journal>
+	<urlvenue>http://dx.doi.org/10.1080/19455224.2014.999004</urlvenue>
+	<month></month>
+	<volume>38</volume>
+	<number>1</number>
+	<year>2015</year>
+	<pages>41-53</pages>
+	<urlpdf>http://www.tandfonline.com/eprint/KNTbk33ku7PzYWPKbTcr/full</urlpdf>
+	<abstract>This article explores one application of a digital imaging technique to historic objects and online delivery of the virtual object. Shape-from-shading is a computer algorithm used to reconstruct three-dimensional shapes from two-dimensional images. The Digital Epigraphy and Archaeology (DEA) project used shape-from-shading to develop a digital website and toolbox to enhance computer-assisted examination of inscriptions preserved as ektypa. This article reports the results of a project to see if the DEA website and toolbox could be used with other materials and objects with information-rich textured surfaces. Seventeen samples were tested, including lace-like textiles placed on different backing materials; wax seal impressions made from a range of materials; and excavated metals. It was found that image capture with a flatbed scanner achieved better results than a multi-functional printer, and that the unprocessed flatbed scan images were sometimes more informative than digital photographs. It was possible to modify the DEA algorithm for both the lace-like samples and the seal impressions to obtain good three-dimensional (3D) reconstructed images. However, this was not possible with the metal samples due to the nature of the material. The 3D reconstructed images are useful to online users in providing an interactive resource that can be manipulated by the user, rather than a two-dimensional (2D) image.</abstract>
+	<selected></selected>
+	<image>paper60.jpg</image>
+	<type>j</type>
+	<area>dh</area>
+</article>
+<article><id>47</id>
+	<author>E. Bozia, A. Barmpoutis, and R. S. Wagman</author>
+	<title>Open-Access Epigraphy: Electronic Dissemination of 3D digitized Archaeological Material</title>
+	<journal>In Proceedings of the International Conference on Information Technologies for Epigraphy and Digital Cultural Heritage in the Ancient World (EAGLE 2014)</journal>
+	<urlvenue>http://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf</urlvenue>
+	<month>29-30 September and 1 October</month>
+	<volume></volume>
+	<number></number>
+	<year>2014</year>
+	<pages>421-435</pages>
+	<urlpdf>barmpoutis_eagle14.pdf</urlpdf>
+	<abstract>Preservation and dissemination of archaeological material has always been an issue of concern for the academic research community. On the one hand, the fragility of the material limits their study. On the other hand, such material is housed in museums, libraries, and institutions worldwide, something that significantly thwarts their accessibility. Technology, high resolution 2D pictures, and electronic databases have attempted to overcome the aforementioned limitations. However, lack of contact with the physical object as a tridimensional structure still significantly obstructs research. In this paper we present the latest advances of the Digital Epigraphy Toolbox, a novel project that focuses on the digitization in 3D of ancient inscriptions from ektypa, the multi-modal visualization of their 3D models, the facilitation of interlinked 3D digitized records, and the easy and effective electronic dissemination of archaeological material. This project offers options for cost-effective shape-from-shading 3D digitization of ektypa, using a flatbed scanner, and various visualization modes, such as photorealistic 3D views and informative fingerprint map and depth map that assist scholars understand the structural characteristics of the artifacts. Finally, the project facilitates the dissemination of the 3D digitized objects by providing the users with an embeddable 3D viewer which can be easily imported in third-party databases, collections, and personal websites.</abstract>
+	<selected></selected>
+	<image>paper40.jpg</image>
+	<type>c</type>
+	<area>dh</area>
+</article>
+<article><id>66</id>
+	<author>A. Barmpoutis, E. Bozia, and D. Fortuna</author>
+	<title>Interactive 3D digitization, retrieval, and analysis of ancient sculptures, using infrared depth sensors for mobile devices</title>
+	<journal>Lecture Notes in Computer Science (Springer). Universal Access in Human-Computer Interaction. Access to the Human Environment and Culture.</journal>
+	<urlvenue>http://2015.hci.international/</urlvenue>
+	<month>2-7 August</month>
+	<volume>9178</volume>
+	<number>Part IV</number>
+	<year>2015</year>
+	<pages>3-11</pages>
+	<urlpdf>barmpoutis_hcii15.pdf</urlpdf>
+	<abstract>In this paper a novel framework is presented for interactive feature-based retrieval and visualization of human statues, using depth sensors for mobile devices. A skeletal model is fitted to the depth image of a statue or human body in general and is used as a feature vector that captures the pose variations in a given collection of skeleton data. A scale- and twist- invariant distance function is defined in the feature space and is employed in a topology-preserving low-dimensional lattice mapping framework. The user can interact with this self-organizing map by submitting queries in the form of a skeleton from a statue or a human body. The proposed methods are demonstrated in a real dataset of 3D digitized Graeco-Roman statues from Palazzo Altemps.</abstract>
+	<selected></selected>
+	<image>paper62.jpg</image>
+	<type>c</type>
+	<area>dh</area>
+</article>
+</articles>
