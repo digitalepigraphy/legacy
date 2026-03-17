@@ -190,7 +190,7 @@ DigitalEpigraphyToolbox.prototype.showMain=function(first_record)
 		if(typeof v['keyword'] !== 'undefined') 
 		k='keyword='+v['keyword']+'&';
 	}
-	document.write('<div style="display:block;position:relative;float:top;min-height:40px;width:100%;" id="search_toolbar"></div><div style="-webkit-overflow-scrolling:touch;overflow:scroll;overflow-x:hidden;width:336px;height:'+h+'px;" id="searchframe_container"><iframe id="searchframe" src="https://digitalepigraphy.github.io/legacy/toolbox/search.html?'+k+'collection='+f+'" frameborder="0" width="336px" height="'+(h-5)+'px"></iframe></div></div></div>');
+	document.write('<div style="display:block;position:relative;float:top;min-height:40px;width:100%;" id="search_toolbar"></div><div style="-webkit-overflow-scrolling:touch;overflow:scroll;overflow-x:hidden;width:336px;height:'+h+'px;" id="searchframe_container"><iframe id="searchframe" src="search.html?'+k+'collection='+f+'" frameborder="0" width="336px" height="'+(h-5)+'px"></iframe></div></div></div>');
 }
 
 DigitalEpigraphyToolbox.prototype.showFooter=function()

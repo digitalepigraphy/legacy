@@ -1,39 +1,3 @@
-<?php
-	require("../function_post_headers.php");
-	post_headers();  
-?>
-
-<?php
-	require("../dea_mysql_config.php");
-	require("../function_create_cookieid.php");
-	
-	function getRealIpAddr()
-	{
-    		if (!empty($_SERVER['HTTP_CLIENT_IP'])) {   //check ip from share internet
-	      		$ip=$_SERVER['HTTP_CLIENT_IP'];
-    		}elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {  //to check ip is pass from proxy
-      			$ip=$_SERVER['HTTP_X_FORWARDED_FOR'];
-    		}else {
-      			$ip=$_SERVER['REMOTE_ADDR'];
-    		}
-    		return $ip;
-	}
-	
-    $deaUserID='';
-	if(isset($_COOKIE['deaUserID'])) $deaUserID=$_COOKIE['deaUserID'];
-	else
-	{
-		// Connect to mySQL
-		/*$link = mysqli_connect(mysql_myhost(), mysql_myusername(), mysql_mypassword(), mysql_mydb()) or die('Could not connect: ' . mysqli_error($link));
-		$ip=getRealIpAddr();
-		$deaUserID=create_cookieid($link,$ip);
-		$Month = 2592000*120 + time();
-		setcookie('deaUserID', $deaUserID, $Month);
-		// Closing connection
-		mysqli_close($link);*/
-	}
-?>
-
 <html><head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 <link rel="stylesheet" type="text/css" href="results.css" />
 <script type="text/javascript" src="../js/dea-db-2.5.js"></script>
@@ -43,70 +7,7 @@ var keywords=[];
 var collection="";
 var header_text="";
 var header_text_dummy="";
-<?php
 
-$kwrd="";
-
-if(isset($_POST['keyword'])) {$kwrd=$_POST['keyword'];$keywords=explode(' ',$kwrd);}
-else if(isset($_GET['keyword'])) {$kwrd=$_GET['keyword'];$keywords=explode(' ',$kwrd);}
-else $keywords[0]="";
-
-if(isset($_POST['collection'])) $collection=$_POST['collection'];
-else if(isset($_GET['collection'])) $collection=$_GET['collection'];
-else $collection="";
-if($collection=="null" || $collection==null) $collection="";
-
-echo 'collection="'.$collection.'";'."\n";
-
-if(count($keywords)>0 && strlen($keywords[0])>0)
-{
-	$DATE=date('Y/m/d H:i:s');
-	$ip=$_SERVER[REMOTE_ADDR];
-	$hostname=gethostbyaddr($ip);
-	
-	$handler=fopen("search_stats.txt","a");
-	fwrite($handler,''.$DATE."\t".$ip."\t".$hostname."\t".$deaUserID."\t".$kwrd."\t".$_SERVER['HTTP_USER_AGENT']."\n");
-	fclose($handler);
-
-// Connect to mySQL
-$link = mysqli_connect(mysql_myhost(), mysql_myusername(), mysql_mypassword(), mysql_mydb()) or die('Could not connect: ' . mysqli_error($link));
-
-if(strlen($collection)==0)//DEA
-	$query="select count(dea_keyword_index.record_id), dea_keyword_index.record_id from dea_keyword_index,dea_keywords where (";
-else $query="select count(dea_keyword_index.record_id), dea_keyword_index.record_id from dea_keyword_index,dea_keywords,dea_collections,dea_collection_index where dea_collection_index.record_id=dea_keyword_index.record_id and dea_collections.id=dea_collection_index.collection_id and dea_collections.folder='".$collection."' and (";
-
-$boolean_operator="or";
-if(isset($_COOKIE['deaSettingSearchKeywords'])){if($_COOKIE['deaSettingSearchKeywords']=='and')$boolean_operator="and";} 
-
-$num_of_keywords=count($keywords);
-for($i=0;$i<$num_of_keywords;$i++)
-{
-	$query.="dea_keywords.keyword like '%".$keywords[$i]."%' ";
-	if($i<$num_of_keywords-1) $query.="or ";
-	if(strlen($keywords[$i])>0)echo 'keywords['.$i.']="'.$keywords[$i].'";'."\n";
-}
-$query.=") and dea_keyword_index.keyword_id=dea_keywords.id group by dea_keyword_index.record_id order by count(dea_keyword_index.record_id) desc";
-
-$result=$link->query($query);
-while($row=$result->fetch_array(MYSQLI_NUM))
-{ 
-	if($boolean_operator=="or" || intval($row[0])>=$num_of_keywords)
-	{
-	$prefix=substr($row[1], 0,3);
-	if($prefix=='obj')
-		echo 'records[records.length]=new DEArecord("objects","'.substr($row[1], 3).'");'."\n";
-	if($prefix=='hmp')
-		echo 'records[records.length]=new DEArecord("heightmaps","'.substr($row[1], 3).'");'."\n";
-	}
-}
-mysqli_free_result($result);
-
-// Closing connection
-mysqli_close($link);
-}
-else	//show featured
-{}
-?>
 
 function loadList(pathname)
 {
@@ -258,19 +159,26 @@ function onShowFilter()
 <body onload="onBodyLoad();" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
 <div id="result_container">
 <script type="text/javascript">
-<?php
-if(count($keywords)>0 && strlen($keywords[0])>0)
-{}
-else	//show featured
-{
-	$path='collection/';
-	if(strlen($collection)==0)//DEA
-		$path.='featured.xml';
-	else
-		$path.=$collection.'/featured.xml';
-	echo 'loadList("'.$path.'");';
+
+const params = new URLSearchParams(window.location.search);
+
+collection = params.get('collection') || "";
+
+// normalize
+if (collection === "null" || collection === null) {
+    collection = "";
 }
-?>
+
+let path = "collection/";
+
+if (!collection || collection.length === 0) {
+    path += "featured.xml";
+} else {
+    path += collection + "/featured.xml";
+}
+
+loadList(path);
+
 if(records.length==0)
 {
 	header_text+='<font class="nrml"><i>No records found.</i></font>';
