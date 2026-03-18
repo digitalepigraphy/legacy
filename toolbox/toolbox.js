@@ -259,7 +259,7 @@ function onShowCollections()
 function onShowMyEdits()
 {
 	document.getElementById("searchframe").height="0px";
-	document.getElementById("searchframe").src="myedits.php";
+	document.getElementById("searchframe").src="https://digitalepigraphy.github.io/legacy/toolbox/myedits.php";
 	document.getElementById("searchframe_container").scrollTop=0;
 	return false;
 }
@@ -267,7 +267,7 @@ function onShowMyEdits()
 function onShowSettings()
 {
 	document.getElementById("searchframe").height="0px";
-	document.getElementById("searchframe").src="settings.html";
+	document.getElementById("searchframe").src="https://digitalepigraphy.github.io/legacy/toolbox/settings.html";
 	document.getElementById("searchframe_container").scrollTop=0;
 	return false;
 }
