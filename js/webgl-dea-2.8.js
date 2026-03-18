@@ -3603,7 +3603,7 @@ DEAtoolbox.prototype.setup=function()
 			var id=tokens.pop().split(".")[0];
 			var path=tokens.pop();
 			path=path.substr(0,path.length-1);
-			download_button.setLink("http://digitalepigraphy.guthub.io/legacy/download?"+path+"="+id);
+			download_button.setLink("http://digitalepigraphy.github.io/legacy/download?"+path+"="+id);
 		}
 		download_button.setMessage("  Download object  ",this.messages);
 		this.download_button=download_button;
