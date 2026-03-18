@@ -52,6 +52,5 @@
 		<folder>altemps</folder>
 		<description>A collection of digitized statues from Palazzo Altemps.</description>
 		<featured>object=statue1</featured>
-		<hidden>true</hidden>
 	</collection>
 </collections>
