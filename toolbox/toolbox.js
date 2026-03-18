@@ -113,11 +113,11 @@ function receiveMessage(evt)
     var s=evt.data.substring(0,4);
     if(s=="view" || s=="both")
 	{
-	    document.getElementById("viewframe").src="../view.html?"+evt.data.substring(5)+"&ref="+toolbox_root;
+	    document.getElementById("viewframe").src="https://digitalepigraphy.github.io/legacy/view.html?"+evt.data.substring(5)+"&ref="+toolbox_root;
 		document.body.scrollTop = document.documentElement.scrollTop = 0;
 	}
     if(s=="read" || s=="both")
-	    document.getElementById("readframe").src="../read.html?"+evt.data.substring(5);
+	    document.getElementById("readframe").src="https://digitalepigraphy.github.io/legacy/read.html?"+evt.data.substring(5);
 	if(s=="resh")
 	{
 		document.getElementById("searchframe").height=evt.data.substring(5)+"px";
