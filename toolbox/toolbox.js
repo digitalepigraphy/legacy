@@ -251,7 +251,7 @@ function onShowSearch()
 function onShowCollections()
 {
 	document.getElementById("searchframe").height="0px";
-	document.getElementById("searchframe").src="collections.html";
+	document.getElementById("searchframe").src="https://digitalepigraphy.github.io/legacy/toolbox/collections.html";
 	document.getElementById("searchframe_container").scrollTop=0;
 	return false;
 }
