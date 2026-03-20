@@ -3359,7 +3359,7 @@ DEAtoolbox.prototype.setup=function()
 		var fullscreen_button=new DEAbutton(this.gl_canvas,6,7,num_of_rows,0, 5/8, 7/8, 1/8, 1/8);
 		if(this.dea_record.path=="objects")
 			fullscreen_button.setLink("https://digitalepigraphy.github.io/legacy/viewfull?object="+this.dea_record.id);
-		else fullscreen_button.setLink("https://digitalepigraphy.guthub.io/legacy/viewfull?heightmap="+this.dea_record.id);
+		else fullscreen_button.setLink("https://digitalepigraphy.github.io/legacy/viewfull?heightmap="+this.dea_record.id);
 			fullscreen_button.setMessage("  Full screen and toolbox with more options ",this.messages);
 			if(this.fullscreen) fullscreen_button.enabled=false;
 		this.fullscreen_button=fullscreen_button;
